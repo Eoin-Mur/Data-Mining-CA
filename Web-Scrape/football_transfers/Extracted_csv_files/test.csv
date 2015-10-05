@@ -1,0 +1,1299 @@
+transferType,text,year,season,player,rowId,team,owner,transferTypeId
+arrival," , (,, L.) - 13 Marc 2007",2006,4,Antwi,1,Liverpool B,Accrington Stanley,1
+arrival," , (,, L.) - 23 Febr 2007",2006,4,Martin,1,Liverpool B,Accrington Stanley,1
+arrival," , (,) - 31 Janu 2007",2006,4,Kazimierczak,1,Bolton,Accrington Stanley,1
+arrival," , (,, L.) - 31 Janu 2007",2006,4,Fleetwood,1,Hereford,Accrington Stanley,1
+arrival," , (,, 0 €) - 31 Janu 2007",2006,4,Grant,1,Crewe,Accrington Stanley,1
+arrival," , (,, 0 €) - 22 Janu 2007",2006,4,Mauro Almeida,1,Vihren,Accrington Stanley,1
+arrival," , (,, L.) - 15 Janu 2007",2006,4,McGrail,1,Preston NE,Accrington Stanley,1
+arrival," , (,, B.L.) - 09 Janu 2007",2006,4,Craney,1,Swansea,Accrington Stanley,1
+arrival," , (,, 0 €) - 03 Janu 2007",2006,4,Rogers,1,,Accrington Stanley,1
+arrival," , (,, B.L.) - 02 Janu 2007",2006,4,Doherty,1,Southport,Accrington Stanley,1
+arrival," , (,, B.L.) - 31 Dece 2006",2006,4,Roberts,1,Ipswich Town,Accrington Stanley,1
+arrival," , (,, B.L.) - 23 Dece 2006",2006,4,Bains,1,Leek Town,Accrington Stanley,1
+arrival," , (,, B.L.) - 17 Dece 2006",2006,4,Brown,1,Burton Albion,Accrington Stanley,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Dugdale,1,Crewe,Accrington Stanley,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Mannix,1,Liverpool B,Accrington Stanley,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,McDonald,1,Cardiff City,Accrington Stanley,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Jacobson,1,Cardiff City,Accrington Stanley,1
+arrival," , (,, B.L.) - 10 Nove 2006",2006,4,Ventre,1,Southport,Accrington Stanley,1
+arrival," , (,, 0 €) - 09 Nove 2006",2006,4,McGivern,1,Vauxhall,Accrington Stanley,1
+arrival," , (,, B.L.) - 01 Octo 2006",2006,4,Foyle,1,Belper Town,Accrington Stanley,1
+arrival," , (,, L.) - 02 Augu 2006",2006,4,Elliot,1,Charlton B,Accrington Stanley,1
+arrival," , (,, 14 k€) - 01 Augu 2006",2006,4,Todd,1,Burton Albion,Accrington Stanley,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Whalley,1,Witton Albion,Accrington Stanley,1
+arrival," , (,, 0 €) - 26 July 2006",2006,4,Harris,1,,Accrington Stanley,1
+arrival," , (,, 0 €) - 26 July 2006",2006,4,Dunbavin,1,,Accrington Stanley,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Byrom,1,Blackburn B,Accrington Stanley,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Turner,1,Burnley B,Accrington Stanley,1
+arrival," , (,) - 01 July 2006",2006,4,Grant,1,,Accrington Stanley,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Edwards,1,Wigan B,Accrington Stanley,1
+arrival," , (,) - 01 July 2006",2006,4,N'Da,1,Rouen,Accrington Stanley,1
+departure," ,) - 31 Marc 2007",2006,4,Kazimierczak,1,Bolton,,2
+departure," ,, B.L.) - 28 Febr 2007",2006,4,Fleetwood,1,Hereford,,2
+departure," ,, B.L.) - 15 Febr 2007",2006,4,McGrail,1,Preston NE,,2
+departure," ,, B.L.) - 21 Janu 2007",2006,4,Elliot,1,Charlton B,,2
+departure," ,, B.L.) - 16 Janu 2007",2006,4,Jacobson,1,Cardiff City,,2
+departure," ,, 0 €) - 15 Janu 2007",2006,4,Bains,1,Tamworth,,2
+departure," ,, 0 €) - 15 Janu 2007",2006,4,Byrom,1,Hyde,,2
+departure," ,, 210 k€) - 10 Janu 2007",2006,4,Craney,1,Swansea,,2
+departure," ,) - 31 Dece 2006",2006,4,Roberts,1,Ipswich Town,,2
+departure," ,, B.L.) - 23 Dece 2006",2006,4,Dugdale,1,Crewe,,2
+departure," ,, B.L.) - 23 Dece 2006",2006,4,Mannix,1,Liverpool B,,2
+departure," ,, B.L.) - 23 Dece 2006",2006,4,McDonald,1,Cardiff City,,2
+departure," ,, L.) - 22 Nove 2006",2006,4,Doherty,1,Southport,,2
+departure," ,, L.) - 16 Nove 2006",2006,4,Brown,1,Burton Albion,,2
+departure," ,, 0 €) - 01 Nove 2006",2006,4,Foyle,1,Buxton,,2
+departure," ,, L.) - 10 Octo 2006",2006,4,Ventre,1,Southport,,2
+departure," ,, 0 €) - 08 July 2006",2006,4,Jagielka,1,Droylsden,,2
+departure," ,, 0 €) - 03 July 2006",2006,4,Boyd,1,Southport,,2
+departure," ,) - 01 July 2006",2006,4,Dibble,1,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,O'Neill,1,Radcliffe Borough,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Jones,1,,,2
+departure," ,, 0 €) - 01 June 2006",2006,4,Cook,1,,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Smyth,1,Vauxhall Motors,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Alcock,1,,,2
+arrival," , (,, 0 €) - 31 Janu 2007",2006,4,Lewis,2,Tottenham B,Barnet,1
+arrival," , (,, L.) - 30 Janu 2007",2006,4,Burch,2,Tottenham B,Barnet,1
+arrival," , (,, 0 €) - 22 Janu 2007",2006,4,Allen,2,Birmingham,Barnet,1
+arrival," , (,, 0 €) - 05 Janu 2007",2006,4,Birchall,2,Mansfield,Barnet,1
+arrival," , (,, B.L.) - 02 Janu 2007",2006,4,Kandol,2,Leeds United,Barnet,1
+arrival," , (,) - 10 Augu 2006",2006,4,Cogan,2,Millwall,Barnet,1
+arrival," , (,, 0 €) - 26 July 2006",2006,4,Puncheon,2,,Barnet,1
+arrival," , (,, 0 €) - 25 July 2006",2006,4,Nicolau,2,Swindon Town,Barnet,1
+arrival," , (,) - 01 July 2006",2006,4,Mason,2,,Barnet,1
+arrival," , (,) - 01 July 2006",2006,4,Long,2,,Barnet,1
+arrival," , (,) - 01 July 2006",2006,4,Ioannou,2,,Barnet,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Magno Vieira,2,,Barnet,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Jaimez-Ruiz,2,Cluj,Barnet,1
+arrival," , (,, 0 €) - 31 May 2006",2006,4,Harrison,2,Peterborough,Barnet,1
+departure," ,, 0 €) - 22 Marc 2007",2006,4,Lewis,2,Stevenage,,2
+departure," ,, B.L.) - 28 Febr 2007",2006,4,Burch,2,Tottenham B,,2
+departure," ,, L.) - 21 Febr 2007",2006,4,Charles,2,Aldershot,,2
+departure," ,, 0 €) - 12 Febr 2007",2006,4,Jaimez-Ruiz,2,Northwood,,2
+departure," ,, B.L.) - 04 Janu 2007",2006,4,Birchall,2,Mansfield,,2
+departure," ,, 295.11 k€) - 03 Janu 2007",2006,4,Kandol,2,Leeds United,,2
+departure," ,, 0 €) - 10 Sept 2006",2006,4,Medley,2,Tottenham B,,2
+departure," ,, 0 €) - 12 Augu 2006",2006,4,Strevens,2,Crawley Town,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Bowditch,2,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Batt,2,,,2
+departure," ,) - 01 July 2006",2006,4,Trebes,2,English Club,,2
+departure," ,, 0 €) - 06 June 2006",2006,4,Clist,2,Forest Green,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Angus,2,Grays,,2
+departure," ,, B.L.) - 13 May 2006",2006,4,Fuller,2,Charlton B,,2
+departure," ,, 0 €) - 10 May 2006",2006,4,Roache,2,,,2
+departure," ,) - 10 May 2006",2006,4,Soares,2,,,2
+departure," ,) - 08 May 2006",2006,4,Hickie,2,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Reed,2,West Ham B,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Vernazza,2,Rotherham,,2
+arrival," , (,, B.L.) - 29 Apri 2007",2006,4,Albrighton,3,Rushden,Boston United,1
+arrival," , (,, B.L.) - 22 Apri 2007",2006,4,Canoville,3,Shrewsbury,Boston United,1
+arrival," , (,, B.L.) - 30 Marc 2007",2006,4,Maylett,3,Chester City,Boston United,1
+arrival," , (,, L.) - 16 Febr 2007",2006,4,Jarrett,3,Watford,Boston United,1
+arrival," , (,, L.) - 09 Febr 2007",2006,4,Benjamin,3,Peterborough,Boston United,1
+arrival," , (,, L.) - 31 Janu 2007",2006,4,Joynes,3,Barnsley,Boston United,1
+arrival," , (,, 0 €) - 31 Janu 2007",2006,4,Cryan,3,Lincoln City,Boston United,1
+arrival," , (,, 0 €) - 31 Janu 2007",2006,4,Cooksey,3,Rochdale,Boston United,1
+arrival," , (,, B.L.) - 22 Janu 2007",2006,4,Tait,3,Southport,Boston United,1
+arrival," , (,, L.) - 19 Janu 2007",2006,4,Nicholson,3,Chesterfield,Boston United,1
+arrival," , (,, 0 €) - 18 Janu 2007",2006,4,Vaughan,3,Chester City,Boston United,1
+arrival," , (,, L.) - 11 Janu 2007",2006,4,Richards,3,Peterborough,Boston United,1
+arrival," , (,, L.) - 06 Janu 2007",2006,4,Thomas,3,Yeovil,Boston United,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Rowson,3,Darlington,Boston United,1
+arrival," , (,, L.) - 03 Nove 2006",2006,4,Miller,3,Ipswich Town,Boston United,1
+arrival," , (,, L.) - 03 Nove 2006",2006,4,Kennedy,3,Middlesbrough B,Boston United,1
+arrival," , (,, L.) - 27 Octo 2006",2006,4,Broughton,3,Chester City,Boston United,1
+arrival," , (,, 0 €) - 01 Octo 2006",2006,4,Cotton,3,English Club,Boston United,1
+arrival," , (staff, ,, 0 €) - 08 Sept 2006",2006,4,Hendry,3,,Boston United,1
+arrival," , (,, L.) - 17 Augu 2006",2006,4,Davidson,3,Rangers,Boston United,1
+arrival," , (,, L.) - 01 Augu 2006",2006,4,N'Guessan,3,Rangers,Boston United,1
+arrival," , (,, 0 €) - 17 July 2006",2006,4,Ryan,3,Scunthorpe,Boston United,1
+arrival," , (,) - 01 July 2006",2006,4,Beeson,3,,Boston United,1
+arrival," , (,) - 01 July 2006",2006,4,Millson,3,,Boston United,1
+arrival," , (,) - 01 July 2006",2006,4,Wood,3,,Boston United,1
+arrival," , (,) - 01 July 2006",2006,4,Nunn,3,,Boston United,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Rowntree,3,Newcastle,Boston United,1
+arrival," , (,) - 01 July 2006",2006,4,Stevens,3,,Boston United,1
+arrival," , (,) - 01 July 2006",2006,4,Forbes,3,,Boston United,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Marriott,3,Torquay,Boston United,1
+arrival," , (,, 0 €) - 14 June 2006",2006,4,Farrell,3,Peterborough,Boston United,1
+arrival," , (,, 0 €) - 19 May 2006",2006,4,Green,3,Lincoln City,Boston United,1
+arrival," , (,, 0 €) - 16 May 2006",2006,4,Ryan,3,Peterborough,Boston United,1
+arrival," , (,, 0 €) - 08 May 2006",2006,4,Elding,3,Kettering,Boston United,1
+departure," ,, B.L.) - 10 Apri 2007",2006,4,Joynes,3,Barnsley,,2
+departure," ,, B.L.) - 19 Marc 2007",2006,4,Nicholson,3,Chesterfield,,2
+departure," ,, B.L.) - 18 Marc 2007",2006,4,Thomas,3,Yeovil,,2
+departure," ,, B.L.) - 15 Marc 2007",2006,4,Jarrett,3,Watford,,2
+departure," ,, B.L.) - 04 Marc 2007",2006,4,Benjamin,3,Peterborough,,2
+departure," ,, L.) - 02 Marc 2007",2006,4,Maylett,3,Chester City,,2
+departure," ,, B.L.) - 01 Febr 2007",2006,4,Richards,3,Peterborough,,2
+departure," ,, B.L.) - 01 Febr 2007",2006,4,Kennedy,3,Middlesbrough B,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Cotton,3,Spalding United,,2
+departure," ,, L.) - 31 Janu 2007",2006,4,Canoville,3,Shrewsbury Town,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Holland,3,Southport,,2
+departure," ,, 0 €) - 23 Janu 2007",2006,4,Tait,3,Southport,,2
+departure," ,, B.L.) - 14 Janu 2007",2006,4,Miller,3,Ipswich Town,,2
+departure," ,, B.L.) - 14 Janu 2007",2006,4,N'Guessan,3,Rangers,,2
+departure," ,, B.L.) - 12 Janu 2007",2006,4,Albrighton,3,Rushden & Diamonds,,2
+departure," ,, 35 k€) - 04 Janu 2007",2006,4,Ryan,3,Darlington,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Rowson,3,Darlington,,2
+departure," ,, 78 k€) - 02 Janu 2007",2006,4,Elding,3,Stockport,,2
+departure," ,, B.L.) - 18 Octo 2006",2006,4,Davidson,3,Rangers,,2
+departure," ,, 147.56 k€) - 14 Augu 2006",2006,4,Joachim,3,Darlington,,2
+departure," ,, 0 €) - 08 Augu 2006",2006,4,Norris,3,St Albans,,2
+departure," ,, 0 €) - 03 July 2006",2006,4,McCann,3,Notts County,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Wright,3,,,2
+departure," ,, 0 €) - 16 June 2006",2006,4,Dudfield,3,Notts County,,2
+departure," ,, 0 €) - 16 June 2006",2006,4,White,3,Notts County,,2
+departure," ,, B.L.) - 12 May 2006",2006,4,Silk,3,Portsmouth B,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Melton,3,King's Lynn,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Thomas,3,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Logan,3,Leicester,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Till,3,Birmingham City B,,2
+arrival," , (,, B.L.) - 15 Apri 2007",2006,4,Hunt,4,Grimsby Town,Bristol Rovers,1
+arrival," , (,, L.) - 16 Febr 2007",2006,4,Oji,4,Birmingham,Bristol Rovers,1
+arrival," , (,, L.) - 15 Febr 2007",2006,4,Jacobson,4,Cardiff City,Bristol Rovers,1
+arrival," , (,, L.) - 31 Janu 2007",2006,4,Nicholson,4,WBA,Bristol Rovers,1
+arrival," , (,, B.L.) - 04 Janu 2007",2006,4,Barnes,4,Gloucester,Bristol Rovers,1
+arrival," , (,, B.L.) - 01 Janu 2007",2006,4,Green,4,Mangotsfield,Bristol Rovers,1
+arrival," , (,, L.) - 27 Octo 2006",2006,4,Easter,4,Cardiff City,Bristol Rovers,1
+arrival," , (,, L.) - 26 Sept 2006",2006,4,Walker,4,Charlton B,Bristol Rovers,1
+arrival," , (,, 295.11 k€) - 31 Augu 2006",2006,4,Lambert,4,Rochdale,Bristol Rovers,1
+arrival," , (,, 0 €) - 03 Augu 2006",2006,4,Anthony,4,,Bristol Rovers,1
+arrival," , (,, 0 €) - 29 July 2006",2006,4,Igoe,4,,Bristol Rovers,1
+arrival," , (,) - 19 July 2006",2006,4,Phillips,4,Bristol City,Bristol Rovers,1
+arrival," , (,) - 01 July 2006",2006,4,Rigg,4,,Bristol Rovers,1
+arrival," , (,, 0 €) - 31 May 2006",2006,4,Green,4,Hereford,Bristol Rovers,1
+arrival," , (,, B.L.) - 23 May 2006",2006,4,Forrester,4,Lincoln City,Bristol Rovers,1
+arrival," , (,, 0 €) - 15 May 2006",2006,4,Sandell,4,Bath City,Bristol Rovers,1
+departure," ,, B.L.) - 16 Apri 2007",2006,4,Oji,4,Birmingham,,2
+departure," ,, B.L.) - 15 Apri 2007",2006,4,Nicholson,4,WBA,,2
+departure," ,, 0 €) - 01 Febr 2007",2006,4,Ryan,4,,,2
+departure," ,, L.) - 14 Janu 2007",2006,4,Hunt,4,Grimsby Town,,2
+departure," ,, B.L.) - 27 Dece 2006",2006,4,Easter,4,Cardiff City,,2
+departure," ,, L.) - 04 Dece 2006",2006,4,Barnes,4,Gloucester City,,2
+departure," ,, L.) - 01 Dece 2006",2006,4,Green,4,Mangotsfield,,2
+departure," ,, B.L.) - 26 Octo 2006",2006,4,Walker,4,Charlton B,,2
+departure," ,, L.) - 26 Octo 2006",2006,4,Shearer,4,Shrewsbury Town,,2
+departure," ,, 180 k€) - 30 Augu 2006",2006,4,Agogo,4,Nottingham Forest,,2
+departure," ,, 0 €) - 10 July 2006",2006,4,Gibb,4,Hartlepool United,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Forrester,4,Lincoln City,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Clarke,4,Salisbury City,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Williams,4,Aldershot Town,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Book,4,Mangotsfield,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Edwards,4,Forest Green,,2
+departure," ,, L.) - 01 July 2006",2006,4,Powell,4,Mangotsfield,,2
+departure," ,, 0 €) - 28 June 2006",2006,4,Bass,4,Salisbury City,,2
+departure," ,, 0 €) - 30 May 2006",2006,4,Horsell,4,,,2
+departure," ,, 0 €) - 30 May 2006",2006,4,Anderson,4,,,2
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Mocquet,5,Sunderland,Bury,1
+arrival," , (,, L.) - 02 Marc 2007",2006,4,Kennedy,5,Middlesbrough B,Bury,1
+arrival," , (,, L.) - 23 Febr 2007",2006,4,Kempson,5,Crewe,Bury,1
+arrival," , (,, L.) - 23 Febr 2007",2006,4,Bedeau,5,Walsall,Bury,1
+arrival," , (,, L.) - 16 Febr 2007",2006,4,Wroe,5,Barnsley,Bury,1
+arrival," , (,, 0 €) - 15 Janu 2007",2006,4,Warrington,5,Doncaster,Bury,1
+arrival," , (,, 14 k€) - 03 Janu 2007",2006,4,Hurst,5,Shrewsbury,Bury,1
+arrival," , (,, L.) - 08 Dece 2006",2006,4,Jones,5,Blackpool,Bury,1
+arrival," , (,, L.) - 22 Nove 2006",2006,4,Blinkhorn,5,Blackpool,Bury,1
+arrival," , (,, L.) - 22 Nove 2006",2006,4,Turnbull,5,Hartlepool,Bury,1
+arrival," , (,, L.) - 13 Octo 2006",2006,4,Edge,5,Blackpool,Bury,1
+arrival," , (,, 0 €) - 02 Sept 2006",2006,4,Taylor,5,Bournemouth,Bury,1
+arrival," , (,, L.) - 24 Augu 2006",2006,4,Schmeichel,5,Man City,Bury,1
+arrival," , (,, L.) - 03 Augu 2006",2006,4,Pittman,5,Nottingham,Bury,1
+arrival," , (,, 0 €) - 03 July 2006",2006,4,Goodfellow,5,Grimsby Town,Bury,1
+arrival," , (,) - 01 July 2006",2006,4,Taylor,5,,Bury,1
+arrival," , (,) - 01 July 2006",2006,4,Rouse,5,,Bury,1
+arrival," , (,) - 01 July 2006",2006,4,Stephens,5,,Bury,1
+arrival," , (,) - 01 July 2006",2006,4,Worrall,5,,Bury,1
+arrival," , (,, 0 €) - 27 June 2006",2006,4,Fettis,5,Macclesfield,Bury,1
+arrival," , (,, 0 €) - 23 May 2006",2006,4,Baker,5,Preston NE,Bury,1
+arrival," , (,, 0 €) - 08 May 2006",2006,4,Bishop,5,York City,Bury,1
+departure," ,, 73.78 k€) - 30 Marc 2007",2006,4,Worrall,5,West Bromwich Albion B,,2
+departure," ,, B.L.) - 25 Marc 2007",2006,4,Wroe,5,Barnsley,,2
+departure," ,, 0 €) - 24 Marc 2007",2006,4,Speight,5,,,2
+departure," ,, B.L.) - 23 Marc 2007",2006,4,Bedeau,5,Walsall,,2
+departure," ,, B.L.) - 04 Febr 2007",2006,4,Blinkhorn,5,Blackpool,,2
+departure," ,, 0 €) - 26 Janu 2007",2006,4,Goodfellow,5,Burton Albion,,2
+departure," ,, B.L.) - 22 Janu 2007",2006,4,Turnbull,5,Hartlepool,,2
+departure," ,, 73.78 k€) - 10 Janu 2007",2006,4,Mattis,5,Barnsley,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Hurst,5,Shrewsbury,,2
+departure," ,, B.L.) - 23 Dece 2006",2006,4,Warrington,5,Doncaster,,2
+departure," ,, B.L.) - 17 Dece 2006",2006,4,Jones,5,Blackpool,,2
+departure," ,, 0 €) - 01 Dece 2006",2006,4,Kidd,5,Barnsley,,2
+departure," ,, B.L.) - 26 Nove 2006",2006,4,Schmeichel,5,Man City,,2
+departure," ,, 0 €) - 16 Nove 2006",2006,4,Flitcroft,5,,,2
+departure," ,, B.L.) - 13 Nove 2006",2006,4,Edge,5,Blackpool,,2
+departure," ,, 0 €) - 10 Octo 2006",2006,4,Taylor,5,,,2
+departure," ,, B.L.) - 17 Sept 2006",2006,4,Pittman,5,Nottingham,,2
+departure," ,, L.) - 31 Augu 2006",2006,4,Tipton,5,Macclesfield Town,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Newby,5,,,2
+departure," ,, B.L.) - 01 July 2006",2006,4,Daly,5,Hartlepool United,,2
+departure," ,) - 01 July 2006",2006,4,Maloney,5,Airbus UK FC,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Edwards,5,,,2
+departure," ,, 0 €) - 16 June 2006",2006,4,Smart,5,Portadown,,2
+departure," ,, 0 €) - 02 June 2006",2006,4,Dootson,5,Hyde,,2
+departure," ,) - 01 June 2006",2006,4,Woodruffe,5,Brisbane Strikers,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Gobern,5,Wolverhampton B,,2
+departure," ,, B.L.) - 23 May 2006",2006,4,Ross,5,Sheffield United B,,2
+arrival," , (man., ,, 0 €) - 30 Apri 2007",2006,4,Davies,6,Chester City,Chester City,1
+arrival," , (,, L.) - 02 Marc 2007",2006,4,Brownlie,6,Swindon Town,Chester City,1
+arrival," , (,, L.) - 02 Marc 2007",2006,4,Maylett,6,Boston United,Chester City,1
+arrival," , (,, B.L.) - 01 Marc 2007",2006,4,Vaughan,6,Droylsden,Chester City,1
+arrival," , (,, L.) - 16 Febr 2007",2006,4,Kearney,6,Everton B,Chester City,1
+arrival," , (,) - 31 Janu 2007",2006,4,Yeo,6,Peterborough,Chester City,1
+arrival," , (,, 0 €) - 30 Janu 2007",2006,4,Meechan,6,Forest Green,Chester City,1
+arrival," , (,, B.L.) - 17 Janu 2007",2006,4,Vaughan,6,Rochdale,Chester City,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Semple,6,Lincoln City,Chester City,1
+arrival," , (,, 0 €) - 30 Octo 2006",2006,4,Steele,6,Leyton Orient,Chester City,1
+arrival," , (,, 0 €) - 23 Augu 2006",2006,4,Palethorpe,6,,Chester City,1
+arrival," , (,, L.) - 01 Augu 2006",2006,4,Ravenhill,6,Doncaster,Chester City,1
+arrival," , (,, 0 €) - 21 July 2006",2006,4,Linwood,6,Tranmere,Chester City,1
+arrival," , (,) - 09 July 2006",2006,4,Cronin,6,Exeter City,Chester City,1
+arrival," , (,, 0 €) - 04 July 2006",2006,4,Allen,6,,Chester City,1
+arrival," , (,, 0 €) - 03 July 2006",2006,4,Westwood,6,Northampton,Chester City,1
+arrival," , (,) - 01 July 2006",2006,4,Cadwallader,6,,Chester City,1
+arrival," , (,) - 01 July 2006",2006,4,Aujla,6,Bradford,Chester City,1
+arrival," , (,) - 01 July 2006",2006,4,Holroyd,6,,Chester City,1
+arrival," , (,) - 01 July 2006",2006,4,Kelly,6,,Chester City,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Martínez,6,Swansea,Chester City,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Marples,6,Doncaster,Chester City,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Bolland,6,Peterborough,Chester City,1
+arrival," , (,, 0 €) - 23 June 2006",2006,4,Sandwith,6,Macclesfield,Chester City,1
+arrival," , (,, 0 €) - 23 June 2006",2006,4,Walters,6,Wrexham,Chester City,1
+arrival," , (,, 0 €) - 20 June 2006",2006,4,Bennett,6,Wrexham,Chester City,1
+arrival," , (,, 0 €) - 16 June 2006",2006,4,Broughton,6,Rushden,Chester City,1
+arrival," , (,, 0 €) - 08 June 2006",2006,4,McSporran,6,Doncaster,Chester City,1
+arrival," , (,, B.L.) - 31 May 2006",2006,4,Richardson,6,Macclesfield,Chester City,1
+arrival," , (,, B.L.) - 21 May 2006",2006,4,Brown,6,Hereford,Chester City,1
+arrival," , (,, 0 €) - 15 May 2006",2006,4,Hand,6,Watford,Chester City,1
+arrival," , (,, 0 €) - 10 May 2006",2006,4,Wilson,6,Everton B,Chester City,1
+arrival," , (,, 0 €) - 02 May 2006",2006,4,Danby,6,Kidderminster,Chester City,1
+departure," ,, 0 €) - 30 Apri 2007",2006,4,Davies,6,Chester City,,2
+departure," ,, 0 €) - 30 Apri 2007",2006,4,Wright,6,,,2
+departure," ,, B.L.) - 02 Apri 2007",2006,4,Brownlie,6,Swindon Town,,2
+departure," ,, B.L.) - 30 Marc 2007",2006,4,Maylett,6,Boston United,,2
+departure," ,, B.L.) - 16 Marc 2007",2006,4,Kearney,6,Everton B,,2
+departure," ,, L.) - 02 Marc 2007",2006,4,Westwood,6,Swindon Town,,2
+departure," ,) - 01 Marc 2007",2006,4,Cadwallader,6,Bangor City,,2
+departure," ,, 0 €) - 25 Febr 2007",2006,4,Martínez,6,,,2
+departure," ,, 14 k€) - 31 Janu 2007",2006,4,Blundell,6,Darlington,,2
+departure," ,, 221.3 k€) - 29 Janu 2007",2006,4,Walters,6,Ipswich Town,,2
+departure," ,, 0 €) - 18 Janu 2007",2006,4,Vaughan,6,Boston United,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Semple,6,Lincoln City,,2
+departure," ,, L.) - 01 Dece 2006",2006,4,Vaughan,6,Droylsden,,2
+departure," ,, L.) - 27 Octo 2006",2006,4,Broughton,6,Boston United,,2
+departure," ,) - 01 Octo 2006",2006,4,Scales,6,Colwyn Bay,,2
+departure," ,, 0 €) - 31 Augu 2006",2006,4,McSporran,6,,,2
+departure," ,, B.L.) - 30 Augu 2006",2006,4,Ravenhill,6,Doncaster,,2
+departure," ,, 0 €) - 04 July 2006",2006,4,Curtis,6,Notts County,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Richardson,6,Weymouth,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Harrison,6,Hereford,,2
+departure," ,) - 01 July 2006",2006,4,Gillet,6,RFCUL,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,El Kholti,6,,,2
+departure," ,) - 01 July 2006",2006,4,Dimech,6,Marsaxlokk,,2
+departure," ,, 0 €) - 21 June 2006",2006,4,Regan,6,Macclesfield,,2
+departure," ,, 0 €) - 09 June 2006",2006,4,Brown,6,Hereford,,2
+departure," ,, 0 €) - 01 June 2006",2006,4,Booth,6,Southport,,2
+departure," ,, 0 €) - 25 May 2006",2006,4,Davies,6,Shrewsbury,,2
+departure," ,, L.) - 15 May 2006",2006,4,MacKenzie,6,Shrewsbury,,2
+departure," ,, 0 €) - 15 May 2006",2006,4,Drummond,6,Shrewsbury,,2
+departure," ,, 0 €) - 09 May 2006",2006,4,Walker,6,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Tait,6,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Dove,6,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,McNiven,6,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Edwards,6,Exeter,,2
+departure," ,, 0 €) - 07 May 2006",2006,4,Asamoah,6,Shrewsbury,,2
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Prendergast,7,Rochdale,Darlington,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Phillips,7,Millwall,Darlington,1
+arrival," , (,, L.) - 09 Marc 2007",2006,4,Wiseman,7,Hull City,Darlington,1
+arrival," , (,, B.L.) - 11 Febr 2007",2006,4,Logan,7,Bradford,Darlington,1
+arrival," , (,, L.) - 08 Febr 2007",2006,4,Miller,7,Ipswich Town,Darlington,1
+arrival," , (,, 0 €) - 31 Janu 2007",2006,4,Jones,7,Blackpool,Darlington,1
+arrival," , (,, 14 k€) - 31 Janu 2007",2006,4,Blundell,7,Chester City,Darlington,1
+arrival," , (,, 0 €) - 18 Janu 2007",2006,4,Ravenhill,7,Grimsby Town,Darlington,1
+arrival," , (,) - 16 Janu 2007",2006,4,Wright,7,Barnsley,Darlington,1
+arrival," , (,, L.) - 08 Janu 2007",2006,4,Wheater,7,Middlesbrough,Darlington,1
+arrival," , (,) - 05 Janu 2007",2006,4,Norton,7,Whitby Town,Darlington,1
+arrival," , (,, 0 €) - 05 Janu 2007",2006,4,Burgess,7,Middlesbrough B,Darlington,1
+arrival," , (,, 35 k€) - 04 Janu 2007",2006,4,Ryan,7,Boston United,Darlington,1
+arrival," , (,, B.L.) - 02 Janu 2007",2006,4,Rowson,7,Boston United,Darlington,1
+arrival," , (,, B.L.) - 23 Dece 2006",2006,4,McLeod,7,Workington,Darlington,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Albrighton,7,Boston United,Darlington,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Griffith,7,Doncaster,Darlington,1
+arrival," , (,, 0 €) - 01 Nove 2006",2006,4,Wright,7,Barnsley,Darlington,1
+arrival," , (man., ,, 0 €) - 30 Octo 2006",2006,4,Penney,7,,Darlington,1
+arrival," , (,, L.) - 27 Octo 2006",2006,4,Clarke,7,Bradford,Darlington,1
+arrival," , (,, L.) - 12 Octo 2006",2006,4,Horwood,7,Sheffield U,Darlington,1
+arrival," , (man., ,, 0 €) - 01 Octo 2006",2006,4,Gray,7,Darlington,Darlington,1
+arrival," , (,) - 08 Sept 2006",2006,4,Väisänen,7,,Darlington,1
+arrival," , (,, 0 €) - 08 Sept 2006",2006,4,Armstrong,7,Rushden,Darlington,1
+arrival," , (,, 147.56 k€) - 14 Augu 2006",2006,4,Joachim,7,Boston United,Darlington,1
+arrival," , (,, 0 €) - 04 Augu 2006",2006,4,Holloway,7,,Darlington,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,James,7,,Darlington,1
+arrival," , (,, 0 €) - 26 July 2006",2006,4,N'Goma,7,,Darlington,1
+arrival," , (,) - 07 July 2006",2006,4,Giallanza,7,Aarau,Darlington,1
+arrival," , (,, 0 €) - 03 July 2006",2006,4,Collins,7,S Wednesday,Darlington,1
+arrival," , (,) - 01 July 2006",2006,4,Ngoma,7,Libourne,Darlington,1
+arrival," , (,) - 01 July 2006",2006,4,Pocklington,7,,Darlington,1
+arrival," , (,) - 01 July 2006",2006,4,Hardman,7,,Darlington,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Stockdale,7,York City,Darlington,1
+arrival," , (,) - 01 July 2006",2006,4,Reay,7,,Darlington,1
+arrival," , (,, 0 €) - 27 June 2006",2006,4,Smith,7,Northampton,Darlington,1
+arrival," , (,, 0 €) - 26 May 2006",2006,4,Conlon,7,Barnsley,Darlington,1
+arrival," , (,, 0 €) - 26 May 2006",2006,4,Cummins,7,Port Vale,Darlington,1
+departure," ,, 0 €) - 30 Apri 2007",2006,4,Holloway,7,,,2
+departure," ,, 0 €) - 30 Apri 2007",2006,4,Johnson,7,,,2
+departure," ,, 0 €) - 30 Apri 2007",2006,4,Close,7,,,2
+departure," ,, B.L.) - 08 Apri 2007",2006,4,Wheater,7,Middlesbrough,,2
+departure," ,, L.) - 22 Marc 2007",2006,4,James,7,York City,,2
+departure," ,, B.L.) - 18 Marc 2007",2006,4,Miller,7,Ipswich Town,,2
+departure," ,, 0 €) - 01 Febr 2007",2006,4,Peacock,7,,,2
+departure," ,, B.L.) - 30 Janu 2007",2006,4,Jones,7,Blackpool,,2
+departure," ,, B.L.) - 17 Janu 2007",2006,4,Ravenhill,7,Grimsby Town,,2
+departure," ,, 0 €) - 12 Janu 2007",2006,4,Conlon,7,Mansfield Town,,2
+departure," ,, L.) - 11 Janu 2007",2006,4,Logan,7,Bradford,,2
+departure," ,, B.L.) - 01 Janu 2007",2006,4,Albrighton,7,Boston United,,2
+departure," ,, B.L.) - 01 Janu 2007",2006,4,Griffith,7,Doncaster,,2
+departure," ,) - 01 Janu 2007",2006,4,Väisänen,7,,,2
+departure," ,, 0 €) - 01 Janu 2007",2006,4,Duke,7,,,2
+departure," ,, 0 €) - 01 Janu 2007",2006,4,Stamp,7,,,2
+departure," ,, 0 €) - 01 Janu 2007",2006,4,Hutchinson,7,,,2
+departure," ,) - 01 Janu 2007",2006,4,Maddison,7,,,2
+departure," ,, B.L.) - 29 Nove 2006",2006,4,Clarke,7,Bradford,,2
+departure," ,, L.) - 23 Nove 2006",2006,4,Rowson,7,Boston United,,2
+departure," ,, L.) - 23 Nove 2006",2006,4,McLeod,7,Workington,,2
+departure," ,, 0 €) - 30 Octo 2006",2006,4,Gray,7,Darlington,,2
+departure," ,) - 30 Sept 2006",2006,4,Hodgson,7,,,2
+departure," ,) - 11 Augu 2006",2006,4,Martis,7,Hibernian,,2
+departure," ,, 0 €) - 15 July 2006",2006,4,Appleby,7,Whitby Town,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Jameson,7,Billingham Synthonia,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Tait,7,Gretna FC,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Kendrick,7,,,2
+departure," ,) - 01 July 2006",2006,4,Norton,7,Whitby Town,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Alexander,7,,,2
+departure," ,, 0 €) - 28 June 2006",2006,4,McGurk,7,York City,,2
+departure," ,, 0 €) - 21 June 2006",2006,4,Valentine,7,,,2
+departure," ,, 0 €) - 19 May 2006",2006,4,Sodje,7,Port Vale,,2
+departure," ,) - 08 May 2006",2006,4,Bates,7,Ostende,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Bossu,7,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Dickman,7,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Webster,7,Perth Glory,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Cooke,7,Bradford,,2
+arrival," , (,, 0 €) - 31 Janu 2007",2006,4,Bloomer,8,Cambridge,Grimsby Town,1
+arrival," , (,, 0 €) - 25 Janu 2007",2006,4,Thorpe,8,Stevenage,Grimsby Town,1
+arrival," , (,, B.L.) - 17 Janu 2007",2006,4,Ravenhill,8,Darlington,Grimsby Town,1
+arrival," , (,, L.) - 14 Janu 2007",2006,4,Hunt,8,Bristol Rovers,Grimsby Town,1
+arrival," , (,, 0 €) - 09 Janu 2007",2006,4,Grand,8,Carlisle United,Grimsby Town,1
+arrival," , (,, 0 €) - 05 Janu 2007",2006,4,Till,8,Birmingham,Grimsby Town,1
+arrival," , (,, L.) - 04 Janu 2007",2006,4,Rizzo,8,Milton Keynes,Grimsby Town,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Pulis,8,Stoke City B,Grimsby Town,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Paterson,8,Stoke City B,Grimsby Town,1
+arrival," , (man., ,, 0 €) - 09 Nove 2006",2006,4,Buckley,8,,Grimsby Town,1
+arrival," , (man., ,, 0 €) - 06 Nove 2006",2006,4,Watkiss,8,Grimsby Town,Grimsby Town,1
+arrival," , (,, L.) - 27 Octo 2006",2006,4,James,8,Nottingham,Grimsby Town,1
+arrival," , (,, L.) - 05 Octo 2006",2006,4,Butler,8,Scunthorpe,Grimsby Town,1
+arrival," , (,, L.) - 22 Sept 2006",2006,4,Lawson,8,Southend,Grimsby Town,1
+arrival," , (,, 0 €) - 25 Augu 2006",2006,4,Boshell,8,,Grimsby Town,1
+arrival," , (,) - 24 Augu 2006",2006,4,Fenton,8,Doncaster,Grimsby Town,1
+arrival," , (,, L.) - 17 Augu 2006",2006,4,McIntosh,8,Huddersfield,Grimsby Town,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Beagrie,8,Scunthorpe,Grimsby Town,1
+arrival," , (,, 0 €) - 11 July 2006",2006,4,Harkins,8,Blackburn B,Grimsby Town,1
+arrival," , (,) - 01 July 2006",2006,4,Bore,8,,Grimsby Town,1
+arrival," , (,) - 01 July 2006",2006,4,Bennett,8,,Grimsby Town,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Barnes,8,Sheffield U,Grimsby Town,1
+arrival," , (,, 0 €) - 26 June 2006",2006,4,Rankin,8,Brentford,Grimsby Town,1
+arrival," , (man., ,) - 05 June 2006",2006,4,Rodger,8,Grimsby Town,Grimsby Town,1
+departure," ,, B.L.) - 15 Apri 2007",2006,4,Hunt,8,Bristol Rovers,,2
+departure," ,, L.) - 23 Marc 2007",2006,4,Rankin,8,Macclesfield Town,,2
+departure," ,, B.L.) - 23 Febr 2007",2006,4,Paterson,8,Stoke City B,,2
+departure," ,, 0 €) - 18 Janu 2007",2006,4,Ravenhill,8,Darlington,,2
+departure," ,, B.L.) - 10 Janu 2007",2006,4,Rizzo,8,Milton Keynes,,2
+departure," ,, B.L.) - 10 Janu 2007",2006,4,Pulis,8,Stoke City,,2
+departure," ,, B.L.) - 04 Janu 2007",2006,4,Till,8,Birmingham,,2
+departure," ,, B.L.) - 27 Nove 2006",2006,4,James,8,Nottingham,,2
+departure," ,, 0 €) - 09 Nove 2006",2006,4,Watkiss,8,Grimsby Town,,2
+departure," ,) - 06 Nove 2006",2006,4,Rodger,8,,,2
+departure," ,, B.L.) - 05 Nove 2006",2006,4,Butler,8,Scunthorpe,,2
+departure," ,, B.L.) - 30 Octo 2006",2006,4,Thorpe,8,Stevenage,,2
+departure," ,, 0 €) - 27 Octo 2006",2006,4,Beagrie,8,,,2
+departure," ,, B.L.) - 22 Octo 2006",2006,4,Lawson,8,Southend,,2
+departure," ,, B.L.) - 17 Sept 2006",2006,4,McIntosh,8,Huddersfield,,2
+departure," ,) - 25 Augu 2006",2006,4,Futcher,8,Peterborough United,,2
+departure," ,, 0 €) - 20 Augu 2006",2006,4,Barwick,8,Northwich,,2
+departure," ,, 0 €) - 03 July 2006",2006,4,Goodfellow,8,Bury,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Palmer,8,,,2
+departure," ,) - 01 July 2006",2006,4,Taylor,8,Walsall,,2
+departure," ,, 0 €) - 22 June 2006",2006,4,Kalala,8,Yeovil,,2
+departure," ,, 0 €) - 20 June 2006",2006,4,Parkinson,8,Notts County,,2
+departure," ,, 0 €) - 19 June 2006",2006,4,Mildenhall,8,Yeovil,,2
+departure," ,) - 08 June 2006",2006,4,Jones,8,Hibernian,,2
+departure," ,, 0 €) - 01 June 2006",2006,4,Woodhouse,8,,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Downey,8,,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Slade,8,,,2
+departure," ,, B.L.) - 29 May 2006",2006,4,Mendes,8,Huddersfield Town,,2
+arrival," , (,, B.L.) - 01 Apri 2007",2006,4,Turnbull,9,Rochdale,Hartlepool United,1
+arrival," , (,, 0 €) - 22 Marc 2007",2006,4,Hignett,9,Spennymoor,Hartlepool United,1
+arrival," , (,, B.L.) - 22 Febr 2007",2006,4,Turnbull,9,Blyth,Hartlepool United,1
+arrival," , (,, B.L.) - 19 Febr 2007",2006,4,Maidens,9,York City,Hartlepool United,1
+arrival," , (,, 0 €) - 07 Febr 2007",2006,4,Mackay,9,Consett,Hartlepool United,1
+arrival," , (,, B.L.) - 28 Janu 2007",2006,4,Strachan,9,Peterborough,Hartlepool United,1
+arrival," , (,, 27 k€) - 11 Janu 2007",2006,4,Monkhouse,9,Swindon Town,Hartlepool United,1
+arrival," , (,, 110 k€) - 04 Janu 2007",2006,4,Barker,9,Mansfield,Hartlepool United,1
+arrival," , (,, B.L.) - 07 Dece 2006",2006,4,Clarke,9,Rochdale,Hartlepool United,1
+arrival," , (,, L.) - 03 Nove 2006",2006,4,Duffy,9,Hull City,Hartlepool United,1
+arrival," , (,, B.L.) - 09 Octo 2006",2006,4,Humphreys,9,Port Vale,Hartlepool United,1
+arrival," , (,, 0 €) - 19 Augu 2006",2006,4,Liddle,9,Middlesbrough B,Hartlepool United,1
+arrival," , (,, 0 €) - 18 Augu 2006",2006,4,Boland,9,,Hartlepool United,1
+arrival," , (,, 0 €) - 10 July 2006",2006,4,Gibb,9,Bristol Rovers,Hartlepool United,1
+arrival," , (,) - 01 July 2006",2006,4,Tymon,9,,Hartlepool United,1
+arrival," , (,, B.L.) - 01 July 2006",2006,4,Daly,9,Bury,Hartlepool United,1
+arrival," , (man., ,, 0 €) - 13 June 2006",2006,4,Wilson,9,,Hartlepool United,1
+arrival," , (,, B.L.) - 20 May 2006",2006,4,Craddock,9,York City,Hartlepool United,1
+arrival," , (,) - 01 May 2006",2006,4,Tait,9,,Hartlepool United,1
+departure," ,, L.) - 22 Marc 2007",2006,4,Proctor,9,Wrexham,,2
+departure," ,, L.) - 01 Marc 2007",2006,4,Turnbull,9,Rochdale,,2
+departure," ,, 0 €) - 29 Janu 2007",2006,4,Strachan,9,Peterborough,,2
+departure," ,, L.) - 22 Janu 2007",2006,4,Turnbull,9,Blyth Spartans,,2
+departure," ,, L.) - 19 Janu 2007",2006,4,Maidens,9,York City,,2
+departure," ,, B.L.) - 10 Janu 2007",2006,4,Monkhouse,9,Swindon Town,,2
+departure," ,, 70 k€) - 05 Janu 2007",2006,4,Daly,9,Dundee United,,2
+departure," ,, B.L.) - 03 Janu 2007",2006,4,Duffy,9,Hull City,,2
+departure," ,, L.) - 08 Sept 2006",2006,4,Humphreys,9,Port Vale,,2
+departure," ,, 737.78 k€) - 31 July 2006",2006,4,Boyd,9,Luton Town,,2
+departure," ,, L.) - 28 July 2006",2006,4,Clarke,9,Rochdale,,2
+departure," ,, 70 k€) - 28 July 2006",2006,4,Butler,9,Swansea,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Appleby,9,Gateshead,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Wilkinson,9,Bridlington Town,,2
+departure," ,) - 01 July 2006",2006,4,Istead,9,Gateshead,,2
+departure," ,, 0 €) - 30 June 2006",2006,4,Llewellyn,9,Wrexham,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Craddock,9,York City,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Pittman,9,Nottingham Forest,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Walker,9,Charlton B,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Robertson,9,Ross County,,2
+arrival," , (,, B.L.) - 22 Apri 2007",2006,4,Ferrell,10,Kidderminster,Hereford United,1
+arrival," , (,, B.L.) - 21 Marc 2007",2006,4,Wallis,10,D&R,Hereford United,1
+arrival," , (,, B.L.) - 28 Febr 2007",2006,4,Fleetwood,10,Accrington,Hereford United,1
+arrival," , (,, 0 €) - 06 Febr 2007",2006,4,Thomas,10,Shrewsbury,Hereford United,1
+arrival," , (,, 28 k€) - 25 Janu 2007",2006,4,Smith,10,Weymouth,Hereford United,1
+arrival," , (,, L.) - 25 Janu 2007",2006,4,Guinan,10,Cheltenham,Hereford United,1
+arrival," , (,, L.) - 19 Janu 2007",2006,4,Jennings,10,Tranmere,Hereford United,1
+arrival," , (,, L.) - 26 Octo 2006",2006,4,MacKenzie,10,Scunthorpe,Hereford United,1
+arrival," , (,, L.) - 12 Octo 2006",2006,4,Eustace,10,Stoke City,Hereford United,1
+arrival," , (,, 0 €) - 24 Sept 2006",2006,4,Webb,10,,Hereford United,1
+arrival," , (,, 0 €) - 01 Sept 2006",2006,4,Fitzpatrick,10,,Hereford United,1
+arrival," , (,, L.) - 08 Augu 2006",2006,4,Tynan,10,Rushden,Hereford United,1
+arrival," , (,, 28 k€) - 03 Augu 2006",2006,4,Giles,10,Carmarthen Town,Hereford United,1
+arrival," , (,) - 01 Augu 2006",2006,4,Osborn,10,Walsall,Hereford United,1
+arrival," , (,, 0 €) - 26 July 2006",2006,4,Connell,10,Torquay,Hereford United,1
+arrival," , (,, 0 €) - 18 July 2006",2006,4,Gulliver,10,Rushden,Hereford United,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Harrison,10,Chester City,Hereford United,1
+arrival," , (,) - 01 July 2006",2006,4,Palmer,10,,Hereford United,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,McClenahan,10,Milton Keynes,Hereford United,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Thompson,10,Shrewsbury,Hereford United,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Sills,10,Oxford United,Hereford United,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Rose,10,Gillingham,Hereford United,1
+arrival," , (,, 0 €) - 23 June 2006",2006,4,Sheldon,10,Kidderminster,Hereford United,1
+arrival," , (,, 0 €) - 09 June 2006",2006,4,Brown,10,Chester City,Hereford United,1
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Jennings,10,Tranmere,,2
+departure," ,, B.L.) - 25 Apri 2007",2006,4,Guinan,10,Cheltenham,,2
+departure," ,, 0 €) - 27 Marc 2007",2006,4,Wallis,10,Dover,,2
+departure," ,, L.) - 22 Marc 2007",2006,4,Ferrell,10,Kidderminster Harriers,,2
+departure," ,, 0 €) - 15 Marc 2007",2006,4,Sheldon,10,Halesowen,,2
+departure," ,, L.) - 31 Janu 2007",2006,4,Fleetwood,10,Accrington Stanley,,2
+departure," ,, B.L.) - 21 Dece 2006",2006,4,MacKenzie,10,Scunthorpe,,2
+departure," ,, B.L.) - 12 Dece 2006",2006,4,Eustace,10,Stoke City,,2
+departure," ,) - 01 Dece 2006",2006,4,Osborn,10,Bromley,,2
+departure," ,, 0 €) - 01 Octo 2006",2006,4,Harrison,10,Southport,,2
+departure," ,, B.L.) - 13 Sept 2006",2006,4,Tynan,10,Rushden,,2
+departure," ,, 0 €) - 15 July 2006",2006,4,Pitman,10,Forest Green,,2
+departure," ,, 0 €) - 10 July 2006",2006,4,James,10,Weymouth,,2
+departure," ,) - 01 July 2006",2006,4,Mawson,10,Halifax Town,,2
+departure," ,) - 01 July 2006",2006,4,Worton,10,Caersws FC,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Carey-Bertram,10,Cambridge United,,2
+departure," ,, 0 €) - 25 June 2006",2006,4,Stanley,10,Morecambe,,2
+departure," ,, 0 €) - 12 June 2006",2006,4,Stansfield,10,Exeter City,,2
+departure," ,, B.L.) - 01 June 2006",2006,4,King,10,Colchester United,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Green,10,Bristol Rovers,,2
+departure," ,, 0 €) - 26 May 2006",2006,4,Coldicott,10,,,2
+departure," ,, 0 €) - 24 May 2006",2006,4,Ipoua,10,,,2
+departure," ,, B.L.) - 21 May 2006",2006,4,Brown,10,Chester City,,2
+arrival," , (,, B.L.) - 29 Apri 2007",2006,4,Rayner,11,Torquay,Lincoln City,1
+arrival," , (,, B.L.) - 29 Apri 2007",2006,4,Gritton,11,Mansfield,Lincoln City,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Holmes,11,Luton Town,Lincoln City,1
+arrival," , (,, L.) - 16 Marc 2007",2006,4,Mendes,11,Notts County,Lincoln City,1
+arrival," , (,, L.) - 08 Marc 2007",2006,4,Olejnik,11,Aston Villa B,Lincoln City,1
+arrival," , (,, B.L.) - 28 Febr 2007",2006,4,Wilkinson,11,Grays,Lincoln City,1
+arrival," , (,, 375 k€) - 23 Janu 2007",2006,4,N'Guessan,11,Rangers,Lincoln City,1
+arrival," , (,, 0 €) - 22 Janu 2007",2006,4,Green,11,Aston Villa B,Lincoln City,1
+arrival," , (,, B.L.) - 02 Janu 2007",2006,4,Semple,11,Chester City,Lincoln City,1
+arrival," , (,, L.) - 01 Janu 2007",2006,4,Weir-Daley,11,Nottingham,Lincoln City,1
+arrival," , (,, 0 €) - 05 Dece 2006",2006,4,Kell,11,,Lincoln City,1
+arrival," , (,, B.L.) - 05 Dece 2006",2006,4,Foster,11,York City,Lincoln City,1
+arrival," , (,, B.L.) - 01 Dece 2006",2006,4,Bacon,11,Worksop Town,Lincoln City,1
+arrival," , (,, B.L.) - 27 Nove 2006",2006,4,Birch,11,Hucknall Town,Lincoln City,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Nicholson,11,Chesterfield,Lincoln City,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Birley,11,Birmingham,Lincoln City,1
+arrival," , (,, B.L.) - 12 Nove 2006",2006,4,Kemp,11,Tamworth,Lincoln City,1
+arrival," , (,, B.L.) - 08 Octo 2006",2006,4,Duffy,11,Worksop Town,Lincoln City,1
+arrival," , (,, B.L.) - 01 Octo 2006",2006,4,Watt,11,Grantham Town,Lincoln City,1
+arrival," , (,, L.) - 30 Augu 2006",2006,4,Eaden,11,Nottingham,Lincoln City,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Moses,11,Crewe,Lincoln City,1
+arrival," , (,, 0 €) - 26 July 2006",2006,4,Amoo,11,Barrow,Lincoln City,1
+arrival," , (,, 0 €) - 20 July 2006",2006,4,Stallard,11,Shrewsbury,Lincoln City,1
+arrival," , (,) - 01 July 2006",2006,4,Warlow,11,,Lincoln City,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Forrester,11,Bristol Rovers,Lincoln City,1
+arrival," , (,) - 01 July 2006",2006,4,John-Lewis,11,Grantham Town,Lincoln City,1
+arrival," , (man., ,, 0 €) - 24 May 2006",2006,4,Schofield,11,Lincoln City,Lincoln City,1
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Holmes,11,Luton Town,,2
+departure," ,, B.L.) - 18 Marc 2007",2006,4,Weir-Daley,11,Nottingham,,2
+departure," ,, L.) - 02 Marc 2007",2006,4,Rayner,11,Torquay,,2
+departure," ,, L.) - 31 Janu 2007",2006,4,Wilkinson,11,Grays,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Cryan,11,Boston United,,2
+departure," ,, 0 €) - 25 Janu 2007",2006,4,Bacon,11,Hednesford Town,,2
+departure," ,, 0 €) - 12 Janu 2007",2006,4,Foster,11,Stalybridge Celtic,,2
+departure," ,, 0 €) - 12 Janu 2007",2006,4,Birch,11,AFC Telford,,2
+departure," ,, L.) - 12 Janu 2007",2006,4,Gritton,11,Mansfield,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Nicholson,11,Chesterfield,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Birley,11,Birmingham,,2
+departure," ,) - 15 Dece 2006",2006,4,Kemp,11,Tamworth,,2
+departure," ,, L.) - 23 Nove 2006",2006,4,Semple,11,Chester,,2
+departure," ,, L.) - 08 Sept 2006",2006,4,Duffy,11,Worksop,,2
+departure," ,, L.) - 01 Sept 2006",2006,4,Watt,11,Grantham Town,,2
+departure," ,) - 25 July 2006",2006,4,Yeo,11,Peterborough,,2
+departure," ,, 0 €) - 04 July 2006",2006,4,Bloomer,11,Cambridge,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Robinson,11,Worksop,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Reddington,11,Grantham Town,,2
+departure," ,, 70 k€) - 01 July 2006",2006,4,Loach,11,Watford,,2
+departure," ,, 0 €) - 29 June 2006",2006,4,Stirling,11,Peterborough,,2
+departure," ,, 0 €) - 22 June 2006",2006,4,Robinson,11,Macclesfield,,2
+departure," ,, 0 €) - 04 June 2006",2006,4,McAuley,11,Leicester,,2
+departure," ,, 7.38 k€) - 25 May 2006",2006,4,McCombe,11,Bristol City,,2
+departure," ,, 0 €) - 24 May 2006",2006,4,Alexander,11,,,2
+departure," ,, B.L.) - 23 May 2006",2006,4,Forrester,11,Bristol Rovers,,2
+departure," ,, 0 €) - 19 May 2006",2006,4,Green,11,Boston United,,2
+arrival," , (,, B.L.) - 26 Apri 2007",2006,4,Smart,12,Northwich,Macclesfield Town,1
+arrival," , (,, L.) - 23 Marc 2007",2006,4,Rankin,12,Grimsby Town,Macclesfield Town,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Donnelly,12,Blackpool,Macclesfield Town,1
+arrival," , (,) - 01 Marc 2007",2006,4,Marsh-Brown,12,Ramsgate,Macclesfield Town,1
+arrival," , (,) - 01 Febr 2007",2006,4,Doyle,12,Bray,Macclesfield Town,1
+arrival," , (,, L.) - 01 Febr 2007",2006,4,Holgate,12,Swindon Town,Macclesfield Town,1
+arrival," , (,, L.) - 19 Janu 2007",2006,4,D'Laryea,12,Man City,Macclesfield Town,1
+arrival," , (,, L.) - 11 Janu 2007",2006,4,Legzdins,12,Birmingham,Macclesfield Town,1
+arrival," , (,, 28 k€) - 10 Janu 2007",2006,4,Murray,12,Torquay,Macclesfield Town,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Begovic,12,Portsmouth B,Macclesfield Town,1
+arrival," , (,, L.) - 31 Octo 2006",2006,4,Wiles,12,Blackpool,Macclesfield Town,1
+arrival," , (,, 0 €) - 27 Octo 2006",2006,4,Murphy,12,Blackpool,Macclesfield Town,1
+arrival," , (,, 0 €) - 23 Octo 2006",2006,4,Ince,12,Swindon Town,Macclesfield Town,1
+arrival," , (man., ,, 0 €) - 02 Octo 2006",2006,4,Brightwell,12,Macclesfield,Macclesfield Town,1
+arrival," , (,, 0 €) - 08 Sept 2006",2006,4,Scott,12,Oldham,Macclesfield Town,1
+arrival," , (,, L.) - 31 Augu 2006",2006,4,Tipton,12,Bury,Macclesfield Town,1
+arrival," , (,, L.) - 31 Augu 2006",2006,4,Weir-Daley,12,Nottingham,Macclesfield Town,1
+arrival," , (,, 0 €) - 16 Augu 2006",2006,4,Jacobs,12,,Macclesfield Town,1
+arrival," , (,, 28 k€) - 10 Augu 2006",2006,4,Tolley,12,Shrewsbury,Macclesfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,McDonald,12,,Macclesfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,Rouse,12,,Macclesfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,Blackman,12,,Macclesfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,Jennings,12,,Macclesfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,Reid,12,,Macclesfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,McNulty,12,Caernarfon Town,Macclesfield Town,1
+arrival," , (,, 0 €) - 28 June 2006",2006,4,Heath,12,Chesterfield,Macclesfield Town,1
+arrival," , (,, 0 €) - 22 June 2006",2006,4,Robinson,12,Lincoln City,Macclesfield Town,1
+arrival," , (,, 0 €) - 21 June 2006",2006,4,Regan,12,Chester City,Macclesfield Town,1
+arrival," , (,, 0 €) - 14 June 2006",2006,4,Brain,12,Port Vale,Macclesfield Town,1
+arrival," , (,, 0 €) - 04 June 2006",2006,4,Lee,12,Man U,Macclesfield Town,1
+arrival," , (,, 2.4 k€) - 01 June 2006",2006,4,McNeil,12,Hyde,Macclesfield Town,1
+departure," ,, B.L.) - 25 Apri 2007",2006,4,Holgate,12,Swindon Town,,2
+departure," ,, B.L.) - 15 Apri 2007",2006,4,Wiles,12,Blackpool,,2
+departure," ,, B.L.) - 19 Febr 2007",2006,4,D'Laryea,12,Man City,,2
+departure," ,, B.L.) - 11 Febr 2007",2006,4,Legzdins,12,Birmingham,,2
+departure," ,, L.) - 26 Janu 2007",2006,4,Smart,12,Northwich,,2
+departure," ,, B.L.) - 23 Dece 2006",2006,4,Begovic,12,Portsmouth B,,2
+departure," ,, B.L.) - 30 Nove 2006",2006,4,Weir-Daley,12,Nottingham,,2
+departure," ,, 0 €) - 23 Octo 2006",2006,4,Brightwell,12,Macclesfield,,2
+departure," ,) - 01 Octo 2006",2006,4,Horton,12,,,2
+departure," ,, 0 €) - 30 Sept 2006",2006,4,Jacobs,12,Bangor City,,2
+departure," ,, 0 €) - 25 Sept 2006",2006,4,Wijnhard,12,Brentford,,2
+departure," ,) - 30 Augu 2006",2006,4,Robinson,12,Oxford United,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Harsley,12,Port Vale,,2
+departure," ,, 0 €) - 28 June 2006",2006,4,Whitaker,12,Port Vale,,2
+departure," ,, 0 €) - 27 June 2006",2006,4,Fettis,12,Bury,,2
+departure," ,, 0 €) - 23 June 2006",2006,4,Sandwith,12,Chester City,,2
+departure," ,, 0 €) - 16 June 2006",2006,4,Townson,12,Northwich,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Richardson,12,Chester City,,2
+departure," ,) - 31 May 2006",2006,4,Beresford,12,,,2
+departure," ,, 0 €) - 10 May 2006",2006,4,Briscoe,12,Hucknall Town,,2
+departure," ,, 0 €) - 09 May 2006",2006,4,Deasy,12,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,McNeil,12,Hyde,,2
+arrival," , (,, B.L.) - 22 Apri 2007",2006,4,Beardsley,13,Rushden,Mansfield Town,1
+arrival," , (,, B.L.) - 19 Apri 2007",2006,4,Wood,13,Ilkeston Town,Mansfield Town,1
+arrival," , (,, B.L.) - 15 Apri 2007",2006,4,McIntosh,13,Ilkeston Town,Mansfield Town,1
+arrival," , (,, B.L.) - 01 Marc 2007",2006,4,Sleath,13,Alfreton Town,Mansfield Town,1
+arrival," , (,, L.) - 22 Febr 2007",2006,4,Hodge,13,Blackburn B,Mansfield Town,1
+arrival," , (,, L.) - 12 Janu 2007",2006,4,Gritton,13,Lincoln City,Mansfield Town,1
+arrival," , (,, 0 €) - 12 Janu 2007",2006,4,Conlon,13,Darlington,Mansfield Town,1
+arrival," , (,, B.L.) - 04 Janu 2007",2006,4,Birchall,13,Barnet,Mansfield Town,1
+arrival," , (,, 0 €) - 14 Nove 2006",2006,4,Charlton,13,Redditch,Mansfield Town,1
+arrival," , (,, B.L.) - 01 Octo 2006",2006,4,Boulding,13,Ilkeston Town,Mansfield Town,1
+arrival," , (,, L.) - 08 Sept 2006",2006,4,Sheehan,13,Leicester,Mansfield Town,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Boulding,13,Rotherham,Mansfield Town,1
+arrival," , (,, 0 €) - 17 July 2006",2006,4,Muggleton,13,Chesterfield,Mansfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,McGhee,13,,Mansfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,Kitchen,13,,Mansfield Town,1
+arrival," , (,) - 01 July 2006",2006,4,Trimmer,13,,Mansfield Town,1
+arrival," , (,, 0 €) - 30 June 2006",2006,4,Hamshaw,13,Stockport,Mansfield Town,1
+arrival," , (,, 0 €) - 31 May 2006",2006,4,Mullins,13,Reading,Mansfield Town,1
+arrival," , (,, B.L.) - 23 May 2006",2006,4,McLachlan,13,Morecambe,Mansfield Town,1
+arrival," , (,, B.L.) - 20 May 2006",2006,4,Heron,13,Hednesford,Mansfield Town,1
+arrival," , (,, B.L.) - 07 May 2006",2006,4,Talbot,13,Port Vale,Mansfield Town,1
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Gritton,13,Lincoln City,,2
+departure," ,, B.L.) - 22 Apri 2007",2006,4,Hodge,13,Blackburn B,,2
+departure," ,, L.) - 22 Marc 2007",2006,4,Reet,13,Rochdale,,2
+departure," ,, L.) - 19 Marc 2007",2006,4,Wood,13,Ilkeston Town,,2
+departure," ,, L.) - 15 Marc 2007",2006,4,McIntosh,13,Ilkeston Town,,2
+departure," ,, L.) - 01 Febr 2007",2006,4,Sleath,13,Alfreton Town,,2
+departure," ,, L.) - 19 Janu 2007",2006,4,Beardsley,13,Rushden & Diamonds,,2
+departure," ,, 0 €) - 05 Janu 2007",2006,4,Birchall,13,Barnet,,2
+departure," ,, 110 k€) - 04 Janu 2007",2006,4,Barker,13,Hartlepool United,,2
+departure," ,, 0 €) - 19 Dece 2006",2006,4,Shirtliff,13,,,2
+departure," ,, B.L.) - 08 Nove 2006",2006,4,Sheehan,13,Leicester,,2
+departure," ,, L.) - 01 Augu 2006",2006,4,Boulding,13,Ilkeston Town,,2
+departure," ,, 0 €) - 01 Augu 2006",2006,4,Russell,13,Forest Green,,2
+departure," ,, 0 €) - 08 July 2006",2006,4,Day,13,Aldershot Town,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,McLachlan,13,Morecambe,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Heron,13,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Rundle,13,Rochdale,,2
+departure," ,) - 31 May 2006",2006,4,Littlejohn,13,,,2
+departure," ,, 0 €) - 20 May 2006",2006,4,Pressman,13,,,2
+departure," ,, 0 €) - 19 May 2006",2006,4,Talbot,13,Port Vale,,2
+departure," ,, 0 €) - 11 May 2006",2006,4,Jacobs,13,,,2
+departure," ,, 0 €) - 11 May 2006",2006,4,Uhlenbeek,13,,,2
+departure," ,, B.L.) - 06 May 2006",2006,4,Wilson,13,Everton B,,2
+arrival," , (,, B.L.) - 29 Apri 2007",2006,4,Rizzo,14,Chesterfield,Milton Keynes,1
+arrival," , (,, B.L.) - 10 Apri 2007",2006,4,Taylor,14,Brentford,Milton Keynes,1
+arrival," , (,, B.L.) - 02 Apri 2007",2006,4,Hastings,14,St Albans,Milton Keynes,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Watts,14,Fulham B,Milton Keynes,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Blizzard,14,Watford,Milton Keynes,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Jarrett,14,Watford,Milton Keynes,1
+arrival," , (,, B.L.) - 18 Marc 2007",2006,4,Page,14,Cambridge,Milton Keynes,1
+arrival," , (,, B.L.) - 04 Febr 2007",2006,4,Mitchell,14,Wrexham,Milton Keynes,1
+arrival," , (staff, ,, 0 €) - 01 Febr 2007",2006,4,Hockaday,14,,Milton Keynes,1
+arrival," , (,) - 23 Janu 2007",2006,4,Knight,14,Swansea,Milton Keynes,1
+arrival," , (,, L.) - 10 Janu 2007",2006,4,Hayes,14,Reading,Milton Keynes,1
+arrival," , (,, L.) - 08 Janu 2007",2006,4,Stirling,14,Peterborough,Milton Keynes,1
+arrival," , (,, 0 €) - 04 Janu 2007",2006,4,Harper,14,Northampton,Milton Keynes,1
+arrival," , (,, 0 €) - 04 Janu 2007",2006,4,Butler,14,Leeds United,Milton Keynes,1
+arrival," , (,, B.L.) - 31 Dece 2006",2006,4,Harding,14,Aldershot,Milton Keynes,1
+arrival," , (,, B.L.) - 31 Dece 2006",2006,4,Morgan,14,Peterborough,Milton Keynes,1
+arrival," , (,, 0 €) - 30 Augu 2006",2006,4,Andrews,14,Hull City,Milton Keynes,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Bankole,14,,Milton Keynes,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Dyer,14,,Milton Keynes,1
+arrival," , (,, 0 €) - 04 July 2006",2006,4,McGovern,14,,Milton Keynes,1
+arrival," , (,, 0 €) - 03 July 2006",2006,4,O'Hanlon,14,Swindon Town,Milton Keynes,1
+arrival," , (,, 0 €) - 03 July 2006",2006,4,Diallo,14,S Wednesday,Milton Keynes,1
+arrival," , (,) - 01 July 2006",2006,4,Tillen,14,Chelsea B,Milton Keynes,1
+arrival," , (,) - 01 July 2006",2006,4,Howe,14,,Milton Keynes,1
+arrival," , (,) - 01 July 2006",2006,4,Murphy,14,,Milton Keynes,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Waite,14,Sudbury Town,Milton Keynes,1
+arrival," , (,) - 01 July 2006",2006,4,Baines,14,Tenerife,Milton Keynes,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Smith,14,Brentford,Milton Keynes,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Lewis,14,Brentford,Milton Keynes,1
+arrival," , (man., ,, 0 €) - 21 June 2006",2006,4,Allen,14,,Milton Keynes,1
+departure," ,, L.) - 22 Marc 2007",2006,4,Rizzo,14,Chesterfield,,2
+departure," ,, 0 €) - 14 Marc 2007",2006,4,Butler,14,,,2
+departure," ,, L.) - 08 Marc 2007",2006,4,Taylor,14,Brentford,,2
+departure," ,, L.) - 02 Marc 2007",2006,4,Hastings,14,St Albans,,2
+departure," ,, L.) - 09 Febr 2007",2006,4,Page,14,Cambridge United,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Howe,14,Gravesend United,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Waite,14,,,2
+departure," ,, L.) - 12 Janu 2007",2006,4,Mitchell,14,Wrexham,,2
+departure," ,) - 05 Janu 2007",2006,4,Crooks,14,Wycombe Wanderers,,2
+departure," ,, L.) - 03 Janu 2007",2006,4,Harding,14,Grays,,2
+departure," ,, B.L.) - 03 Janu 2007",2006,4,Harper,14,Northampton,,2
+departure," ,) - 01 Janu 2007",2006,4,Morgan,14,Peterborough,,2
+departure," ,, L.) - 01 Janu 2007",2006,4,Tillen,14,Thurrock,,2
+departure," ,, 0 €) - 06 Dece 2006",2006,4,Baker,14,Weymouth,,2
+departure," ,, L.) - 01 Nove 2006",2006,4,Collins,14,Maidenhead United,,2
+departure," ,, L.) - 26 Octo 2006",2006,4,Chorley,14,Gillingham,,2
+departure," ,, 0 €) - 02 Augu 2006",2006,4,Tapp,14,Lewes,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Oyedele,14,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,McClenahan,14,Hereford United,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,McKoy,14,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Kamara,14,,,2
+departure," ,, 0 €) - 26 June 2006",2006,4,Bevan,14,Kidderminster Harriers,,2
+departure," ,, B.L.) - 01 June 2006",2006,4,Filipe Morais,14,Chelsea B,,2
+departure," ,, 368.89 k€) - 15 May 2006",2006,4,Small,14,Sheffield Wednesday,,2
+departure," ,, 0 €) - 10 May 2006",2006,4,Wilson,14,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Partridge,14,Bristol City,,2
+arrival," , (,, B.L.) - 29 Apri 2007",2006,4,Gleeson,15,Cambridge,Notts County,1
+arrival," , (,, L.) - 16 Marc 2007",2006,4,Byron,15,Hull City B,Notts County,1
+arrival," , (,, L.) - 15 Marc 2007",2006,4,Weston,15,Charlton B,Notts County,1
+arrival," , (,, L.) - 15 Marc 2007",2006,4,Walker,15,Charlton B,Notts County,1
+arrival," , (,, L.) - 29 Janu 2007",2006,4,Ross,15,Sheffield U,Notts County,1
+arrival," , (,, 0 €) - 18 Janu 2007",2006,4,Smith,15,Southend,Notts County,1
+arrival," , (,, L.) - 13 Nove 2006",2006,4,McMahon,15,Leyton Orient,Notts County,1
+arrival," , (,, 0 €) - 14 July 2006",2006,4,Deeney,15,Burton Albion,Notts County,1
+arrival," , (,, 0 €) - 04 July 2006",2006,4,Curtis,15,Chester City,Notts County,1
+arrival," , (,, 0 €) - 03 July 2006",2006,4,McCann,15,Boston United,Notts County,1
+arrival," , (,) - 01 July 2006",2006,4,Ingram,15,English Club,Notts County,1
+arrival," , (,) - 01 July 2006",2006,4,Akers,15,,Notts County,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Mendes,15,Huddersfield,Notts County,1
+arrival," , (,, 0 €) - 22 June 2006",2006,4,N'Toya,15,Chesterfield,Notts County,1
+arrival," , (,, 0 €) - 20 June 2006",2006,4,Parkinson,15,Grimsby Town,Notts County,1
+arrival," , (,, 0 €) - 19 June 2006",2006,4,Hunt,15,Colchester,Notts County,1
+arrival," , (,, 0 €) - 19 June 2006",2006,4,Silk,15,Portsmouth B,Notts County,1
+arrival," , (,, 0 €) - 16 June 2006",2006,4,White,15,Boston United,Notts County,1
+arrival," , (,, 0 €) - 16 June 2006",2006,4,Somner,15,Aldershot,Notts County,1
+arrival," , (,, 0 €) - 16 June 2006",2006,4,Lee,15,Northampton,Notts County,1
+arrival," , (,, 0 €) - 16 June 2006",2006,4,Dudfield,15,Boston United,Notts County,1
+arrival," , (man., ,) - 12 June 2006",2006,4,Thompson,15,,Notts County,1
+arrival," , (,, B.L.) - 31 May 2006",2006,4,Wilson,15,Preston NE,Notts County,1
+departure," ,, L.) - 20 Marc 2007",2006,4,White,15,Peterborough United,,2
+departure," ,, L.) - 16 Marc 2007",2006,4,Mendes,15,Lincoln,,2
+departure," ,, L.) - 15 Marc 2007",2006,4,Gleeson,15,Cambridge,,2
+departure," ,, B.L.) - 21 Janu 2007",2006,4,McMahon,15,Leyton Orient,,2
+departure," ,, B.L.) - 17 Janu 2007",2006,4,Smith,15,Southend,,2
+departure," ,, B.L.) - 14 Janu 2007",2006,4,Ross,15,Sheffield U,,2
+departure," ,) - 01 Janu 2007",2006,4,Craven,15,Lynn University,,2
+departure," ,, 0 €) - 26 Dece 2006",2006,4,Curtis,15,Nuneaton Town,,2
+departure," ,, 0 €) - 07 Dece 2006",2006,4,Needham,15,Trinity,,2
+departure," ,, 0 €) - 15 July 2006",2006,4,Palmer,15,Wycombe,,2
+departure," ,) - 01 July 2006",2006,4,Sissoko,15,Kerkyra,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Chilaka,15,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Friars,15,Tamworth,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Long,15,Ebbsfleet,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,McMahon,15,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,O'Callaghan,15,,,2
+departure," ,) - 01 July 2006",2006,4,Rabbah,15,Ilzach,,2
+departure," ,) - 01 July 2006",2006,4,Diop,15,Carcassonne,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Scoffham,15,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,McFaul,15,VB Mariners,,2
+departure," ,, 0 €) - 08 June 2006",2006,4,White,15,Kidderminster,,2
+departure," ,, 0 €) - 05 June 2006",2006,4,Baudet,15,Crewe,,2
+departure," ,, 442.67 k€) - 01 June 2006",2006,4,Wilson,15,Preston NE,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Chillingworth,15,Rushden,,2
+departure," ,, 0 €) - 25 May 2006",2006,4,Thordarson,15,,,2
+departure," ,, 0 €) - 11 May 2006",2006,4,Marshall,15,,,2
+departure," ,, B.L.) - 08 May 2006",2006,4,Doyle,15,Derby County B,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Dadi,15,Hapoel Acre,,2
+departure," ,, B.L.) - 08 May 2006",2006,4,Crooks,15,Bradford,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Ullathorne,15,,,2
+arrival," , (,, L.) - 20 Marc 2007",2006,4,White,16,Notts County,Peterborough United,1
+arrival," , (,) - 18 Marc 2007",2006,4,Blanchett,16,Cambridge City,Peterborough United,1
+arrival," , (,, B.L.) - 04 Marc 2007",2006,4,Benjamin,16,Boston United,Peterborough United,1
+arrival," , (,, B.L.) - 11 Febr 2007",2006,4,McShane,16,Ebbsfleet,Peterborough United,1
+arrival," , (,, B.L.) - 04 Febr 2007",2006,4,Ghaichem,16,Rushden,Peterborough United,1
+arrival," , (,, B.L.) - 04 Febr 2007",2006,4,Opara,16,Burton Albion,Peterborough United,1
+arrival," , (,, B.L.) - 01 Febr 2007",2006,4,Richards,16,Boston United,Peterborough United,1
+arrival," , (,, 0 €) - 29 Janu 2007",2006,4,Strachan,16,Hartlepool,Peterborough United,1
+arrival," , (,, 175 k€) - 29 Janu 2007",2006,4,Blackett,16,D&R,Peterborough United,1
+arrival," , (,, 175 k€) - 29 Janu 2007",2006,4,Mackail-Smith,16,D&R,Peterborough United,1
+arrival," , (man., ,) - 20 Janu 2007",2006,4,Ferguson,16,,Peterborough United,1
+arrival," , (man., ,) - 15 Janu 2007",2006,4,Taylor,16,Peterborough,Peterborough United,1
+arrival," , (,, 110.45 k€) - 11 Janu 2007",2006,4,Hyde,16,Burnley,Peterborough United,1
+arrival," , (,) - 08 Janu 2007",2006,4,Jalal,16,Woking,Peterborough United,1
+arrival," , (,, 147.56 k€) - 04 Janu 2007",2006,4,Low,16,Leicester,Peterborough United,1
+arrival," , (,) - 01 Janu 2007",2006,4,Webb,16,English Club,Peterborough United,1
+arrival," , (,, 210 k€) - 01 Janu 2007",2006,4,McLean,16,Grays,Peterborough United,1
+arrival," , (,, 364 k€) - 01 Janu 2007",2006,4,Boyd,16,Stevenage,Peterborough United,1
+arrival," , (,) - 01 Janu 2007",2006,4,Morgan,16,Milton Keynes,Peterborough United,1
+arrival," , (,, L.) - 22 Dece 2006",2006,4,Rachubka,16,Huddersfield,Peterborough United,1
+arrival," , (,, B.L.) - 01 Dece 2006",2006,4,Plummer,16,Rushden,Peterborough United,1
+arrival," , (,, 14 k€) - 21 Nove 2006",2006,4,Smith,16,King's Lynn,Peterborough United,1
+arrival," , (,, B.L.) - 07 Nove 2006",2006,4,Fry,16,King's Lynn,Peterborough United,1
+arrival," , (,, L.) - 14 Sept 2006",2006,4,Davis,16,Coventry,Peterborough United,1
+arrival," , (,, L.) - 14 Sept 2006",2006,4,Turner,16,Coventry,Peterborough United,1
+arrival," , (,) - 25 Augu 2006",2006,4,Futcher,16,Grimsby Town,Peterborough United,1
+arrival," , (,, 0 €) - 04 Augu 2006",2006,4,Bailey,16,,Peterborough United,1
+arrival," , (,) - 25 July 2006",2006,4,Yeo,16,Lincoln City,Peterborough United,1
+arrival," , (,, 0 €) - 24 July 2006",2006,4,Branston,16,Oldham,Peterborough United,1
+arrival," , (staff, ,, 0 €) - 01 July 2006",2006,4,Simpson,16,,Peterborough United,1
+arrival," , (,, 0 €) - 29 June 2006",2006,4,Stirling,16,Lincoln City,Peterborough United,1
+arrival," , (,, 0 €) - 26 June 2006",2006,4,Butcher,16,Oldham,Peterborough United,1
+arrival," , (man., ,, 0 €) - 30 May 2006",2006,4,Alexander,16,,Peterborough United,1
+departure," ,, L.) - 22 Marc 2007",2006,4,Benjamin,16,Walsall,,2
+departure," ,, 0 €) - 22 Marc 2007",2006,4,Arber,16,Dagenham and Redbridge,,2
+departure," ,, 0 €) - 12 Febr 2007",2006,4,McShane,16,Stamford,,2
+departure," ,, 0 €) - 03 Febr 2007",2006,4,Fry,16,Hinckley United,,2
+departure," ,) - 31 Janu 2007",2006,4,Yeo,16,Chester City,,2
+departure," ,, B.L.) - 28 Janu 2007",2006,4,Strachan,16,Hartlepool,,2
+departure," ,) - 21 Janu 2007",2006,4,Taylor,16,Peterborough,,2
+departure," ,, 0 €) - 15 Janu 2007",2006,4,Alexander,16,,,2
+departure," ,, L.) - 11 Janu 2007",2006,4,Richards,16,Boston United,,2
+departure," ,, L.) - 08 Janu 2007",2006,4,Stirling,16,Milton Keynes,,2
+departure," ,, L.) - 04 Janu 2007",2006,4,Ghaichem,16,Rushden & Diamonds,,2
+departure," ,, L.) - 04 Janu 2007",2006,4,Opara,16,Burton Albion,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Rachubka,16,Huddersfield,,2
+departure," ,) - 02 Janu 2007",2006,4,Holden,16,Falkirk,,2
+departure," ,, 0 €) - 01 Janu 2007",2006,4,Plummer,16,,,2
+departure," ,, B.L.) - 31 Dece 2006",2006,4,Morgan,16,Milton Keynes,,2
+departure," ,, B.L.) - 31 Dece 2006",2006,4,McLean,16,Grays,,2
+departure," ,, B.L.) - 17 Dece 2006",2006,4,Davis,16,Coventry,,2
+departure," ,, B.L.) - 14 Dece 2006",2006,4,Turner,16,Coventry,,2
+departure," ,, 0 €) - 06 Nove 2006",2006,4,Simpson,16,,,2
+departure," ,, 0 €) - 20 Octo 2006",2006,4,Carden,16,Burscough,,2
+departure," ,, 0 €) - 01 Sept 2006",2006,4,Bailey,16,Stafford Rangers,,2
+departure," ,, 0 €) - 03 Augu 2006",2006,4,Quinn,16,Northampton Town,,2
+departure," ,) - 25 July 2006",2006,4,Semple,16,Lincoln City,,2
+departure," ,, 332 k€) - 07 July 2006",2006,4,St Ledger,16,Preston North End,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Boucaud,16,Kettering,,2
+departure," ,) - 01 July 2006",2006,4,Kennedy,16,Portadown,,2
+departure," ,) - 01 July 2006",2006,4,Zbayri,16,,,2
+departure," ,, 0 €) - 29 June 2006",2006,4,Bolland,16,Chester City,,2
+departure," ,, 0 €) - 14 June 2006",2006,4,Farrell,16,Boston United,,2
+departure," ,, 0 €) - 09 June 2006",2006,4,Logan,16,Weymouth,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Harrison,16,Barnet,,2
+departure," ,, 0 €) - 16 May 2006",2006,4,Ryan,16,Boston United,,2
+arrival," , (,, B.L.) - 01 May 2007",2006,4,Moyo-Modise,17,Mossley,Rochdale,1
+arrival," , (,, B.L.) - 22 Apri 2007",2006,4,Warburton,17,Northwich,Rochdale,1
+arrival," , (,, 0 €) - 22 Marc 2007",2006,4,Bates,17,Leamington,Rochdale,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Reet,17,Mansfield,Rochdale,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Poole,17,Grays,Rochdale,1
+arrival," , (,, L.) - 01 Marc 2007",2006,4,Turnbull,17,Hartlepool,Rochdale,1
+arrival," , (,, L.) - 20 Febr 2007",2006,4,Dodds,17,Leicester B,Rochdale,1
+arrival," , (,, L.) - 16 Febr 2007",2006,4,Muirhead,17,Bradford,Rochdale,1
+arrival," , (,, 0 €) - 01 Febr 2007",2006,4,Comyn-Platt,17,Swindon Town,Rochdale,1
+arrival," , (,, L.) - 31 Janu 2007",2006,4,Edge,17,Blackpool,Rochdale,1
+arrival," , (,, L.) - 26 Janu 2007",2006,4,Reid,17,Plymouth,Rochdale,1
+arrival," , (,, 0 €) - 22 Janu 2007",2006,4,Prendergast,17,Blackpool,Rochdale,1
+arrival," , (,, 21 k€) - 22 Janu 2007",2006,4,Perkins,17,Morecambe,Rochdale,1
+arrival," , (,, L.) - 19 Janu 2007",2006,4,Le Fondre,17,Stockport,Rochdale,1
+arrival," , (,, 14.76 k€) - 08 Janu 2007",2006,4,McArdle,17,S Wednesday,Rochdale,1
+arrival," , (,, L.) - 05 Janu 2007",2006,4,Etuhu,17,Man City,Rochdale,1
+arrival," , (,, 14 k€) - 04 Janu 2007",2006,4,Murray,17,Carlisle United,Rochdale,1
+arrival," , (,, L.) - 03 Janu 2007",2006,4,Vaughan,17,Chester City,Rochdale,1
+arrival," , (,, B.L.) - 01 Janu 2007",2006,4,Christie,17,Kidderminster,Rochdale,1
+arrival," , (man., ,, 0 €) - 17 Dece 2006",2006,4,Hill,17,Rochdale,Rochdale,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Mocquet,17,Sunderland,Rochdale,1
+arrival," , (,, 0 €) - 31 Augu 2006",2006,4,Sharp,17,Shrewsbury,Rochdale,1
+arrival," , (,, L.) - 31 Augu 2006",2006,4,Barker,17,Blackburn B,Rochdale,1
+arrival," , (,, 0 €) - 03 Augu 2006",2006,4,Crooks,17,,Rochdale,1
+arrival," , (,, L.) - 28 July 2006",2006,4,Clarke,17,Hartlepool,Rochdale,1
+arrival," , (,, 0 €) - 26 July 2006",2006,4,Stanton,17,,Rochdale,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Rundle,17,Mansfield,Rochdale,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Dagnall,17,Tranmere,Rochdale,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Sako,17,Torquay,Rochdale,1
+arrival," , (,, B.L.) - 10 May 2006",2006,4,Goodhind,17,Oxford United,Rochdale,1
+departure," ,, B.L.) - 16 Apri 2007",2006,4,Muirhead,17,Bradford,,2
+departure," ,, B.L.) - 01 Apri 2007",2006,4,Turnbull,17,Hartlepool,,2
+departure," ,, B.L.) - 30 Marc 2007",2006,4,Edge,17,Blackpool,,2
+departure," ,, L.) - 22 Marc 2007",2006,4,Prendergast,17,Darlington,,2
+departure," ,, L.) - 22 Marc 2007",2006,4,Warburton,17,Northwich,,2
+departure," ,, B.L.) - 11 Marc 2007",2006,4,Le Fondre,17,Stockport,,2
+departure," ,, L.) - 09 Febr 2007",2006,4,Moyo-Modise,17,Mossley,,2
+departure," ,, B.L.) - 05 Febr 2007",2006,4,Etuhu,17,Man City,,2
+departure," ,, B.L.) - 04 Febr 2007",2006,4,Reid,17,Plymouth,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Sharp,17,,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Cooksey,17,Boston United,,2
+departure," ,, 0 €) - 29 Janu 2007",2006,4,Boardman,17,Dagenham and Redbridge,,2
+departure," ,, 0 €) - 26 Janu 2007",2006,4,Goodhind,17,,,2
+departure," ,, B.L.) - 17 Janu 2007",2006,4,Vaughan,17,Chester City,,2
+departure," ,, B.L.) - 07 Janu 2007",2006,4,McArdle,17,S Wednesday,,2
+departure," ,, B.L.) - 03 Janu 2007",2006,4,Murray,17,Carlisle United,,2
+departure," ,, 0 €) - 02 Janu 2007",2006,4,Christie,17,Kidderminster,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Mocquet,17,Sunderland,,2
+departure," ,, B.L.) - 01 Janu 2007",2006,4,Barker,17,Blackburn B,,2
+departure," ,) - 01 Janu 2007",2006,4,Sako,17,St. Pauli,,2
+departure," ,, 0 €) - 17 Dece 2006",2006,4,Hill,17,Rochdale,,2
+departure," ,, 0 €) - 16 Dece 2006",2006,4,Parkin,17,,,2
+departure," ,, B.L.) - 07 Dece 2006",2006,4,Clarke,17,Hartlepool,,2
+departure," ,, 295.11 k€) - 31 Augu 2006",2006,4,Lambert,17,Bristol Rovers,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Jaszczun,17,Cambridge United,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Kitchen,17,Rossendale United,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Warner,17,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Griffiths,17,Northwich,,2
+departure," ,, 0 €) - 30 June 2006",2006,4,Brisco,17,,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Dagnall,17,Tranmere Rovers,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Sturrock,17,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Cartwright,17,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Gallimore,17,,,2
+arrival," , (,, L.) - 31 Janu 2007",2006,4,Canoville,18,Boston United,Shrewsbury Town,1
+arrival," , (,, 0 €) - 16 Janu 2007",2006,4,Tierney,18,Oldham,Shrewsbury Town,1
+arrival," , (,, L.) - 08 Janu 2007",2006,4,Jones,18,Tranmere,Shrewsbury Town,1
+arrival," , (,, B.L.) - 02 Janu 2007",2006,4,Hurst,18,Bury,Shrewsbury Town,1
+arrival," , (,, 0 €) - 20 Nove 2006",2006,4,Thomas,18,,Shrewsbury Town,1
+arrival," , (,, L.) - 07 Nove 2006",2006,4,Fortune-West,18,Rushden,Shrewsbury Town,1
+arrival," , (,, 0 €) - 03 Nove 2006",2006,4,Jones,18,Ashton United,Shrewsbury Town,1
+arrival," , (,, L.) - 31 Octo 2006",2006,4,Keith,18,Leyton Orient,Shrewsbury Town,1
+arrival," , (,, L.) - 26 Octo 2006",2006,4,Shearer,18,Bristol Rovers,Shrewsbury Town,1
+arrival," , (,, L.) - 21 Sept 2006",2006,4,Neal,18,Preston NE,Shrewsbury Town,1
+arrival," , (,, 0 €) - 05 Sept 2006",2006,4,Humphrey,18,,Shrewsbury Town,1
+arrival," , (,, B.L.) - 30 Augu 2006",2006,4,Cowan,18,Kidderminster,Shrewsbury Town,1
+arrival," , (,, 0 €) - 30 Augu 2006",2006,4,Symes,18,Bradford,Shrewsbury Town,1
+arrival," , (,, 0 €) - 08 Augu 2006",2006,4,Sharp,18,,Shrewsbury Town,1
+arrival," , (,, 0 €) - 04 Augu 2006",2006,4,Asamoah,18,Chester City,Shrewsbury Town,1
+arrival," , (,, 0 €) - 27 July 2006",2006,4,Cooke,18,,Shrewsbury Town,1
+arrival," , (,) - 01 July 2006",2006,4,Esson,18,Aberdeen,Shrewsbury Town,1
+arrival," , (,, 0 €) - 25 May 2006",2006,4,Williams,18,Yeovil,Shrewsbury Town,1
+arrival," , (,, 0 €) - 25 May 2006",2006,4,Davies,18,Chester City,Shrewsbury Town,1
+arrival," , (,, L.) - 15 May 2006",2006,4,MacKenzie,18,Chester City,Shrewsbury Town,1
+arrival," , (,, 0 €) - 15 May 2006",2006,4,Drummond,18,Chester City,Shrewsbury Town,1
+arrival," , (,, 0 €) - 15 May 2006",2006,4,Hall,18,Oldham,Shrewsbury Town,1
+departure," ,, B.L.) - 22 Apri 2007",2006,4,Canoville,18,Boston United,,2
+departure," ,, B.L.) - 16 Apri 2007",2006,4,Jones,18,Tranmere,,2
+departure," ,, 0 €) - 06 Febr 2007",2006,4,Thomas,18,Hereford United,,2
+departure," ,, 0 €) - 31 Janu 2007",2006,4,Williams,18,,,2
+departure," ,, 0 €) - 26 Janu 2007",2006,4,Sorvel,18,Morecambe,,2
+departure," ,, 0 €) - 23 Janu 2007",2006,4,Adaggio,18,,,2
+departure," ,, 0 €) - 23 Janu 2007",2006,4,Cadwallader,18,,,2
+departure," ,) - 11 Janu 2007",2006,4,Hogg,18,Gretna FC,,2
+departure," ,, 14 k€) - 03 Janu 2007",2006,4,Hurst,18,Bury,,2
+departure," ,, 0 €) - 01 Janu 2007",2006,4,Cowan,18,Grays,,2
+departure," ,, B.L.) - 16 Nove 2006",2006,4,Keith,18,Leyton Orient,,2
+departure," ,, B.L.) - 22 Octo 2006",2006,4,Neal,18,Preston NE,,2
+departure," ,, 0 €) - 31 Augu 2006",2006,4,Sharp,18,Rochdale,,2
+departure," ,, B.L.) - 29 Augu 2006",2006,4,Symes,18,Bradford,,2
+departure," ,, 28 k€) - 10 Augu 2006",2006,4,Tolley,18,Macclesfield,,2
+departure," ,) - 01 Augu 2006",2006,4,McMenamin,18,Gretna FC,,2
+departure," ,, 0 €) - 20 July 2006",2006,4,Stallard,18,Lincoln,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Evans,18,,,2
+departure," ,) - 01 July 2006",2006,4,Denny,18,Nuneaton,,2
+departure," ,, 0 €) - 29 June 2006",2006,4,Thompson,18,Hereford,,2
+departure," ,, 0 €) - 30 May 2006",2006,4,Whitehead,18,Kidderminster,,2
+departure," ,, 900 k€) - 22 May 2006",2006,4,Hart,18,Man City,,2
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Lewis,19,Norwich City,Stockport,1
+arrival," , (,, L.) - 19 Marc 2007",2006,4,Nolan,19,Blackburn B,Stockport,1
+arrival," , (,, B.L.) - 11 Marc 2007",2006,4,Le Fondre,19,Rochdale,Stockport,1
+arrival," , (,, B.L.) - 01 Marc 2007",2006,4,Havern,19,Radcliffe B,Stockport,1
+arrival," , (,, L.) - 08 Febr 2007",2006,4,Blizzard,19,Watford,Stockport,1
+arrival," , (,, L.) - 11 Janu 2007",2006,4,Hennessey,19,Wolverhampton,Stockport,1
+arrival," , (,, 78 k€) - 02 Janu 2007",2006,4,Elding,19,Boston United,Stockport,1
+arrival," , (,, 0 €) - 12 Dece 2006",2006,4,Pilkington,19,English Club,Stockport,1
+arrival," , (,, B.L.) - 28 Nove 2006",2006,4,Bowler,19,Witton Albion,Stockport,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Treacy,19,Blackburn B,Stockport,1
+arrival," , (,, L.) - 03 Nove 2006",2006,4,Gleeson,19,Wolverhampton,Stockport,1
+arrival," , (,, L.) - 02 Nove 2006",2006,4,Kane,19,Blackburn B,Stockport,1
+arrival," , (,, 14 k€) - 15 Sept 2006",2006,4,Poole,19,Yeovil,Stockport,1
+arrival," , (,, L.) - 13 Sept 2006",2006,4,Ruddy,19,Everton B,Stockport,1
+arrival," , (,, 0 €) - 17 Augu 2006",2006,4,Proudlock,19,,Stockport,1
+arrival," , (,, 0 €) - 03 Augu 2006",2006,4,Taylor,19,Oldham,Stockport,1
+arrival," , (,, L.) - 02 Augu 2006",2006,4,Murray,19,Carlisle United,Stockport,1
+arrival," , (,, L.) - 13 July 2006",2006,4,Owen,19,Oldham,Stockport,1
+arrival," , (,) - 01 July 2006",2006,4,Tansey,19,,Stockport,1
+arrival," , (,) - 01 July 2006",2006,4,Rowe,19,,Stockport,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Griffin,19,Oldham,Stockport,1
+arrival," , (,, 0 €) - 15 June 2006",2006,4,Rose,19,Yeovil,Stockport,1
+arrival," , (,, 0 €) - 28 May 2006",2006,4,Deasy,19,,Stockport,1
+arrival," , (,, 0 €) - 26 May 2006",2006,4,Dinning,19,Port Vale,Stockport,1
+departure," ,, B.L.) - 19 Apri 2007",2006,4,Nolan,19,Blackburn B,,2
+departure," ,, B.L.) - 08 Apri 2007",2006,4,Hennessey,19,Wolverhampton,,2
+departure," ,, B.L.) - 21 Marc 2007",2006,4,Blizzard,19,Watford,,2
+departure," ,, L.) - 24 Febr 2007",2006,4,Havern,19,Radcliffe Borough,,2
+departure," ,, B.L.) - 04 Febr 2007",2006,4,Gleeson,19,Wolverhampton,,2
+departure," ,, L.) - 30 Janu 2007",2006,4,Allen,19,Royal Antwerp,,2
+departure," ,, 0 €) - 24 Janu 2007",2006,4,Robinson,19,Torquay United,,2
+departure," ,, L.) - 19 Janu 2007",2006,4,Le Fondre,19,Rochdale,,2
+departure," ,, B.L.) - 01 Janu 2007",2006,4,Treacy,19,Blackburn B,,2
+departure," ,, B.L.) - 10 Dece 2006",2006,4,Kane,19,Blackburn B,,2
+departure," ,, B.L.) - 26 Nove 2006",2006,4,Ruddy,19,Everton B,,2
+departure," ,, L.) - 15 Octo 2006",2006,4,Bowler,19,Witton Albion,,2
+departure," ,, B.L.) - 01 Octo 2006",2006,4,Murray,19,Carlisle United,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Williams,19,Northwich,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Tomlinson,19,Coalville Town,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Greenwood,19,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Boshell,19,,,2
+departure," ,) - 01 July 2006",2006,4,Wolski,19,Moulins,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Woolcott,19,Marine,,2
+departure," ,, 0 €) - 30 June 2006",2006,4,Hamshaw,19,Mansfield Town,,2
+departure," ,, 0 €) - 01 June 2006",2006,4,Beharall,19,,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,O'Connor,19,Wolverhampton,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Smith,19,,,2
+departure," ,, B.L.) - 20 May 2006",2006,4,Griffin,19,Oldham Athletic,,2
+departure," ,, B.L.) - 16 May 2006",2006,4,Taylor,19,Oldham Athletic,,2
+departure," ,, 0 €) - 10 May 2006",2006,4,Singh,19,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Ward,19,Aston Villa B,,2
+arrival," , (,, B.L.) - 25 Apri 2007",2006,4,Holgate,20,Macclesfield,Swindon Town,1
+arrival," , (,, B.L.) - 02 Apri 2007",2006,4,Brownlie,20,Chester City,Swindon Town,1
+arrival," , (,) - 29 Marc 2007",2006,4,Brezovan,20,Brno,Swindon Town,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,James,20,Nottingham,Swindon Town,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Grimes,20,Man City,Swindon Town,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Partridge,20,Bristol City,Swindon Town,1
+arrival," , (,, L.) - 19 Marc 2007",2006,4,Corr,20,S Wednesday,Swindon Town,1
+arrival," , (,, L.) - 02 Marc 2007",2006,4,Westwood,20,Chester City,Swindon Town,1
+arrival," , (,, 0 €) - 20 Febr 2007",2006,4,Noubissié,20,,Swindon Town,1
+arrival," , (,, 0 €) - 31 Janu 2007",2006,4,Gnakpa,20,Vaduz,Swindon Town,1
+arrival," , (,, B.L.) - 10 Janu 2007",2006,4,Monkhouse,20,Hartlepool,Swindon Town,1
+arrival," , (,, B.L.) - 04 Janu 2007",2006,4,Comyn-Platt,20,Grays,Swindon Town,1
+arrival," , (,, B.L.) - 01 Janu 2007",2006,4,Henry,20,Weston/M,Swindon Town,1
+arrival," , (,, B.L.) - 08 Dece 2006",2006,4,Onibuje,20,Brentford,Swindon Town,1
+arrival," , (,, 0 €) - 08 Dece 2006",2006,4,Sturrock,20,,Swindon Town,1
+arrival," , (,, B.L.) - 01 Dece 2006",2006,4,Wells,20,Basingstoke,Swindon Town,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Timlin,20,Fulham B,Swindon Town,1
+arrival," , (,, B.L.) - 15 Nove 2006",2006,4,Stroud,20,Basingstoke,Swindon Town,1
+arrival," , (,, 0 €) - 10 Nove 2006",2006,4,Zaaboub,20,,Swindon Town,1
+arrival," , (man., ,, 0 €) - 07 Nove 2006",2006,4,Sturrock,20,,Swindon Town,1
+arrival," , (,, L.) - 03 Nove 2006",2006,4,Lonergan,20,Preston NE,Swindon Town,1
+arrival," , (man., ,) - 24 Octo 2006",2006,4,Williams,20,Reading,Swindon Town,1
+arrival," , (,, L.) - 10 Octo 2006",2006,4,Rhodes,20,Brentford,Swindon Town,1
+arrival," , (,, 0 €) - 30 Augu 2006",2006,4,Ince,20,Wolverhampton,Swindon Town,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Evans,20,,Swindon Town,1
+arrival," , (,, 0 €) - 21 July 2006",2006,4,Smith,20,Crawley Town,Swindon Town,1
+arrival," , (,, 0 €) - 04 July 2006",2006,4,Weston,20,Millwall,Swindon Town,1
+arrival," , (,) - 01 July 2006",2006,4,Evans,20,Nottingham,Swindon Town,1
+arrival," , (,) - 01 July 2006",2006,4,Hopper,20,,Swindon Town,1
+arrival," , (,) - 01 July 2006",2006,4,Evans,20,,Swindon Town,1
+arrival," , (,, 0 €) - 28 June 2006",2006,4,Vincent,20,Yeovil,Swindon Town,1
+arrival," , (man., ,, 0 €) - 01 June 2006",2006,4,Wise,20,,Swindon Town,1
+arrival," , (,, 0 €) - 22 May 2006",2006,4,Poyet,20,Tottenham,Swindon Town,1
+arrival," , (,, B.L.) - 01 May 2006",2006,4,Lapham,20,Cirencester,Swindon Town,1
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Grimes,20,Man City,,2
+departure," ,, B.L.) - 22 Apri 2007",2006,4,Partridge,20,Bristol City,,2
+departure," ,, L.) - 02 Marc 2007",2006,4,Brownlie,20,Chester City,,2
+departure," ,, 0 €) - 01 Febr 2007",2006,4,Comyn-Platt,20,Rochdale,,2
+departure," ,) - 01 Febr 2007",2006,4,Henry,20,Swindon Sup.,,2
+departure," ,, L.) - 01 Febr 2007",2006,4,Holgate,20,Macclesfield,,2
+departure," ,, 27 k€) - 11 Janu 2007",2006,4,Monkhouse,20,Hartlepool,,2
+departure," ,, 0 €) - 01 Janu 2007",2006,4,Onibuje,20,Wycombe Wanderers,,2
+departure," ,, 0 €) - 31 Dece 2006",2006,4,Stroud,20,,,2
+departure," ,, B.L.) - 30 Nove 2006",2006,4,Lonergan,20,Preston NE,,2
+departure," ,, B.L.) - 10 Nove 2006",2006,4,Rhodes,20,Brentford,,2
+departure," ,, 0 €) - 07 Nove 2006",2006,4,Williams,20,Weston-super-Mare,,2
+departure," ,, 0 €) - 24 Octo 2006",2006,4,Wise,20,Leeds United,,2
+departure," ,) - 24 Octo 2006",2006,4,Poyet,20,,,2
+departure," ,, B.L.) - 15 Octo 2006",2006,4,Brezovan,20,Brno,,2
+departure," ,, 0 €) - 17 Sept 2006",2006,4,Ince,20,Macclesfield Town,,2
+departure," ,, L.) - 01 Augu 2006",2006,4,Wells,20,Basingstoke,,2
+departure," ,, 0 €) - 25 July 2006",2006,4,Nicolau,20,Barnet,,2
+departure," ,, 0 €) - 03 July 2006",2006,4,O'Hanlon,20,MK Dons,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Lapham,20,Swindon Sup.,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Gurney,20,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Bulman,20,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Evans,20,Blackpool,,2
+departure," ,) - 01 July 2006",2006,4,Miglioranzi,20,Los Angeles,,2
+departure," ,, 0 €) - 06 June 2006",2006,4,Cureton,20,Colchester,,2
+departure," ,, 0 €) - 01 June 2006",2006,4,Reeves,20,,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Smith,20,,,2
+departure," ,) - 31 May 2006",2006,4,Jenkins,20,Worcester,,2
+departure," ,, B.L.) - 23 May 2006",2006,4,McPhee,20,Brighton,,2
+departure," ,, B.L.) - 23 May 2006",2006,4,Diagouraga,20,Watford,,2
+departure," ,, 0 €) - 18 May 2006",2006,4,Onuora,20,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Benjamin,20,Peterborough,,2
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Dickson,21,Plymouth,Torquay United,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Reid,21,Plymouth,Torquay United,1
+arrival," , (,, L.) - 21 Marc 2007",2006,4,Graham,21,S Wednesday,Torquay United,1
+arrival," , (,, 0 €) - 09 Marc 2007",2006,4,Robertson,21,Sheffield U,Torquay United,1
+arrival," , (,, L.) - 05 Marc 2007",2006,4,Williams,21,Millwall,Torquay United,1
+arrival," , (,, L.) - 02 Marc 2007",2006,4,Rayner,21,Lincoln City,Torquay United,1
+arrival," , (,, L.) - 02 Marc 2007",2006,4,Oliver,21,Sheffield U,Torquay United,1
+arrival," , (,, L.) - 23 Febr 2007",2006,4,John,21,Charlton B,Torquay United,1
+arrival," , (,, 0 €) - 16 Febr 2007",2006,4,Gordon,21,,Torquay United,1
+arrival," , (,, L.) - 16 Febr 2007",2006,4,Kerry,21,Sheffield U,Torquay United,1
+arrival," , (man., ,) - 07 Febr 2007",2006,4,Curle,21,,Torquay United,1
+arrival," , (,, 0 €) - 29 Janu 2007",2006,4,Smith,21,AFC Sudbury,Torquay United,1
+arrival," , (,, L.) - 25 Janu 2007",2006,4,Jarvis,21,Norwich City,Torquay United,1
+arrival," , (,, L.) - 25 Janu 2007",2006,4,Halliday,21,Norwich City,Torquay United,1
+arrival," , (,, 0 €) - 24 Janu 2007",2006,4,Robinson,21,Stockport,Torquay United,1
+arrival," , (,, L.) - 24 Janu 2007",2006,4,Miller,21,Southampton,Torquay United,1
+arrival," , (,, L.) - 16 Janu 2007",2006,4,Cooke,21,Bournemouth,Torquay United,1
+arrival," , (,, 0 €) - 10 Janu 2007",2006,4,Hapgood,21,Clevedon,Torquay United,1
+arrival," , (,, 0 €) - 09 Janu 2007",2006,4,Baxter,21,Toronto Lynx,Torquay United,1
+arrival," , (,, L.) - 05 Janu 2007",2006,4,Easter,21,Cardiff City,Torquay United,1
+arrival," , (,, L.) - 04 Janu 2007",2006,4,McKoy,21,Cardiff City,Torquay United,1
+arrival," , (man., ,) - 04 Dece 2006",2006,4,Kubik,21,Slask Wroclaw,Torquay United,1
+arrival," , (,, L.) - 03 Nove 2006",2006,4,Leary,21,Luton Town,Torquay United,1
+arrival," , (,, L.) - 26 Octo 2006",2006,4,Critchell,21,Southampton B,Torquay United,1
+arrival," , (,, L.) - 29 Sept 2006",2006,4,Fortune-West,21,Rushden,Torquay United,1
+arrival," , (,, 15 k€) - 30 Augu 2006",2006,4,Murray,21,Carlisle United,Torquay United,1
+arrival," , (,, 0 €) - 17 Augu 2006",2006,4,Kendrick,21,St. Patrick,Torquay United,1
+arrival," , (,, 0 €) - 10 Augu 2006",2006,4,Horsell,21,,Torquay United,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Abbey,21,,Torquay United,1
+arrival," , (,, L.) - 01 Augu 2006",2006,4,Robertson,21,Sheffield U,Torquay United,1
+arrival," , (,, 0 €) - 28 July 2006",2006,4,Motteram,21,,Torquay United,1
+arrival," , (,, 0 €) - 28 July 2006",2006,4,McPhee,21,Brighton,Torquay United,1
+arrival," , (,, 0 €) - 13 July 2006",2006,4,Angus,21,Grays,Torquay United,1
+arrival," , (,, 0 €) - 06 July 2006",2006,4,Ward,21,Aston Villa B,Torquay United,1
+arrival," , (,, 0 €) - 02 July 2006",2006,4,Mansell,21,Oxford United,Torquay United,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Reed,21,Yeovil,Torquay United,1
+arrival," , (,, 0 €) - 10 June 2006",2006,4,Andrews,21,Carlisle United,Torquay United,1
+arrival," , (,, 0 €) - 19 May 2006",2006,4,Thorpe,21,Swansea,Torquay United,1
+arrival," , (,, 0 €) - 19 May 2006",2006,4,Evans,21,Plymouth,Torquay United,1
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Graham,21,S Wednesday,,2
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Rayner,21,Lincoln City,,2
+departure," ,, B.L.) - 16 Apri 2007",2006,4,Kerry,21,Sheffield U,,2
+departure," ,, B.L.) - 10 Apri 2007",2006,4,John,21,Charlton B,,2
+departure," ,, B.L.) - 02 Apri 2007",2006,4,Oliver,21,Sheffield U,,2
+departure," ,, B.L.) - 18 Marc 2007",2006,4,Williams,21,Millwall,,2
+departure," ,, 0 €) - 11 Marc 2007",2006,4,Hapgood,21,,,2
+departure," ,, B.L.) - 05 Marc 2007",2006,4,Easter,21,Cardiff City,,2
+departure," ,, B.L.) - 25 Febr 2007",2006,4,Jarvis,21,Norwich City,,2
+departure," ,, B.L.) - 25 Febr 2007",2006,4,Halliday,21,Norwich City,,2
+departure," ,, B.L.) - 25 Febr 2007",2006,4,Miller,21,Southampton,,2
+departure," ,, 0 €) - 22 Febr 2007",2006,4,Motteram,21,Moor Green,,2
+departure," ,, 0 €) - 16 Febr 2007",2006,4,Reed,21,Tiverton,,2
+departure," ,, B.L.) - 12 Febr 2007",2006,4,Dickson,21,Plymouth,,2
+departure," ,, 0 €) - 06 Febr 2007",2006,4,Baxter,21,,,2
+departure," ,) - 06 Febr 2007",2006,4,Kubik,21,,,2
+departure," ,, 0 €) - 05 Febr 2007",2006,4,Hewlett,21,,,2
+departure," ,, 133 k€) - 31 Janu 2007",2006,4,Ward,21,Chesterfield,,2
+departure," ,, 28 k€) - 10 Janu 2007",2006,4,Murray,21,Macclesfield,,2
+departure," ,, B.L.) - 02 Janu 2007",2006,4,Robertson,21,Sheffield U,,2
+departure," ,, B.L.) - 01 Janu 2007",2006,4,Critchell,21,Southampton B,,2
+departure," ,, 0 €) - 29 Dece 2006",2006,4,Abbey,21,Brentford,,2
+departure," ,, B.L.) - 03 Dece 2006",2006,4,Leary,21,Luton Town,,2
+departure," ,, 0 €) - 01 Dece 2006",2006,4,Evans,21,,,2
+departure," ,, 0 €) - 07 Nove 2006",2006,4,Garner,21,Newport County,,2
+departure," ,, B.L.) - 29 Octo 2006",2006,4,Fortune-West,21,Rushden,,2
+departure," ,, 0 €) - 08 Sept 2006",2006,4,Kendrick,21,Tamworth,,2
+departure," ,, 0 €) - 26 July 2006",2006,4,Connell,21,Hereford United,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Coleman,21,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Robinson,21,Horden CW,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Sharp,21,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Lawless,21,Forest Green,,2
+departure," ,) - 01 July 2006",2006,4,Sow,21,Red Star,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Sako,21,Rochdale,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Marriott,21,Boston United,,2
+departure," ,, 0 €) - 30 June 2006",2006,4,Priso,21,,,2
+departure," ,, 0 €) - 16 June 2006",2006,4,Kuffour,21,Brentford,,2
+departure," ,, B.L.) - 01 June 2006",2006,4,Lloyd,21,Huddersfield Town,,2
+departure," ,, 0 €) - 01 June 2006",2006,4,Bittner,21,,,2
+departure," ,, 0 €) - 25 May 2006",2006,4,Bedeau,21,Walsall,,2
+departure," ,, B.L.) - 17 May 2006",2006,4,Andrews,21,Carlisle United,,2
+departure," ,, B.L.) - 12 May 2006",2006,4,Afful,21,Exeter City,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Hollands,21,Chelsea B,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Thorpe,21,Swansea,,2
+arrival," , (,, B.L.) - 01 May 2007",2006,4,Taylor,22,Halesowen,Walsall,1
+arrival," , (,, B.L.) - 29 Apri 2007",2006,4,Nicholls,22,Burton Albion,Walsall,1
+arrival," , (,, B.L.) - 16 Apri 2007",2006,4,Davies,22,Halesowen,Walsall,1
+arrival," , (,, B.L.) - 23 Marc 2007",2006,4,Bedeau,22,Bury,Walsall,1
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Benjamin,22,Peterborough,Walsall,1
+arrival," , (,, B.L.) - 21 Marc 2007",2006,4,Deeney,22,Halesowen,Walsall,1
+arrival," , (,, L.) - 23 Febr 2007",2006,4,Cooper,22,Cardiff City,Walsall,1
+arrival," , (,, L.) - 21 Febr 2007",2006,4,Harper,22,Stoke City,Walsall,1
+arrival," , (,, B.L.) - 04 Febr 2007",2006,4,Smith,22,Halesowen,Walsall,1
+arrival," , (,, B.L.) - 30 Janu 2007",2006,4,Constable,22,Kidderminster,Walsall,1
+arrival," , (,) - 02 Janu 2007",2006,4,Cederqvist,22,Raufoss,Walsall,1
+arrival," , (,, L.) - 23 Nove 2006",2006,4,Wright,22,Barnsley,Walsall,1
+arrival," , (,, 0 €) - 26 Sept 2006",2006,4,Bossu,22,,Walsall,1
+arrival," , (,, 0 €) - 31 July 2006",2006,4,Picken,22,,Walsall,1
+arrival," , (,) - 21 July 2006",2006,4,Sam,22,Port Vale,Walsall,1
+arrival," , (,, 0 €) - 08 July 2006",2006,4,Ince,22,Coventry,Walsall,1
+arrival," , (,) - 01 July 2006",2006,4,Lyall,22,Vancouver,Walsall,1
+arrival," , (,) - 01 July 2006",2006,4,Batista Mawete,22,Olivais e M.,Walsall,1
+arrival," , (,) - 01 July 2006",2006,4,Mawete Júnior,22,Olivais e M.,Walsall,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Fangueiro,22,Millwall,Walsall,1
+arrival," , (,, 0 €) - 06 June 2006",2006,4,Dobson,22,Brentford,Walsall,1
+arrival," , (,, B.L.) - 01 June 2006",2006,4,Coleman,22,Halesowen,Walsall,1
+arrival," , (,, 0 €) - 26 May 2006",2006,4,Butler,22,Rotherham,Walsall,1
+arrival," , (man., ,, 0 €) - 03 May 2006",2006,4,Money,22,,Walsall,1
+departure," ,, B.L.) - 23 Apri 2007",2006,4,Cooper,22,Cardiff City,,2
+departure," ,, L.) - 01 Apri 2007",2006,4,Taylor,22,Halesowen Town,,2
+departure," ,, L.) - 16 Marc 2007",2006,4,Davies,22,Halesowen Town,,2
+departure," ,, L.) - 23 Febr 2007",2006,4,Bedeau,22,Bury,,2
+departure," ,, L.) - 22 Febr 2007",2006,4,Nicholls,22,Burton Albion,,2
+departure," ,) - 01 Febr 2007",2006,4,Deakin,22,Redditch United,,2
+departure," ,, 28 k€) - 31 Janu 2007",2006,4,Constable,22,Kidderminster,,2
+departure," ,, L.) - 04 Janu 2007",2006,4,Smith,22,Halesowen Town,,2
+departure," ,, L.) - 04 Janu 2007",2006,4,McDermott,22,Halesowen Town,,2
+departure," ,, B.L.) - 01 Janu 2007",2006,4,Wright,22,Barnsley,,2
+departure," ,, L.) - 22 Dece 2006",2006,4,Deeney,22,Halesowen Town,,2
+departure," ,, 0 €) - 26 Octo 2006",2006,4,Fangueiro,22,Ionikos,,2
+departure," ,, 0 €) - 10 Octo 2006",2006,4,Standing,22,Chesterfield,,2
+departure," ,, 0 €) - 01 Augu 2006",2006,4,Oakes,22,Swansea,,2
+departure," ,) - 01 Augu 2006",2006,4,Osborn,22,Hereford United,,2
+departure," ,, 0 €) - 26 July 2006",2006,4,Barrowman,22,Kilmarnock,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Coleman,22,Willenhall,,2
+departure," ,) - 01 July 2006",2006,4,Devlin,22,Tamworth,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Broad,22,Truro City,,2
+departure," ,) - 01 July 2006",2006,4,Spencer,22,Tamworth,,2
+departure," ,, 0 €) - 06 June 2006",2006,4,Taylor,22,Bournemouth,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Smith,22,Bristol City,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Leary,22,Luton Town,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,James,22,Nottingham Forest,,2
+departure," ,, 0 €) - 30 May 2006",2006,4,Sztybel,22,,,2
+departure," ,, 0 €) - 08 May 2006",2006,4,Atieno,22,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Claridge,22,Bradford,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Mills,22,Derby County,,2
+departure," ,, 0 €) - 03 May 2006",2006,4,Kinsella,22,Walsall,,2
+departure," ,, 0 €) - 01 May 2006",2006,4,Timm,22,Odense,,2
+arrival," , (,, L.) - 22 Marc 2007",2006,4,Proctor,23,Hartlepool,Wrexham,1
+arrival," , (,, L.) - 21 Marc 2007",2006,4,Williams,23,Carlisle United,Wrexham,1
+arrival," , (,, L.) - 20 Marc 2007",2006,4,Walker,23,Port Vale,Wrexham,1
+arrival," , (,, L.) - 16 Febr 2007",2006,4,Whitley,23,Cardiff City,Wrexham,1
+arrival," , (,, 0 €) - 09 Febr 2007",2006,4,Carvill,23,,Wrexham,1
+arrival," , (,, L.) - 09 Febr 2007",2006,4,Ruddy,23,Everton B,Wrexham,1
+arrival," , (,, L.) - 08 Febr 2007",2006,4,Barron,23,Ipswich Town B,Wrexham,1
+arrival," , (,, L.) - 29 Janu 2007",2006,4,Garrett,23,Stoke City B,Wrexham,1
+arrival," , (,, L.) - 29 Janu 2007",2006,4,Samba,23,Plymouth,Wrexham,1
+arrival," , (,, L.) - 12 Janu 2007",2006,4,Mitchell,23,Milton Keynes,Wrexham,1
+arrival," , (man., ,) - 11 Janu 2007",2006,4,Carey,23,,Wrexham,1
+arrival," , (,, 0 €) - 24 Nove 2006",2006,4,Ugarte,23,,Wrexham,1
+arrival," , (,, L.) - 03 Nove 2006",2006,4,Smith,23,Sunderland B,Wrexham,1
+arrival," , (,, L.) - 02 Nove 2006",2006,4,Molango,23,Brighton,Wrexham,1
+arrival," , (,, L.) - 27 Octo 2006",2006,4,Craddock,23,Middlesbrough B,Wrexham,1
+arrival," , (,, L.) - 16 Octo 2006",2006,4,Morgan,23,Milton Keynes,Wrexham,1
+arrival," , (,, L.) - 19 Sept 2006",2006,4,McAliskey,23,Huddersfield,Wrexham,1
+arrival," , (,, B.L.) - 01 Sept 2006",2006,4,Reed,23,Colwyn Bay,Wrexham,1
+arrival," , (,, 0 €) - 11 Augu 2006",2006,4,Newby,23,,Wrexham,1
+arrival," , (,) - 08 Augu 2006",2006,4,Johnson,23,Jabloteh,Wrexham,1
+arrival," , (,, 0 €) - 01 Augu 2006",2006,4,Valentine,23,,Wrexham,1
+arrival," , (,, 0 €) - 04 July 2006",2006,4,Roberts,23,Doncaster,Wrexham,1
+arrival," , (,, 0 €) - 01 July 2006",2006,4,Wilson,23,Crewe,Wrexham,1
+arrival," , (,) - 01 July 2006",2006,4,Fleming,23,,Wrexham,1
+arrival," , (,, 0 €) - 30 June 2006",2006,4,Llewellyn,23,Hartlepool,Wrexham,1
+arrival," , (,, 0 €) - 19 June 2006",2006,4,Evans,23,TNS FC,Wrexham,1
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Whitley,23,Cardiff City,,2
+departure," ,, B.L.) - 29 Apri 2007",2006,4,Garrett,23,Stoke City B,,2
+departure," ,, B.L.) - 08 Apri 2007",2006,4,Walker,23,Port Vale,,2
+departure," ,, B.L.) - 10 Marc 2007",2006,4,Ruddy,23,Everton B,,2
+departure," ,, B.L.) - 08 Marc 2007",2006,4,Barron,23,Ipswich,,2
+departure," ,, B.L.) - 28 Febr 2007",2006,4,Samba,23,Plymouth,,2
+departure," ,, B.L.) - 04 Febr 2007",2006,4,Mitchell,23,Milton Keynes,,2
+departure," ,, 0 €) - 25 Janu 2007",2006,4,Newby,23,Southport,,2
+departure," ,) - 11 Janu 2007",2006,4,Smith,23,,,2
+departure," ,, B.L.) - 03 Janu 2007",2006,4,Smith,23,Sunderland B,,2
+departure," ,, B.L.) - 02 Dece 2006",2006,4,Molango,23,Brighton,,2
+departure," ,, B.L.) - 08 Nove 2006",2006,4,Morgan,23,Milton Keynes,,2
+departure," ,, B.L.) - 01 Nove 2006",2006,4,Craddock,23,Middlesbrough B,,2
+departure," ,, B.L.) - 19 Octo 2006",2006,4,McAliskey,23,Huddersfield,,2
+departure," ,) - 16 Augu 2006",2006,4,Lawrence,23,Swansea,,2
+departure," ,, 0 €) - 10 Augu 2006",2006,4,Wilson,23,Barrow,,2
+departure," ,, L.) - 01 Augu 2006",2006,4,Reed,23,Colwyn Bay,,2
+departure," ,, 0 €) - 20 July 2006",2006,4,Bayliss,23,Lancaster City,,2
+departure," ,, 0 €) - 12 July 2006",2006,4,Smith,23,Southport,,2
+departure," ,, 0 €) - 27 June 2006",2006,4,Holt,23,Northampton Town,,2
+departure," ,, 0 €) - 23 June 2006",2006,4,Walters,23,Chester City,,2
+departure," ,, 0 €) - 20 June 2006",2006,4,Bennett,23,Chester City,,2
+departure," ,, B.L.) - 31 May 2006",2006,4,Williams,23,Aston Villa B,,2
+departure," ,, 0 €) - 31 May 2006",2006,4,Whitley,23,,,2
+departure," ,, B.L.) - 07 May 2006",2006,4,Derbyshire,23,Blackburn B,,2
+arrival," , (,, L.) - 10 Marc 2007",2006,4,Pettigrew,24,Chelsea B,Wycombe Wanderers,1
+arrival," , (,, 0 €) - 10 Marc 2007",2006,4,Barnes-Homer,24,Willenhall,Wycombe Wanderers,1
+arrival," , (,, L.) - 22 Febr 2007",2006,4,Ainsworth,24,Derby County B,Wycombe Wanderers,1
+arrival," , (,, B.L.) - 31 Janu 2007",2006,4,Williams,24,Forest Green,Wycombe Wanderers,1
+arrival," , (,, 0 €) - 29 Janu 2007",2006,4,McParland,24,Barnsley,Wycombe Wanderers,1
+arrival," , (,, 112 k€) - 26 Janu 2007",2006,4,McGleish,24,Northampton,Wycombe Wanderers,1
+arrival," , (,, L.) - 12 Janu 2007",2006,4,Golbourne,24,Reading,Wycombe Wanderers,1
+arrival," , (,) - 05 Janu 2007",2006,4,Crooks,24,Milton Keynes,Wycombe Wanderers,1
+arrival," , (,, B.L.) - 02 Janu 2007",2006,4,Griffin,24,Forest Green,Wycombe Wanderers,1
+arrival," , (,, L.) - 02 Janu 2007",2006,4,Doherty,24,QPR,Wycombe Wanderers,1
+arrival," , (,, 0 €) - 01 Janu 2007",2006,4,Onibuje,24,Swindon Town,Wycombe Wanderers,1
+arrival," , (,, L.) - 20 Octo 2006",2006,4,O'Halloran,24,Aston Villa B,Wycombe Wanderers,1
+arrival," , (,, L.) - 31 Augu 2006",2006,4,Fernandez,24,Nottingham,Wycombe Wanderers,1
+arrival," , (,, L.) - 03 Augu 2006",2006,4,Ricardo Batista,24,Fulham B,Wycombe Wanderers,1
+arrival," , (,, 0 €) - 02 Augu 2006",2006,4,Young,24,Reading B,Wycombe Wanderers,1
+arrival," , (,, L.) - 20 July 2006",2006,4,Grant,24,Chelsea B,Wycombe Wanderers,1
+arrival," , (,, 0 €) - 17 July 2006",2006,4,Stockley,24,,Wycombe Wanderers,1
+arrival," , (,, 0 €) - 15 July 2006",2006,4,Palmer,24,Notts County,Wycombe Wanderers,1
+arrival," , (,) - 01 July 2006",2006,4,Brathwaite,24,,Wycombe Wanderers,1
+arrival," , (,) - 01 July 2006",2006,4,Botham,24,,Wycombe Wanderers,1
+arrival," , (,) - 01 July 2006",2006,4,Massey,24,English Club,Wycombe Wanderers,1
+arrival," , (,) - 01 July 2006",2006,4,Christon,24,,Wycombe Wanderers,1
+arrival," , (man., ,, 0 €) - 30 June 2006",2006,4,Lambert,24,,Wycombe Wanderers,1
+departure," ,, B.L.) - 30 Apri 2007",2006,4,Ainsworth,24,Derby County B,,2
+departure," ,, B.L.) - 22 Apri 2007",2006,4,Ricardo Batista,24,Fulham B,,2
+departure," ,, B.L.) - 10 Apri 2007",2006,4,Pettigrew,24,Chelsea B,,2
+departure," ,, 0 €) - 01 Marc 2007",2006,4,Stonebridge,24,,,2
+departure," ,, 0 €) - 14 Febr 2007",2006,4,Griffin,24,Newport County,,2
+departure," ,, 0 €) - 01 Febr 2007",2006,4,Williams,24,Lewes,,2
+departure," ,, B.L.) - 28 Janu 2007",2006,4,McParland,24,Barnsley,,2
+departure," ,, 225 k€) - 27 Janu 2007",2006,4,Betsy,24,Bristol City,,2
+departure," ,, B.L.) - 21 Janu 2007",2006,4,O'Halloran,24,Aston Villa B,,2
+departure," ,, 8.85 k€) - 11 Janu 2007",2006,4,Dixon,24,Aldershot Town,,2
+departure," ,, B.L.) - 17 Dece 2006",2006,4,Doherty,24,QPR,,2
+departure," ,, B.L.) - 19 Nove 2006",2006,4,Golbourne,24,Reading,,2
+departure," ,, B.L.) - 07 Octo 2006",2006,4,Fernandez,24,Nottingham,,2
+departure," ,, 0 €) - 07 July 2006",2006,4,Burnell,24,Northampton Town,,2
+departure," ,, 404.7 k€) - 04 July 2006",2006,4,Johnson,24,Cardiff City,,2
+departure," ,) - 01 July 2006",2006,4,Lee,24,,,2
+departure," ,, 0 €) - 01 July 2006",2006,4,Senda,24,,,2
+departure," ,, 0 €) - 30 June 2006",2006,4,Easton,24,Gillingham,,2
+departure," ,, 0 €) - 26 May 2006",2006,4,Gorman,24,,,2
