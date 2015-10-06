@@ -2,21 +2,58 @@ import scrapy
 
 from football_transfers.items import TransferItem
 
+
 class TransferSpider(scrapy.Spider):
 	name = "transfers"
 	allowed_domains = ["footballdatabase.eu"]
 	start_urls = [
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2014.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2013.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2012.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2011.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2010.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2009.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2008.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2007.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2006.html",
-		#"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/transfertstab.phpcompetition=1lieu=Angleterresaison=2005.html"
-		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2006.html"
+		#premierShip
+
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2005.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2006.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2007.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2008.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2009.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2010.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2011.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2012.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2013.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=lieu=Angleterresaison=2014.html",
+		#championship
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2005.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2006.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2007.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2008.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2009.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2010.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2011.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2012.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2013.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2014.html",
+		#league 1
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2005.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2006.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2007.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2008.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2009.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2010.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2011.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2012.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2013.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=3lieu=Angleterresaison=2014.html",
+		#league 2
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2005.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2006.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2007.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2008.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2009.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2010.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2011.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2012.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2013.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=4lieu=Angleterresaison=2014.html"
+
+
 	]
 
 	def parse(self, response):	
