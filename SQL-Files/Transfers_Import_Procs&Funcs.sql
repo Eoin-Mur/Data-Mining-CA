@@ -13,7 +13,7 @@ BEGIN
     DECLARE c_Id,c_Text,c_TransType,c_Year,c_Season,c_Player,c_RowId,c_Team,c_Owner,c_TransTypeId VARCHAR(100) DEFAULT "";
     DECLARE m_Id, m_Year, m_Season, m_RowId, m_TransTypeId VARCHAR(100) DEFAULT "";
     #declare our cursors
-    DECLARE TextCursor CURSOR FOR SELECT Id,TransferType,Text,Year,Season,Player,RowId,Team,Owner,TransferTypeId FROM data_mining_assignment.TransfersImport Limit 100;
+    DECLARE TextCursor CURSOR FOR SELECT Id,TransferType,Text,Year,Season,Player,RowId,Team,Owner,TransferTypeId FROM data_mining_assignment.TransfersImport;
     DECLARE MissingCursor CURSOR FOR SELECT CleanedId,CleanedYear,CleanedSeason,CleanedRowId,CleanedTransTypeId FROM CleanedTransfers WHERE CleanedOwner = "";
     DECLARE ImportCursor CURSOR FOR SELECT * FROM CleanedTransfers;
     #declare NOT FOUND handlier 

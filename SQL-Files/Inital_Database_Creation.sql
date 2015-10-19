@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS TransfersImport
     PRIMARY KEY(Id)
 );
  
-load data local infile 'C:/Users/eoinm_000/Documents/GitHub/Data-Mining-CA/Web-Scrape/football_transfers/Extracted_csv_files/full_extract.csv' 
+load data local infile 'C:/Users/Eoin/Documents/GitHub/Data-Mining-CA/Web-Scrape/football_transfers/Extracted_csv_files/full_extract.csv' 
 INTO TABLE TransfersImport
 FIELDS 
 	TERMINATED BY ','
@@ -60,5 +60,10 @@ IGNORE 1 LINES
 
 #SELECT * FROM transfersimport;
 
+SELECT * FROM transfersimport
+WHERE Year = 2005
+AND Owner = 'Brighton & Hove'
+AND Season = 2
+AND Team = 'Aston Villa B'
 
 
