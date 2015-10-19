@@ -1,0 +1,101 @@
+TransferId,Team,League,LeagueId,Year,TransferType,PlayerSurname,Cost,Loan,BackLoan,TTeam
+1,Arsenal,barclays-premier-league,1,2005,arrival,Poom,0,0,0,Sunderland
+2,Arsenal,barclays-premier-league,1,2006,arrival,Denilson,5000000,0,0,"São Paulo"
+3,Arsenal,barclays-premier-league,1,2005,arrival,Diaby,3000000,0,0,Auxerre
+4,Arsenal,barclays-premier-league,1,2007,arrival,Gibbs,0,0,1,"Norwich City"
+5,Arsenal,barclays-premier-league,1,2006,arrival,Gallas,0,0,0,Chelsea
+6,Arsenal,barclays-premier-league,1,2008,arrival,Arshavin,16500000,0,0,Zenit
+7,Arsenal,barclays-premier-league,1,2009,arrival,Campbell,0,0,0,
+8,Arsenal,barclays-premier-league,1,2010,arrival,Lehmann,0,0,0,
+9,Arsenal,barclays-premier-league,1,2011,arrival,Mannone,0,0,1,"Hull City"
+10,Arsenal,barclays-premier-league,1,2005,arrival,Adebayor,10000000,0,0,Monaco
+11,Arsenal,barclays-premier-league,1,2005,arrival,Bentley,0,0,1,Blackburn
+12,Arsenal,barclays-premier-league,1,2007,arrival,Djourou,0,0,1,Birmingham
+13,Arsenal,barclays-premier-league,1,2007,arrival,Diarra,2900000,0,0,Chelsea
+14,Arsenal,barclays-premier-league,1,2006,arrival,Baptista,0,1,0,"Real Madrid"
+15,Arsenal,barclays-premier-league,1,2008,arrival,Silvestre,950000,0,0,"Man U"
+16,Arsenal,barclays-premier-league,1,2009,arrival,Traoré,0,0,1,Portsmouth
+17,Arsenal,barclays-premier-league,1,2010,arrival,Ramsey,0,0,1,"Cardiff City"
+18,Arsenal,barclays-premier-league,1,2010,arrival,Squillaci,6500000,0,0,"Sevilla FC"
+19,Arsenal,barclays-premier-league,1,2011,arrival,Henry,0,1,0,"Red Bulls"
+20,Arsenal,barclays-premier-league,1,2005,arrival,Song,4000000,0,0,Bastia
+21,Arsenal,barclays-premier-league,1,2005,arrival,Hleb,15000000,0,0,Stuttgart
+22,Arsenal,barclays-premier-league,1,2012,arrival,Monreal,10000000,0,0,Malaga
+23,Arsenal,barclays-premier-league,1,2007,arrival,Sagna,9000000,0,0,Auxerre
+24,Arsenal,barclays-premier-league,1,2007,arrival,Eduardo,24000000,0,0,"Dinamo Zagreb"
+25,Arsenal,barclays-premier-league,1,2006,arrival,Aliadière,0,0,1,Wolverhampton
+26,Arsenal,barclays-premier-league,1,2013,arrival,Källström,0,1,0,"Spartak M."
+27,Arsenal,barclays-premier-league,1,2008,arrival,Nasri,16800000,0,0,Marseille
+28,Arsenal,barclays-premier-league,1,2008,arrival,Ramsey,7000000,0,0,"Cardiff City"
+29,Arsenal,barclays-premier-league,1,2009,arrival,Senderos,0,0,1,"AC Milan"
+30,Arsenal,barclays-premier-league,1,2009,arrival,Vermaelen,10500000,0,0,Ajax
+31,Arsenal,barclays-premier-league,1,2010,arrival,Koscielny,12500000,0,0,Lorient
+32,Arsenal,barclays-premier-league,1,2010,arrival,Chamakh,0,0,0,Bordeaux
+33,Arsenal,barclays-premier-league,1,2011,arrival,Almunia,0,0,1,"West Ham"
+34,Arsenal,barclays-premier-league,1,2011,arrival,Arteta,12000000,0,0,Everton
+35,Arsenal,barclays-premier-league,1,2005,departure,Owusu-Abeyie,2500000,0,0,"Spartak Moscow"
+36,Arsenal,barclays-premier-league,1,2012,arrival,"Santi Cazorla",16000000,0,0,Malaga
+37,Arsenal,barclays-premier-league,1,2012,arrival,Podolski,0,0,0,"FC Köln"
+38,Arsenal,barclays-premier-league,1,2007,arrival,Song,0,0,1,Charlton
+39,Arsenal,barclays-premier-league,1,2007,arrival,Reyes,0,0,1,"Real Madrid"
+40,Arsenal,barclays-premier-league,1,2006,arrival,Hoyte,0,0,1,Sunderland
+41,Arsenal,barclays-premier-league,1,2006,arrival,Rosicky,10000000,0,0,Dortmund
+42,Arsenal,barclays-premier-league,1,2013,arrival,Özil,50000000,0,0,"Real Madrid"
+43,Arsenal,barclays-premier-league,1,2013,arrival,Viviano,0,1,0,Palermo
+44,Arsenal,barclays-premier-league,1,2008,arrival,Vela,0,0,1,Osasuna
+45,Arsenal,barclays-premier-league,1,2008,departure,Senderos,0,1,0,"AC Milan"
+46,Arsenal,barclays-premier-league,1,2009,departure,Wilshere,0,1,0,"Bolton Wanderers"
+47,Arsenal,barclays-premier-league,1,2009,departure,Senderos,0,1,0,Everton
+48,Arsenal,barclays-premier-league,1,2010,arrival,Wilshere,0,0,1,Bolton
+49,Arsenal,barclays-premier-league,1,2011,arrival,Benayoun,0,1,0,Chelsea
+50,Arsenal,barclays-premier-league,1,2011,arrival,Mertesacker,11300000,0,0,"Werder Bremen"
+51,Arsenal,barclays-premier-league,1,2005,departure,Poom,0,0,1,Sunderland
+52,Arsenal,barclays-premier-league,1,2005,departure,Bentley,1750000,0,0,Blackburn
+53,Arsenal,barclays-premier-league,1,2012,arrival,Bendtner,0,0,1,Sunderland
+54,Arsenal,barclays-premier-league,1,2012,arrival,Campbell,0,0,1,Lorient
+55,Arsenal,barclays-premier-league,1,2007,arrival,Fabianski,0,0,0,Legia
+56,Arsenal,barclays-premier-league,1,2007,arrival,Bendtner,0,0,1,Birmingham
+57,Arsenal,barclays-premier-league,1,2006,departure,Song,0,1,0,Charlton
+58,Arsenal,barclays-premier-league,1,2006,departure,Lauren,0,0,0,Portsmouth
+59,"Brighton & Hove",champions-league,2,2005,arrival,Kuipers,0,0,1,"Boston United"
+60,Arsenal,barclays-premier-league,1,2013,arrival,Flamini,0,0,0,
+61,Arsenal,barclays-premier-league,1,2013,arrival,Campbell,0,0,1,"Real Betis"
+62,Arsenal,barclays-premier-league,1,2008,departure,Traoré,0,1,0,Portsmouth
+63,Arsenal,barclays-premier-league,1,2008,departure,Hoyte,3200000,0,0,Middlesbrough
+64,Arsenal,barclays-premier-league,1,2009,departure,Szczesny,0,1,0,Brentford
+65,Arsenal,barclays-premier-league,1,2009,departure,Touré,18000000,0,0,"Man City"
+66,Arsenal,barclays-premier-league,1,2010,arrival,Szczesny,0,0,1,Brentford
+67,Arsenal,barclays-premier-league,1,2010,departure,Vela,0,1,0,"West Bromwich Albion"
+68,Arsenal,barclays-premier-league,1,2011,arrival,"André Santos",7000000,0,0,Fenerbahçe
+69,Arsenal,barclays-premier-league,1,2011,arrival,Park,6500000,0,0,Monaco
+70,Arsenal,barclays-premier-league,1,2005,departure,Hoyte,0,1,0,Sunderland
+71,Arsenal,barclays-premier-league,1,2005,departure,Vieira,18000000,0,0,Juventus
+72,Arsenal,barclays-premier-league,1,2012,arrival,Vela,0,0,1,"Real Sociedad"
+73,Arsenal,barclays-premier-league,1,2012,arrival,Bartley,0,0,1,Rangers
+74,Arsenal,barclays-premier-league,1,2007,departure,Diarra,7000000,0,0,Portsmouth
+75,Arsenal,barclays-premier-league,1,2007,departure,Djourou,0,1,0,Birmingham
+76,Arsenal,barclays-premier-league,1,2006,departure,Reyes,0,1,0,"Real Madrid"
+77,Arsenal,barclays-premier-league,1,2006,departure,Cygan,0,0,0,Villarreal
+78,"Brighton & Hove",champions-league,2,2005,arrival,Noel-Williams,0,1,0,Burnley
+79,"Brighton & Hove",champions-league,2,2005,arrival,Elphick,0,0,1,Aldershot
+80,Arsenal,barclays-premier-league,1,2013,arrival,Frimpong,0,0,1,Fulham
+81,Arsenal,barclays-premier-league,1,2013,arrival,Park,0,0,1,Watford
+82,Arsenal,barclays-premier-league,1,2008,departure,Silva,2500000,0,0,Panathinaikos
+83,Arsenal,barclays-premier-league,1,2008,departure,Hleb,17000000,0,0,"FC Barcelona"
+84,Arsenal,barclays-premier-league,1,2009,departure,Adebayor,29000000,0,0,"Man City"
+85,"Aston Villa",barclays-premier-league,1,2009,arrival,Osbourne,0,0,1,Middlesbrough
+86,Arsenal,barclays-premier-league,1,2010,departure,Ramsey,0,1,0,Cardiff
+87,Arsenal,barclays-premier-league,1,2011,arrival,Campbell,1000000,0,0,"CD Saprissa"
+88,Arsenal,barclays-premier-league,1,2011,arrival,Oxlade-Chamberlain,13850000,0,0,Southampton
+89,Barnsley,champions-league,2,2006,arrival,Meynell,0,0,1,"English Club"
+90,Arsenal,barclays-premier-league,1,2005,departure,Aliadière,0,1,0,"Celtic Glasgow"
+91,Arsenal,barclays-premier-league,1,2012,arrival,Giroud,12000000,0,0,Montpellier
+92,Arsenal,barclays-premier-league,1,2012,arrival,Arshavin,0,0,1,Zenit
+93,Arsenal,barclays-premier-league,1,2007,departure,Reyes,12000000,0,0,"Atlético Madrid"
+94,Arsenal,barclays-premier-league,1,2007,departure,Ljungberg,4500000,0,0,"West Ham"
+95,Arsenal,barclays-premier-league,1,2006,departure,Cole,7500000,0,0,Chelsea
+96,Arsenal,barclays-premier-league,1,2006,departure,Campbell,0,0,0,Portsmouth
+97,Barnsley,champions-league,2,2007,arrival,Potter,0,0,1,Stafford
+98,"Brighton & Hove",champions-league,2,2005,arrival,Jarrett,0,0,1,"Swindon Town"
+99,"Brighton & Hove",champions-league,2,2005,arrival,Molango,0,0,1,"Lincoln City"
+100,Arsenal,barclays-premier-league,1,2013,arrival,Sanogo,0,0,0,Auxerre

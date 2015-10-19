@@ -14,10 +14,16 @@ CREATE TABLE IF NOT EXISTS TransferHistory
     Cost REAL,
     Loan INT NOT NULL,
     BackLoan INT NOT NULL,
-    OTeam VARCHAR(100),
     TTeam VARCHAR(100),    
     primary key(TransferId)
 );
+
+
+#SELECT * FROM TransferHistory;
+
+#DELETE FROM TransferHistory;
+
+#ALTER TABLE TransferHistory AUTO_INCREMENT = 1;
 
 #Most pain in the arse function ever!!!
 #first doenst allow file_name as a paramater 
@@ -42,7 +48,7 @@ CREATE TABLE IF NOT EXISTS TransfersImport
     PRIMARY KEY(Id)
 );
  
-load data local infile 'C:/Users/Eoin/Documents/GitHub/Data-Mining-CA/Web-Scrape/football_transfers/Extracted_csv_files/full_extract.csv' 
+load data local infile 'C:/Users/eoinm_000/Documents/GitHub/Data-Mining-CA/Web-Scrape/football_transfers/Extracted_csv_files/full_extract.csv' 
 INTO TABLE TransfersImport
 FIELDS 
 	TERMINATED BY ','
