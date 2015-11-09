@@ -53,6 +53,9 @@ transfer.debSub2 <- subset(transfer.df,
 					Cost != 0,
 					select = c(League,Cost))
 
+plot(arrSub)
+
+
 f <- c(aggregate(formula = Cost ~ League, data = transfer.df, FUN = mean))
 a <- c(aggregate(formula = Cost ~ League, data = transfer.arrSub, FUN = mean))
 a1 <- c(aggregate(formula = Cost ~ League, data = transfer.arrSub1, FUN = mean))
@@ -98,6 +101,7 @@ transfer.all
 transfer.mean
 transfer.median
 transfer.mode
+
 
 
 dbClearResult(res)
