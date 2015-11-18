@@ -21,8 +21,8 @@ BEGIN
         Team varchar(30),
         League varchar(30),
         Season int,
-        SpendClass varchar(30),
-        IncomeClass varchar(30),
+        Spend varchar(30),
+        Income varchar(30),
         Nett varchar(30),
         Points varchar(30),
         Position int
@@ -130,5 +130,7 @@ BEGIN
 
 END $$
 DELIMITER ;
+
+#drop procedure getBinnedPoints
 
 CALL getBinnedPoints();
