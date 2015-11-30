@@ -15,9 +15,9 @@ CREATE VIEW transfers_Income_v
 	AS
 		SELECT League,Year,Team,SUM(Cost) as Income FROM TransferHistory WHERE TransferType='departure' group by Year,League,Team;
 
-CREATE VIEW transfer_table_join
+ALTER VIEW transfer_table_join
 AS
-	SELECT TableHistory.team, TableHistory.league,TableHistory.season,t1.Spend,t2.Income, SUM(t2.Income - t1.Spend) AS Nett, TableHistory.points, TableHistory.Position FROM TableHistory
+	SELECT TableHistory.team, TableHistory.league,TableHistory.season,t1.Spend,t2.Income, TableHistory.points, TableHistory.Position FROM TableHistory
     LEFT JOIN transfers_Spend_v as t1 ON t1.League = TableHistory.league AND t1.Team = TableHistory.team AND t1.Year = TableHistory.season
     LEFT JOIN transfers_Income_v as t2 ON t2.League = TableHistory.league AND t2.Team = TableHistory.team AND t2.Year = TableHistory.season
     WHERE tablehistory.position <> 0 
@@ -109,7 +109,7 @@ CALL match_transfer_teams_to_table();
 CREATE TABLE DEBUG_LOG(Log VARCHAR(10000))
 SELECT * FROM DEBUG_LOG;
 
-Create View cleaned_table_join 
+ALTER View cleaned_table_join 
 AS	
 	SELECT * FROM transfer_table_join WHERE team IN (SELECT team FROM transfer_table_join Group BY Team HAVING COUNT(Team) = 10);
 
