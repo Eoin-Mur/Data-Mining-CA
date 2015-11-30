@@ -8,27 +8,61 @@ import java.util.Properties;
 
 public class TransfersAssignment {
 	
-	//AVEREGE SPEND PER POINT!!!!!!!!!
-	
-	
-	//NEED TO CREATE THIS SQL STATMENT IN JAVA CODE :(
-	//select top 1 Distinct class, Count(class) as count GROUP BY class ORDER BY count DESC 
-	//i will take reasons i like SQL for 4000, Alex!
-	
-	//Hacky/inefficient way to do it:
-	//	1. send sql cmd to create a temp table with 2 columns
-	//	2. insert the NN matrix to this table
-	//	3. send the command above
-	//	4. for the length of result set returned 
-	//	5. read current count
-	//	6. if next count in result set is greater then prev
-	//	7. set that as largest.
-	// 	8. no more rows return largest.
-	// 	9. drop temp table created.
+	public static int[][] resultSetToMatrix(ResultSet rs)
+	{
+		int numRows = 0;
+		
+		try
+		{
+			if( rs.last() )
+			{
+				numRows = rs.getRow();
+				rs.beforeFirst();
+			}
+			
+			int[][] a = new int[numRows][3];
+
+			int i = 0;
+			while( rs.next() )
+			{
+				int spend = rs.getInt("Spend");
+				int income = rs.getInt("Income");
+				int position = rs.getInt("Position");
+				
+				a[i][0] = spend;
+				a[i][1] = income;
+				a[i][2] = position;
+				
+				i++;
+			}
+			 return a;
+		}catch(SQLException e)
+		{
+			System.out.println("SQLException: " + e.getMessage());
+		    System.out.println("SQLState: " + e.getSQLState());
+		    System.out.println("VendorError: " + e.getErrorCode());
+		    
+		}
+		return null;
+	}
 	
 	/*
 	public static int selectClassifer(double[][] NN)
 	{
+		//NEED TO CREATE THIS SQL STATMENT IN JAVA CODE :(
+		//select top 1 Distinct class, Count(class) as count GROUP BY class ORDER BY count DESC 
+		//i will take reasons i like SQL for 4000, Alex!
+		
+		//Hacky/inefficient way to do it:
+		//	1. send sql cmd to create a temp table with 2 columns
+		//	2. insert the NN matrix to this table
+		//	3. send the command above
+		//	4. for the length of result set returned 
+		//	5. read current count
+		//	6. if next count in result set is greater then prev
+		//	7. set that as largest.
+		// 	8. no more rows return largest.
+		// 	9. drop temp table created.
 		int[][] countMatrix = new int[NN.length][2];
 		for( int i = 0; i < NN.length; i++ )
 		{
@@ -37,6 +71,7 @@ public class TransfersAssignment {
 		
 	}
 	*/
+	
 	public static double[][] insert(double d,double c, double[][] m)
 	{
 		double tempD;
@@ -81,11 +116,10 @@ public class TransfersAssignment {
 		return NN;
 	}
 
-	
-	//matrix parameters must be in format {spend,income,position}
-	//returned matrix is distance mapped to class
 	public static double[][] calcNNMatrix(int[][] a,int ps, int pi)
 	{
+		//matrix parameters must be in format {spend,income,position}
+		//returned matrix is distance mapped to class
 		double r[][] = new double[a.length][2];
 		for( int i = 0; i < a.length; i++ )
 		{
@@ -95,10 +129,10 @@ public class TransfersAssignment {
 		return r;
 	}
 	
-	// i and s are the income and spend in the training set
-	//pi and ps are the income and spend in our unseen set(value we are making a predictions off).
 	public static double euclideanDist(int s, int i, int ps, int pi)
 	{
+		// i and s are the income and spend in the training set
+		//pi and ps are the income and spend in our unseen set(value we are making a predictions off).
 		return Math.sqrt( Math.pow(s-i, 2) + Math.pow(ps-pi, 2) );
 	}
 	
@@ -298,6 +332,8 @@ public class TransfersAssignment {
 			rs = getDataOnTeam(conn,stmt,predteam);
 			int diffs[][] = returnDiffs(rs);
 			//test2DArray(diffs);
+			//int[][] DM = resultSetToMatrix(rs);
+			
 			
 			int a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
 			predSpend = a[0][0];
