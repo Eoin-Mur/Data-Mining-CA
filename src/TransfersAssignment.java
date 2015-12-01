@@ -4,9 +4,51 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.Properties;
 
 public class TransfersAssignment {
+	
+	public static int getPositionDiffPrevYear(Connection conn, Statement stmt, int p,String team)
+	{
+		ResultSet rs = null;
+		try
+		{
+			
+			String query = "SELECT Position FROM cleaned_table_join WHERE Team = '"+team+"' and Season <> '2014' Order by Season DESC LIMIT 1";
+			rs = stmt.executeQuery(query);
+			rs.next();
+			int position = rs.getInt("Position");
+			
+			return position-p;
+			
+		}catch(SQLException ex)
+		{
+		    System.out.println("SQLException: " + ex.getMessage());
+		    System.out.println("SQLState: " + ex.getSQLState());
+		    System.out.println("VendorError: " + ex.getErrorCode());
+		}
+		finally
+		{
+			try
+			{
+				rs.close();
+			}
+			catch(SQLException e){}
+		}
+		return 0;
+	}
+	
+	public static double getHighestDist(double m[][])
+	{
+		double highest = m[0][0];
+		for( int i = 1; i < m.length; i++ )
+		{
+			if(m[i][0] > highest)
+				highest = m[i][0];
+		}
+		return highest;
+	}
 	
 	public static int[][] resultSetToMatrix(ResultSet rs)
 	{
@@ -46,7 +88,6 @@ public class TransfersAssignment {
 		return null;
 	}
 	
-	/*
 	public static int selectClassifer(double[][] NN)
 	{
 		//NEED TO CREATE THIS SQL STATMENT IN JAVA CODE :(
@@ -63,14 +104,54 @@ public class TransfersAssignment {
 		//	7. set that as largest.
 		// 	8. no more rows return largest.
 		// 	9. drop temp table created.
-		int[][] countMatrix = new int[NN.length][2];
-		for( int i = 0; i < NN.length; i++ )
+		
+		//TODO: create a object to hold the dist,class and count then can use just on array list.
+		
+		//Kinda a sketcy way to do this as it assumes the indexs in classifiers and counts will always relate correctly
+		ArrayList<Integer> classifiers = new ArrayList<Integer>();
+		ArrayList<Integer> counts = new ArrayList<Integer>();
+		int i;
+		for( i = 0; i < NN.length; i++ )
 		{
-			
+			if( classifiers.contains((int)NN[i][1]) )
+			{
+				int currCount = (int) counts.get(counts.size()-1);
+				counts.set(classifiers.indexOf(classifiers.get(classifiers.size()-1)),currCount+1);
+			}
+			else
+			{
+				classifiers.add((int)NN[i][1]);
+				counts.add(1);
+			}
+		}
+		
+		int highestCount = counts.get(0);
+		int highestIndex = 0;
+		int lowestClass = classifiers.get(0);
+		
+		for( i = 1; i < classifiers.size(); i++ )
+		{
+			if( counts.get(i) > highestCount )
+			{
+				highestCount = counts.get(i);
+				highestIndex = i;
+			}
+			if( classifiers.get(i) < lowestClass)
+			{
+				lowestClass = classifiers.get(i);
+			}
+		}
+		
+		if( highestCount == 1 )
+		{
+			return (int)NN[0][1];
+		}
+		else
+		{
+			return classifiers.get(highestIndex);
 		}
 		
 	}
-	*/
 	
 	public static double[][] insert(double d,double c, double[][] m)
 	{
@@ -100,9 +181,8 @@ public class TransfersAssignment {
 		double NN[][] = new double[k][2];
 		for( i = 0; i < NN.length; i++ )
 		{
-			//just hard code in a crazy high value in the initalization in the mean time
-			//TODO: Write a function to get the highest value in the matrix to initalize on 
-			NN[i][0] = 100000000.0;
+			//use the highest value to start
+			NN[i][0] = getHighestDist(m);
 			NN[i][1] = 0.0;
 		}
 		
@@ -200,7 +280,7 @@ public class TransfersAssignment {
 			}
 			System.out.println();
 		}
-		System.out.println("----------");
+		System.out.println("----------\n");
 	}
 	
 	public static void test2DArray(double[][] a)
@@ -214,7 +294,7 @@ public class TransfersAssignment {
 			}
 			System.out.println();
 		}
-		System.out.println("----------");
+		System.out.println("----------\n");
 	}
 	
 	public static ResultSet getDataOnTeam(Connection conn,Statement stmt,String team)
@@ -276,6 +356,39 @@ public class TransfersAssignment {
 		return null;
 	}
 	
+	public static String[][] get2014(Connection conn, Statement stmt)
+	{
+		ResultSet rs = null;
+		
+		try
+		{
+			
+			String query = "SELECT team,spend,income FROM cleaned_table_join WHERE Season = '2014' AND league='barclays-premier-league'";
+			rs = stmt.executeQuery(query);
+			String [][] a = new String[20][3];
+			int i = 0;
+			while( rs.next() )
+			{
+				a[i][0] = rs.getString("team");
+				a[i][1] = rs.getString("Spend");
+				a[i][2] = rs.getString("Income");
+				i++;
+			}
+			return a;
+			
+		}catch(SQLException ex)
+		{
+		    System.out.println("SQLException: " + ex.getMessage());
+		    System.out.println("SQLState: " + ex.getSQLState());
+		    System.out.println("VendorError: " + ex.getErrorCode());
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		
+		return null;
+	}
 	public static void main(String[] args)
 	{
 		int K = 4;
@@ -309,7 +422,11 @@ public class TransfersAssignment {
 			System.out.println("Based off Spending of "+predSpend);
 			System.out.println("and a income of "+predIncome+"....\n");
 		}
-		else
+		if( args.length == 1 )
+		{
+			
+		}
+		else if(args.length == 0)
 		{
 			System.out.println("Usage:");
 			System.out.println("java TransferAssignment 'team' 'spend' 'income'");
@@ -327,23 +444,72 @@ public class TransfersAssignment {
 			config.load(in);
 			conn = DriverManager.getConnection(dbURL,config);
 
-			stmt = conn.createStatement();
+			if( args.length == 1)
+			{
+				stmt = conn.createStatement();
+				
+				String [][] aa = get2014(conn,stmt);
+					
+				for(int k = 0; k < aa.length; k++)
+				{
+					
+					predteam = aa[k][0];
+					predSpend = Integer.parseInt(aa[k][1]);
+					predIncome = Integer.parseInt(aa[k][2]);
+					System.out.println("\n................................");
+					System.out.println("Predicting Position Increase");
+					System.out.println("for team "+predteam);
+					System.out.println("Based off Spending of "+predSpend);
+					System.out.println("and a income of "+predIncome+"....");
+
+					rs = getDataOnTeam(conn,stmt,predteam);
+					int diffs[][] = returnDiffs(rs);
+					//test2DArray(diffs);
+					//int[][] DM = resultSetToMatrix(rs);
+					//test2DArray(DM);
+					
+					int a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
+					predSpend = a[0][0];
+					predIncome = a[0][1];
+					
+					//System.out.println(predSpend+",,"+predIncome);
+					double nnMatrix[][] = calcNNMatrix(diffs, predSpend, predIncome);
+					//test2DArray(nnMatrix);
+					double kMatrix[][] = selectKNeighbors(K,nnMatrix);
+					//System.out.println(K+"-NN Matrix");
+					//test2DArray(kMatrix);
+					int classifier = selectClassifer(kMatrix);
+					System.out.println("Predicted Classifer is "+classifier);
+					//System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam))
+				}
+				
+			}
+			else
+			{
 			
-			rs = getDataOnTeam(conn,stmt,predteam);
-			int diffs[][] = returnDiffs(rs);
-			//test2DArray(diffs);
-			//int[][] DM = resultSetToMatrix(rs);
 			
-			
-			int a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
-			predSpend = a[0][0];
-			predIncome = a[0][1];
-			
-			double nnMatrix[][] = calcNNMatrix(diffs, predSpend, predIncome);
-			//test2DArray(nnMatrix);
-			double kMatrix[][] = selectKNeighbors(K,nnMatrix);
-			test2DArray(kMatrix);
-			
+				stmt = conn.createStatement();
+				
+				rs = getDataOnTeam(conn,stmt,predteam);
+				int diffs[][] = returnDiffs(rs);
+				test2DArray(diffs);
+				//int[][] DM = resultSetToMatrix(rs);
+				//test2DArray(DM);
+				
+				int a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
+				predSpend = a[0][0];
+				predIncome = a[0][1];
+				
+				System.out.println(predSpend+",,"+predIncome);
+				double nnMatrix[][] = calcNNMatrix(diffs, predSpend, predIncome);
+				test2DArray(nnMatrix);
+				double kMatrix[][] = selectKNeighbors(K,nnMatrix);
+				System.out.println(K+"-NN Matrix");
+				test2DArray(kMatrix);
+				int classifier = selectClassifer(kMatrix);
+				System.out.println("Predicted Classifer is "+classifier);
+				//System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam));
+			}
 		}
 		catch(SQLException e)
 		{
