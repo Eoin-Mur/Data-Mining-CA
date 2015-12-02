@@ -4,7 +4,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
 import java.util.Properties;
 
 public class TransfersAssignment {
@@ -50,7 +49,7 @@ public class TransfersAssignment {
 		return highest;
 	}
 	
-	public static int[][] resultSetToMatrix(ResultSet rs)
+	public static double[][] resultSetToMatrix(ResultSet rs)
 	{
 		int numRows = 0;
 		
@@ -62,14 +61,14 @@ public class TransfersAssignment {
 				rs.beforeFirst();
 			}
 			
-			int[][] a = new int[numRows][3];
+			double[][] a = new double[numRows][3];
 
 			int i = 0;
 			while( rs.next() )
 			{
-				int spend = rs.getInt("Spend");
-				int income = rs.getInt("Income");
-				int position = rs.getInt("Position");
+				double spend = rs.getDouble("Spend");
+				double income = rs.getDouble("Income");
+				double position = rs.getDouble("Position");
 				
 				a[i][0] = spend;
 				a[i][1] = income;
@@ -88,7 +87,7 @@ public class TransfersAssignment {
 		return null;
 	}
 	
-	public static int selectClassifer(double[][] NN)
+	public static double selectClassifer(double[][] NN, int k)
 	{
 		//NEED TO CREATE THIS SQL STATMENT IN JAVA CODE :(
 		//select top 1 Distinct class, Count(class) as count GROUP BY class ORDER BY count DESC 
@@ -105,50 +104,53 @@ public class TransfersAssignment {
 		// 	8. no more rows return largest.
 		// 	9. drop temp table created.
 		
-		//TODO: create a object to hold the dist,class and count then can use just on array list.
 		
 		//Kinda a sketcy way to do this as it assumes the indexs in classifiers and counts will always relate correctly
-		ArrayList<Integer> classifiers = new ArrayList<Integer>();
-		ArrayList<Integer> counts = new ArrayList<Integer>();
+		double[][] classifiers = new double[k][1];
+		double[][] counts = new double[k][1];
 		int i;
+		boolean found = false;
 		for( i = 0; i < NN.length; i++ )
 		{
-			if( classifiers.contains((int)NN[i][1]) )
+			for(int j = 0; j < classifiers.length;j++)
 			{
-				int currCount = (int) counts.get(counts.size()-1);
-				counts.set(classifiers.indexOf(classifiers.get(classifiers.size()-1)),currCount+1);
+				//System.out.println("arse: "+classifiers[j][0]+": == "+NN[i][1]);
+				if( classifiers[j][0] ==  NN[i][1] && i!=0)
+				{
+					counts[j][0]++;
+					found = true;
+				}
 			}
-			else
+			if(found == false)
 			{
-				classifiers.add((int)NN[i][1]);
-				counts.add(1);
+				classifiers[i][0] = NN[i][1];
+				counts[i][0]++;
 			}
+			found = false;
 		}
 		
-		int highestCount = counts.get(0);
+		double highestCount = counts[0][0];
 		int highestIndex = 0;
-		int lowestClass = classifiers.get(0);
+		System.out.println(counts.length);
 		
-		for( i = 1; i < classifiers.size(); i++ )
+		for( i = 0; i < classifiers.length; i++ )
 		{
-			if( counts.get(i) > highestCount )
+			//System.out.println("class: "+classifiers[i][0]+" count: "+counts[i][0]);
+			if( counts[i][0] > highestCount )
 			{
-				highestCount = counts.get(i);
+				highestCount = counts[i][0];
 				highestIndex = i;
 			}
-			if( classifiers.get(i) < lowestClass)
-			{
-				lowestClass = classifiers.get(i);
-			}
+			//if(counts[i][0]==0)break; 
 		}
 		
 		if( highestCount == 1 )
 		{
-			return (int)NN[0][1];
+			return classifiers[0][0];
 		}
 		else
 		{
-			return classifiers.get(highestIndex);
+			return classifiers[highestIndex][0];
 		}
 		
 	}
@@ -196,7 +198,7 @@ public class TransfersAssignment {
 		return NN;
 	}
 
-	public static double[][] calcNNMatrix(int[][] a,int ps, int pi)
+	public static double[][] calcNNMatrix(double[][] a,double ps, double pi)
 	{
 		//matrix parameters must be in format {spend,income,position}
 		//returned matrix is distance mapped to class
@@ -209,11 +211,11 @@ public class TransfersAssignment {
 		return r;
 	}
 	
-	public static double euclideanDist(int s, int i, int ps, int pi)
+	public static double euclideanDist(double s, double i, double ps, double pi)
 	{
 		// i and s are the income and spend in the training set
-		//pi and ps are the income and spend in our unseen set(value we are making a predictions off).
-		return Math.sqrt( Math.pow(s-i, 2) + Math.pow(ps-pi, 2) );
+		//pi and ps are the income and spend in our unseen set(value we are making a predictions off)	
+		return Math.sqrt( Math.pow((s-ps), 2) + Math.pow((i-pi), 2) );
 	}
 	
 	public static double distance(int s, int i, int ps, int pi)
@@ -221,7 +223,7 @@ public class TransfersAssignment {
 		return (s - ps) + (i - pi);
 	}
 	
-	public static int[][] returnDiffs(ResultSet rs)
+	public static double[][] returnDiffs(ResultSet rs)
 	{
 		int numRows = 0;
 		
@@ -233,22 +235,22 @@ public class TransfersAssignment {
 				rs.beforeFirst();
 			}
 			
-			int[][] diffsArray = new int[numRows-1][3];
+			double[][] diffsArray = new double[numRows-1][3];
 			int i = 0;
 			//need to save the previous years value for calculations 
-			int prevS = 1;
-			int prevI = 1;
-			int prevP = 1;
+			double prevS = 1;
+			double prevI = 1;
+			double prevP = 1;
 			while( rs.next() )
 			{
-				int spend = rs.getInt("Spend");
-				int income = rs.getInt("Income");
-				int position = rs.getInt("Position");
+				double spend = rs.getDouble("Spend");
+				double income = rs.getDouble("Income");
+				double position = rs.getDouble("Position");
 				
-				if(prevS != 1 && prevI != 1 && prevP != 1)
+				if(i != 0 )
 				{
-					diffsArray[i-1][0] = spend - prevS;
-					diffsArray[i-1][1] = income - prevI;
+					diffsArray[i-1][0] = prevS - spend;
+					diffsArray[i-1][1] = prevI - income;
 					diffsArray[i-1][2] = prevP - position;
 				}
 				
@@ -304,7 +306,7 @@ public class TransfersAssignment {
 		try
 		{
 			
-			String query = "SELECT * FROM cleaned_table_join WHERE Team = '"+team+"' and Season <> '2014' Order by Season ASC";
+			String query = "SELECT * FROM cleaned_table_join WHERE league = 'barclays-premier-league' and season <> 2014 group by team,season order by team, season desc;";
 			rs = stmt.executeQuery(query);
 			
 		}catch(SQLException ex)
@@ -321,7 +323,7 @@ public class TransfersAssignment {
 		return rs;
 	}
 	
-	public static int[][] getDiffInPredValue(Connection conn, Statement stmt, String team,int predSpend, int predIncome)
+	public static double[][] getDiffInPredValue(Connection conn, Statement stmt, String team,double predSpend, double predIncome)
 	{
 		ResultSet rs = null;
 		try
@@ -330,10 +332,10 @@ public class TransfersAssignment {
 			String query = "SELECT Spend, Income FROM cleaned_table_join WHERE Team = '"+team+"' and Season <> '2014' Order by Season DESC LIMIT 1";
 			rs = stmt.executeQuery(query);
 			rs.next();
-			int spend = rs.getInt("Spend");
-			int income = rs.getInt("Income");
+			double spend = rs.getDouble("Spend");
+			double income = rs.getDouble("Income");
 			
-			int[][] a = new int[1][2];
+			double[][] a = new double[1][2];
 			a[0][0] = predSpend - spend;
 			a[0][1] = predIncome - income;
 			
@@ -389,12 +391,13 @@ public class TransfersAssignment {
 		
 		return null;
 	}
+	
 	public static void main(String[] args)
 	{
 		int K = 4;
 		String predteam = null;
-		int predSpend = 0;
-		int predIncome = 0;
+		double predSpend = 0;
+		double predIncome = 0;
 		
 		String dbURL = "jdbc:mysql://localhost/data_mining_assignment";
 		Connection conn = null;
@@ -407,8 +410,8 @@ public class TransfersAssignment {
 			predteam = args[0];
 			try
 			{
-				predSpend = Integer.parseInt(args[1]);
-				predIncome = Integer.parseInt(args[2]);
+				predSpend = Double.parseDouble(args[1]);
+				predIncome = Double.parseDouble(args[2]);
 			}
 			catch(NumberFormatException e)
 			{
@@ -454,8 +457,8 @@ public class TransfersAssignment {
 				{
 					
 					predteam = aa[k][0];
-					predSpend = Integer.parseInt(aa[k][1]);
-					predIncome = Integer.parseInt(aa[k][2]);
+					predSpend = Double.parseDouble(aa[k][1]);
+					predIncome = Double.parseDouble(aa[k][2]);
 					System.out.println("\n................................");
 					System.out.println("Predicting Position Increase");
 					System.out.println("for team "+predteam);
@@ -463,12 +466,12 @@ public class TransfersAssignment {
 					System.out.println("and a income of "+predIncome+"....");
 
 					rs = getDataOnTeam(conn,stmt,predteam);
-					int diffs[][] = returnDiffs(rs);
+					double diffs[][] = returnDiffs(rs);
 					//test2DArray(diffs);
-					//int[][] DM = resultSetToMatrix(rs);
+					//double[][] DM = resultSetToMatrix(rs);
 					//test2DArray(DM);
 					
-					int a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
+					double a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
 					predSpend = a[0][0];
 					predIncome = a[0][1];
 					
@@ -478,7 +481,7 @@ public class TransfersAssignment {
 					double kMatrix[][] = selectKNeighbors(K,nnMatrix);
 					//System.out.println(K+"-NN Matrix");
 					//test2DArray(kMatrix);
-					int classifier = selectClassifer(kMatrix);
+					double classifier = selectClassifer(kMatrix,K);
 					System.out.println("Predicted Classifer is "+classifier);
 					//System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam))
 				}
@@ -491,22 +494,22 @@ public class TransfersAssignment {
 				stmt = conn.createStatement();
 				
 				rs = getDataOnTeam(conn,stmt,predteam);
-				int diffs[][] = returnDiffs(rs);
-				test2DArray(diffs);
-				//int[][] DM = resultSetToMatrix(rs);
+				double diffs[][] = returnDiffs(rs);
+				//test2DArray(diffs);
+				//double[][] DM = resultSetToMatrix(rs);
 				//test2DArray(DM);
 				
-				int a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
+				double a[][] = getDiffInPredValue(conn,stmt,predteam,predSpend,predIncome);
 				predSpend = a[0][0];
 				predIncome = a[0][1];
 				
-				System.out.println(predSpend+",,"+predIncome);
+				//System.out.println(predSpend+",,"+predIncome);
 				double nnMatrix[][] = calcNNMatrix(diffs, predSpend, predIncome);
 				test2DArray(nnMatrix);
 				double kMatrix[][] = selectKNeighbors(K,nnMatrix);
 				System.out.println(K+"-NN Matrix");
 				test2DArray(kMatrix);
-				int classifier = selectClassifer(kMatrix);
+				double classifier = selectClassifer(kMatrix,K);
 				System.out.println("Predicted Classifer is "+classifier);
 				//System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam));
 			}

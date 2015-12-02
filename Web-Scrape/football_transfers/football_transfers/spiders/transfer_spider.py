@@ -18,7 +18,7 @@ class TransferSpider(scrapy.Spider):
 		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2011.html",
 		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2012.html",
 		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=1lieu=Angleterresaison=2013.html",
-		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=lieu=Angleterresaison=2014.html",
+		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=llieu=Angleterresaison=2014.html",
 		#championship
 		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2005.html",
 		"file:///C:/Users/eoinm_000/Documents/Programing/Python/football_transfers/scraped_files/transfertstab.phpcompetition=2lieu=Angleterresaison=2006.html",

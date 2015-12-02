@@ -35,7 +35,7 @@ CREATE VIEW SpendAndIncome_stats AS
     FROM transfer_table_join 
     WHERE Spend <> 0 AND Income <> 0 GROUP BY League, team;
     
-ALTER VIEW Spend_stats AS
+CREATE VIEW Spend_stats AS
 	SELECT League,team,avg(Spend) as AvgSpend,avg(Points) as AvgPoints,sqrt(variance(Points)) as SDPoints,Count(team) as Count
     FROM transfer_table_join 
     WHERE Spend <> 0 GROUP BY League, team;
@@ -49,5 +49,4 @@ SELECT League, AVG(SDPoints) FROM SpendAndIncome_stats GROUP BY League;
 
 SELECT t1.Team FROM (SELECT Team, Count(Team) as c FROM transfer_table_join Group BY Team) as t1 WHERE t1.c = 10
 
-SELECT league,team FROM TableHistory WHERE Count(team) = 10 Group By league, team
 

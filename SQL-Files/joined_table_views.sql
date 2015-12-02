@@ -7,6 +7,8 @@ UPDATE transferhistory SET PlayerSurname = REPLACE(PlayerSurname,'"','');
 
 UPDATE tablehistory SET Team = REPLACE(Team,'"','');
 
+SELECT * FROM transferhistory;
+
 CREATE VIEW transfers_Spend_v 
 	AS
 		SELECT League,Year,Team,SUM(Cost) as Spend FROM TransferHistory WHERE TransferType='arrival' group by Year,League,Team;
@@ -23,8 +25,13 @@ AS
     WHERE tablehistory.position <> 0 
     GROUP BY TableHistory.team, TableHistory.league,TableHistory.season
     order by team ASC,season DESC;
+    
+SELECT * FROM tableHistory
 
 CREATE TABLE DEBUG_LOG(Log VARCHAR(10000))
+
+SELECT * FROM transfer_table_join WHERE Spend is null
+
 
 DELIMITER $$
 CREATE PROCEDURE match_transfer_teams_to_table()
@@ -103,6 +110,8 @@ BEGIN
     
 END$$
 DELIMITER ;
+
+DROP PROCEDURE match_transfer_teams_to_table;
 
 CALL match_transfer_teams_to_table();
 
