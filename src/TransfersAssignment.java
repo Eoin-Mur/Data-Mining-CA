@@ -8,7 +8,7 @@ import java.util.Properties;
 
 public class TransfersAssignment {
 	
-	public static int getPositionDiffPrevYear(Connection conn, Statement stmt, int p,String team)
+	public static double getPositionDiffPrevYear(Connection conn, Statement stmt, double p,String team)
 	{
 		ResultSet rs = null;
 		try
@@ -483,7 +483,7 @@ public class TransfersAssignment {
 					//test2DArray(kMatrix);
 					double classifier = selectClassifer(kMatrix,K);
 					System.out.println("Predicted Classifer is "+classifier);
-					//System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam))
+					System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam));
 				}
 				
 			}
