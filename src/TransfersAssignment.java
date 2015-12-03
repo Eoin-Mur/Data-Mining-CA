@@ -8,18 +8,83 @@ import java.util.Properties;
 
 public class TransfersAssignment {
 	
-	public static double getPositionDiffPrevYear(Connection conn, Statement stmt, double p,String team)
+	public static String[][] getPositionDiffPrevYear(Connection conn, Statement stmt, double p,String team,String league)
 	{
 		ResultSet rs = null;
+		String a[][] = new String[1][2];
 		try
 		{
 			
-			String query = "SELECT Position FROM cleaned_table_join WHERE Team = '"+team+"' and Season <> '2014' Order by Season DESC LIMIT 1";
+			String query = "SELECT t1.Position,t1.league as prevLeague FROM FinalDataset t1 WHERE t1.Team = '"+team+"' and t1.Season <> '2014' Order by t1.Season DESC LIMIT 1;";
 			rs = stmt.executeQuery(query);
 			rs.next();
 			int position = rs.getInt("Position");
+			String prevLeague = rs.getString("prevLeague");
+			a[0][0] = String.valueOf(position);
+			a[0][1] = String.valueOf(position-(int)p);
 			
-			return position-p;
+			//write if stament to catch...
+			//premier =-- reg: bottom 3 -- no prom  total 20
+			//champion -- reg: bottom 3 -- prom: top 3 total 24
+			//league1 -- reg: bottom 4 -- prom top 3 total 24
+			//league2 -- reg: bottom 2 -- prom 4 total 24
+			if(league.equals("barclays-premier-league"))
+			{
+				if(position > 17)
+				{
+					a[0][0] = "Relegated from PL";
+					a[0][1] = String.valueOf(24 - (int)p);
+				}
+				if(prevLeague.equals("english-league-championship"))
+				{
+					a[0][0] = "Promoted from c'ship";
+					a[0][1] = String.valueOf(20 - (int)p);
+				}
+			}	
+			else if (league.equals("english-league-championship"))
+			{
+				if(position >= 22)
+				{
+					a[0][0] = "Relegated from PL";
+					a[0][1] = String.valueOf(24 - (int)p);
+				}
+				if(league.equals("english-league-one")){
+					a[0][0] = "Promoted from Lg1";
+					a[0][1] = String.valueOf(24 - (int)p);
+				}
+			}	
+			else if(league.equals("english-league-one"))
+			{
+				if(position >= 21)
+				{
+					a[0][0] = "Relegated from c'ship";
+					a[0][1] = String.valueOf(24 - (int)p);
+				}
+				if(league.equals("english-league-two")){
+					a[0][0] = "Promoted from Lg2";
+					a[0][1] = String.valueOf(24 - (int)p);
+				}
+			}
+			else if(league.equals("english-league-two"))
+			{
+				if(position >= 20)
+				{
+					a[0][0] = "Relegated from Lg1";
+					a[0][1] = String.valueOf(24- (int)p);
+				}
+			}	
+			if(Integer.parseInt(a[0][1]) < 1)
+			{
+				a[0][1] = "1";
+			}else if(Integer.parseInt(a[0][1]) > 20 && league.equals("barclays-premier-league"))
+			{
+				a[0][1] = "20";
+			}
+			else if(Integer.parseInt(a[0][1]) > 24)
+			{
+				a[0][1] = "24";
+			}
+			return a;
 			
 		}catch(SQLException ex)
 		{
@@ -35,7 +100,7 @@ public class TransfersAssignment {
 			}
 			catch(SQLException e){}
 		}
-		return 0;
+		return null;
 	}
 	
 	public static double getHighestDist(double m[][])
@@ -131,7 +196,6 @@ public class TransfersAssignment {
 		
 		double highestCount = counts[0][0];
 		int highestIndex = 0;
-		System.out.println(counts.length);
 		
 		for( i = 0; i < classifiers.length; i++ )
 		{
@@ -218,11 +282,6 @@ public class TransfersAssignment {
 		return Math.sqrt( Math.pow((s-ps), 2) + Math.pow((i-pi), 2) );
 	}
 	
-	public static double distance(int s, int i, int ps, int pi)
-	{
-		return (s - ps) + (i - pi);
-	}
-	
 	public static double[][] returnDiffs(ResultSet rs)
 	{
 		int numRows = 0;
@@ -299,14 +358,14 @@ public class TransfersAssignment {
 		System.out.println("----------\n");
 	}
 	
-	public static ResultSet getDataOnTeam(Connection conn,Statement stmt,String team)
+	public static ResultSet getDataOnTeam(Connection conn,Statement stmt,String team,String league)
 	{
 		ResultSet rs = null;
 		
 		try
 		{
 			
-			String query = "SELECT * FROM cleaned_table_join WHERE league = 'barclays-premier-league' and season <> 2014 group by team,season order by team, season desc;";
+			String query = "SELECT * FROM FinalDataset WHERE (spend <> 0 OR income <> 0) AND league = '"+league+"' and season <> 2014 group by team,season order by team, season desc;";
 			rs = stmt.executeQuery(query);
 			
 		}catch(SQLException ex)
@@ -329,7 +388,7 @@ public class TransfersAssignment {
 		try
 		{
 			
-			String query = "SELECT Spend, Income FROM cleaned_table_join WHERE Team = '"+team+"' and Season <> '2014' Order by Season DESC LIMIT 1";
+			String query = "SELECT Spend, Income FROM FinalDataset WHERE Team = '"+team+"' and Season <> '2014' Order by Season DESC LIMIT 1";
 			rs = stmt.executeQuery(query);
 			rs.next();
 			double spend = rs.getDouble("Spend");
@@ -361,19 +420,27 @@ public class TransfersAssignment {
 	public static String[][] get2014(Connection conn, Statement stmt)
 	{
 		ResultSet rs = null;
-		
+		int numRows = 0;
 		try
 		{
 			
-			String query = "SELECT team,spend,income FROM cleaned_table_join WHERE Season = '2014' AND league='barclays-premier-league'";
+			String query = "SELECT team,league,spend,income FROM FinalDataset WHERE Season = '2014' order by league";
 			rs = stmt.executeQuery(query);
-			String [][] a = new String[20][3];
+			
+			if( rs.last() )
+			{
+				numRows = rs.getRow();
+				rs.beforeFirst();
+			}
+			
+			String [][] a = new String[numRows][4];
 			int i = 0;
 			while( rs.next() )
 			{
 				a[i][0] = rs.getString("team");
 				a[i][1] = rs.getString("Spend");
 				a[i][2] = rs.getString("Income");
+				a[i][3] = rs.getString("League");
 				i++;
 			}
 			return a;
@@ -392,12 +459,21 @@ public class TransfersAssignment {
 		return null;
 	}
 	
+	public static double norm(double i,int type)
+	{
+		if(type == 1)
+			return (i-0)/(181700000-0);
+		else
+			return (i-0)/(141160000-0);
+	}
+	
 	public static void main(String[] args)
 	{
 		int K = 4;
 		String predteam = null;
 		double predSpend = 0;
 		double predIncome = 0;
+		String predLeague = "";
 		
 		String dbURL = "jdbc:mysql://localhost/data_mining_assignment";
 		Connection conn = null;
@@ -405,13 +481,14 @@ public class TransfersAssignment {
 		ResultSet rs = null;
 		
 		
-		if( args.length == 3)
+		if( args.length == 4)
 		{
 			predteam = args[0];
 			try
 			{
-				predSpend = Double.parseDouble(args[1]);
-				predIncome = Double.parseDouble(args[2]);
+				predSpend = norm(Double.parseDouble(args[1]),1);
+				predIncome = norm(Double.parseDouble(args[2]),0);
+				predLeague = args[3];
 			}
 			catch(NumberFormatException e)
 			{
@@ -420,10 +497,10 @@ public class TransfersAssignment {
 				System.out.println("java TransferAssignment 'String' 'int' 'int'");
 				return;
 			}
-			System.out.println("Predicting Position Increase");
-			System.out.println("for team "+predteam);
-			System.out.println("Based off Spending of "+predSpend);
-			System.out.println("and a income of "+predIncome+"....\n");
+			//System.out.println("Predicting Position Increase");
+			//System.out.println("for team "+predteam);
+			//System.out.println("Based off Spending of "+predSpend);
+			//System.out.println("and a income of "+predIncome+"....\n");
 		}
 		if( args.length == 1 )
 		{
@@ -452,20 +529,22 @@ public class TransfersAssignment {
 				stmt = conn.createStatement();
 				
 				String [][] aa = get2014(conn,stmt);
-					
+				
+				String pl ="";
 				for(int k = 0; k < aa.length; k++)
 				{
-					
+					if( aa[k] ==null )break;
 					predteam = aa[k][0];
 					predSpend = Double.parseDouble(aa[k][1]);
 					predIncome = Double.parseDouble(aa[k][2]);
-					System.out.println("\n................................");
-					System.out.println("Predicting Position Increase");
-					System.out.println("for team "+predteam);
-					System.out.println("Based off Spending of "+predSpend);
-					System.out.println("and a income of "+predIncome+"....");
+					predLeague = aa[k][3];
+					//System.out.println("\n................................");
+					//System.out.println("Predicting Position Increase");
+					//System.out.println("for team "+predteam);
+					//System.out.println("Based off Spending of "+predSpend);
+					//System.out.println("and a income of "+predIncome+"....");
 
-					rs = getDataOnTeam(conn,stmt,predteam);
+					rs = getDataOnTeam(conn,stmt,predteam,predLeague);
 					double diffs[][] = returnDiffs(rs);
 					//test2DArray(diffs);
 					//double[][] DM = resultSetToMatrix(rs);
@@ -482,9 +561,22 @@ public class TransfersAssignment {
 					//System.out.println(K+"-NN Matrix");
 					//test2DArray(kMatrix);
 					double classifier = selectClassifer(kMatrix,K);
-					System.out.println("Predicted Classifer is "+classifier);
-					System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam));
+					//System.out.println("Predicted Classifer is "+classifier);
+					String b[][] = getPositionDiffPrevYear(conn,stmt,classifier,predteam,predLeague);
+					if(k==0)
+					{
+						pl=predLeague;
+						System.out.println("----------"+pl+"-------------\n");
+					}
+					else if( predLeague.equals(pl) == false )
+					{
+						System.out.println();
+						pl=predLeague;
+						System.out.println("----------"+pl+"-------------");
+					}
+					System.out.println(predteam+": "+b[0][0]+" to positon "+b[0][1]);
 				}
+				System.out.println("--------------------------------------");
 				
 			}
 			else
@@ -493,7 +585,7 @@ public class TransfersAssignment {
 			
 				stmt = conn.createStatement();
 				
-				rs = getDataOnTeam(conn,stmt,predteam);
+				rs = getDataOnTeam(conn,stmt,predteam,predLeague);
 				double diffs[][] = returnDiffs(rs);
 				//test2DArray(diffs);
 				//double[][] DM = resultSetToMatrix(rs);
@@ -505,13 +597,14 @@ public class TransfersAssignment {
 				
 				//System.out.println(predSpend+",,"+predIncome);
 				double nnMatrix[][] = calcNNMatrix(diffs, predSpend, predIncome);
-				test2DArray(nnMatrix);
+				//test2DArray(nnMatrix);
 				double kMatrix[][] = selectKNeighbors(K,nnMatrix);
-				System.out.println(K+"-NN Matrix");
-				test2DArray(kMatrix);
+				//System.out.println(K+"-NN Matrix");
+				//test2DArray(kMatrix);
 				double classifier = selectClassifer(kMatrix,K);
-				System.out.println("Predicted Classifer is "+classifier);
-				//System.out.println("Change in "+predteam+"'s position: "+getPositionDiffPrevYear(conn,stmt,classifier,predteam));
+				//System.out.println("Predicted Classifer is "+classifier);
+				String b[][] = getPositionDiffPrevYear(conn,stmt,classifier,predteam,predLeague);
+				System.out.println(predteam+": "+b[0][0]+" to positon "+b[0][1]);
 			}
 		}
 		catch(SQLException e)
@@ -532,7 +625,7 @@ public class TransfersAssignment {
 				try
 				{
 					rs.close();
-					System.out.println("Closed Result Set");
+					//System.out.println("Closed Result Set");
 				} 
 				catch (SQLException sqlEx) {}
 			}
@@ -543,7 +636,7 @@ public class TransfersAssignment {
 		        try 
 		        {
 		        	stmt.close();
-		            System.out.println("Closed Statment");
+		            //System.out.println("Closed Statment");
 		        } 
 		        catch (SQLException sqlEx) { } 
 		        stmt = null;
@@ -554,7 +647,7 @@ public class TransfersAssignment {
 		        try 
 		        {
 		            conn.close();
-		            System.out.println("Closed Connection");
+		            //System.out.println("Closed Connection");
 		        } 
 		        catch (SQLException sqlEx) { } 
 		        conn = null;
