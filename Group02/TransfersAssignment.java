@@ -155,7 +155,7 @@ public class TransfersAssignment {
 	public static double selectClassifer(double[][] NN, int k)
 	{
 		//NEED TO CREATE THIS SQL STATMENT IN JAVA CODE :(
-		//select Distinct class, Count(class) as count GROUP BY class ORDER BY count DESC LIMIT 1
+		//select top 1 Distinct class, Count(class) as count GROUP BY class ORDER BY count DESC 
 		//i will take reasons i like SQL for 4000, Alex!
 		
 		//Hacky/inefficient way to do it:

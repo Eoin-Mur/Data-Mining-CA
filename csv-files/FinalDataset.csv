@@ -1,0 +1,771 @@
+team,league,season,spend,income,points,position
+"AFC Bournemouth",english-league-one,2005,0.00016208035222894883,0.0017103995466137716,55,17
+"AFC Bournemouth",english-league-one,2006,0,0.0013588835364125814,52,19
+"AFC Bournemouth",english-league-one,2007,0,0.002090606404080476,48,21
+"AFC Bournemouth",english-league-two,2008,0,0.002479455936525928,46,21
+"AFC Bournemouth",english-league-two,2009,0,0,83,2
+"AFC Bournemouth",english-league-one,2010,0.0006604292790313704,0.006942476622272598,71,6
+"AFC Bournemouth",english-league-one,2011,0.007740781507980187,0.013828279965996032,58,11
+"AFC Bournemouth",english-league-one,2012,0.0048431480462300495,0.0053131198639841315,83,2
+"AFC Bournemouth",english-league-championship,2013,0,0,66,10
+"AFC Bournemouth",english-league-championship,2014,0,0.026211391328988382,90,1
+Arsenal,barclays-premier-league,2005,0.17611447440836545,0.15762255596486258,67,4
+Arsenal,barclays-premier-league,2006,0.0825536598789213,0.053131198639841316,68,4
+Arsenal,barclays-premier-league,2007,0.19757842597688496,0.3577500708415982,83,3
+Arsenal,barclays-premier-league,2008,0.22702256466703358,0.16081042788325306,72,4
+Arsenal,barclays-premier-league,2009,0.05778756191524491,0.3329555114763389,75,3
+Arsenal,barclays-premier-league,2010,0.10456796917996698,0.06375743836780957,68,4
+Arsenal,barclays-premier-league,2011,0.3565217391304348,0.5284783224709549,70,3
+Arsenal,barclays-premier-league,2012,0.20913593835993396,0.43567582884669875,73,4
+Arsenal,barclays-premier-league,2013,0.275178866263071,0.0821762538962879,79,4
+Arsenal,barclays-premier-league,2014,0.6644468904788112,0.12751487673561915,75,3
+"Aston Villa",barclays-premier-league,2005,0.06274078150798018,0.03719183904788892,42,16
+"Aston Villa",barclays-premier-league,2006,0.14623004953219593,0.05713424482856333,50,11
+"Aston Villa",barclays-premier-league,2007,0.136378646119978,0.1168886370076509,60,6
+"Aston Villa",barclays-premier-league,2008,0.24545954870665934,0.05171436667611221,62,6
+"Aston Villa",barclays-premier-league,2009,0.21959273527793066,0.1643525077925758,64,6
+"Aston Villa",barclays-premier-league,2010,0.15244909190974132,0.1416831963729102,48,9
+"Aston Villa",barclays-premier-league,2011,0.09567969179966979,0.29186738452819494,38,16
+"Aston Villa",barclays-premier-league,2012,0.13747936158503027,0.0389628790025503,41,15
+"Aston Villa",barclays-premier-league,2013,0.093010456796918,0,38,15
+"Aston Villa",barclays-premier-league,2014,0.09356081452944413,0,38,17
+Barnsley,english-league-one,2005,0.0016241607044578975,0,72,5
+Barnsley,english-league-championship,2006,0.0017697303247110622,0.007833876452252763,50,20
+Barnsley,english-league-championship,2007,0.007385965877820583,0,55,18
+Barnsley,english-league-championship,2008,0.010676940011007155,0.0049965996032870505,52,20
+Barnsley,english-league-championship,2009,0,0.005029753471238311,54,18
+Barnsley,english-league-championship,2010,0,0,56,17
+Barnsley,english-league-championship,2011,0,0.00850099178237461,48,21
+Barnsley,english-league-championship,2012,0,0.024794559365259282,55,21
+Barnsley,english-league-championship,2013,0,0,39,23
+Barnsley,english-league-one,2014,0,0.00460470388211958,62,11
+"Birmingham City",barclays-premier-league,2005,0.061737919647771054,0.05631907055823179,34,18
+"Birmingham City",english-league-championship,2006,0.10506329113924051,0.2135874185321621,86,2
+"Birmingham City",barclays-premier-league,2007,0.15905338470005503,0.08132140833097194,35,19
+"Birmingham City",english-league-championship,2008,0.007705008255365988,0.07721734202323605,83,2
+"Birmingham City",barclays-premier-league,2009,0.09823885525591634,0,50,9
+"Birmingham City",barclays-premier-league,2010,0.11172261970280682,0,39,18
+"Birmingham City",english-league-championship,2011,0,0.1586851799376594,76,4
+"Birmingham City",english-league-championship,2012,0.0016880022014309302,0.03683763105695664,61,12
+"Birmingham City",english-league-championship,2013,0.0009631260319207485,0.01841881552847832,44,21
+"Birmingham City",english-league-championship,2014,0,0,63,10
+"Blackburn Rovers",barclays-premier-league,2005,0.05090809025866813,0.019127231510342874,63,6
+"Blackburn Rovers",barclays-premier-league,2006,0.07776554760594387,0.11299234910739586,52,10
+"Blackburn Rovers",barclays-premier-league,2007,0.0275178866263071,0.022881836214224995,58,7
+"Blackburn Rovers",barclays-premier-league,2008,0.07429829389102917,0.1948143950127515,41,15
+"Blackburn Rovers",barclays-premier-league,2009,0.06989543203082003,0.19835647492207426,50,10
+"Blackburn Rovers",barclays-premier-league,2010,0.03274628508530545,0,43,15
+"Blackburn Rovers",barclays-premier-league,2011,0.0996147495872317,0.2787616888637008,31,19
+"Blackburn Rovers",english-league-championship,2012,0.08750687947165657,0.046755454803060356,58,17
+"Blackburn Rovers",english-league-championship,2013,0.006329113924050633,0,70,8
+"Blackburn Rovers",english-league-championship,2014,0,0,67,9
+Blackpool,english-league-one,2005,0,0,53,19
+Blackpool,english-league-one,2006,0.0002034672537149147,0.0026132757155001417,83,3
+Blackpool,english-league-championship,2007,0.0006103467253714915,0,54,19
+Blackpool,english-league-championship,2008,0.0015410016510731975,0.004958911873051856,56,16
+Blackpool,english-league-championship,2009,0.003219592735277931,0.008146783791442335,70,6
+Blackpool,barclays-premier-league,2010,0.01100715465052284,0,39,19
+Blackpool,english-league-championship,2011,0.0003577325261419923,0.05950694247662227,75,5
+Blackpool,english-league-championship,2012,0,0,59,15
+Blackpool,english-league-championship,2013,0.0031920748486516234,0.04108812694814395,46,20
+Blackpool,english-league-championship,2014,0.003302146395156852,0,26,24
+"Bolton Wanderers",barclays-premier-league,2005,0.00825536598789213,0,56,8
+"Bolton Wanderers",barclays-premier-league,2006,0.07980187121629059,0.02089827146500425,56,7
+"Bolton Wanderers",barclays-premier-league,2007,0.05591634562465603,0.14310002833663926,37,16
+"Bolton Wanderers",barclays-premier-league,2008,0.10897083104017612,0.06836214224992916,41,13
+"Bolton Wanderers",barclays-premier-league,2009,0.01375894331315355,0.014168319637291017,39,14
+"Bolton Wanderers",barclays-premier-league,2010,0.015134837644468905,0,46,14
+"Bolton Wanderers",barclays-premier-league,2011,0.0682443588332416,0.10860017001983564,36,18
+"Bolton Wanderers",english-league-championship,2012,0.012658227848101266,0,68,7
+"Bolton Wanderers",english-league-championship,2013,0.008805723720418272,0,59,14
+"Bolton Wanderers",english-league-championship,2014,0.002201430930104568,0.0053131198639841315,51,18
+"Bradford City",english-league-one,2005,0,0,61,11
+"Bradford City",english-league-one,2006,0.0036543753439735828,0.0052265514310002835,47,22
+"Bradford City",english-league-two,2007,0.000275178866263071,0.001698498158118447,62,10
+"Bradford City",english-league-two,2008,0,0.00007438367809577783,67,9
+"Bradford City",english-league-two,2009,0,0,62,14
+"Bradford City",english-league-two,2010,0,0.0004250495891187305,52,18
+"Bradford City",english-league-two,2011,0.0009356081452944414,0.002479455936525928,50,18
+"Bradford City",english-league-two,2012,0.0003302146395156852,0,69,7
+"Bradford City",english-league-one,2013,0,0.012751487673561915,59,11
+"Bradford City",english-league-one,2014,0,0,65,7
+Brentford,english-league-one,2005,0.0012383048981838194,0.0052265514310002835,76,3
+Brentford,english-league-one,2006,0,0.006907055823179371,37,24
+Brentford,english-league-two,2007,0,0,59,14
+Brentford,english-league-two,2008,0,0.0002025361292150751,85,1
+Brentford,english-league-one,2009,0.0001651073197578426,0,62,9
+Brentford,english-league-one,2010,0,0,61,11
+Brentford,english-league-one,2011,0,0.0007792575800510059,67,9
+Brentford,english-league-one,2012,0,0,79,3
+Brentford,english-league-one,2013,0,0,94,2
+Brentford,english-league-championship,2014,0.02201430930104568,0,78,5
+"Brighton & Hove Albion",english-league-championship,2005,0.0030913593835993395,0.026919807310852934,38,24
+"Brighton & Hove Albion",english-league-one,2006,0.00014287286736378645,0.012195947860583735,53,18
+"Brighton & Hove Albion",english-league-one,2007,0.003418602091359384,0.004181212808160952,69,7
+"Brighton & Hove Albion",english-league-one,2008,0.0009135938359933957,0,52,16
+"Brighton & Hove Albion",english-league-one,2009,0.001100715465052284,0.001629356758288467,59,13
+"Brighton & Hove Albion",english-league-one,2010,0,0,95,1
+"Brighton & Hove Albion",english-league-championship,2011,0.02581177765547606,0,66,10
+"Brighton & Hove Albion",english-league-championship,2012,0.01375894331315355,0,75,4
+"Brighton & Hove Albion",english-league-championship,2013,0,0.02550297534712383,72,6
+"Brighton & Hove Albion",english-league-championship,2014,0,0.0850099178237461,47,20
+"Bristol City",english-league-one,2005,0.0020504127682993947,0.016373051856049873,65,9
+"Bristol City",english-league-one,2006,0.0012789212988442487,0.021252479455936526,85,2
+"Bristol City",english-league-championship,2007,0.0162031370390754,0.0009492774156984982,74,4
+"Bristol City",english-league-championship,2008,0.02144193725921849,0.007084159818645509,61,10
+"Bristol City",english-league-championship,2009,0.003880022014309301,0,63,10
+"Bristol City",english-league-championship,2010,0.005393505778756191,0,60,15
+"Bristol City",english-league-championship,2011,0.001651073197578426,0.019658543496741288,49,20
+"Bristol City",english-league-championship,2012,0.00550357732526142,0.00446302068574667,41,24
+"Bristol City",english-league-one,2013,0.002586681342872867,0.004108812694814395,58,12
+"Bristol City",english-league-one,2014,0,0,99,1
+Burnley,english-league-championship,2005,0.0011282333516785912,0.019835647492207426,54,17
+Burnley,english-league-championship,2006,0.01708860759493671,0.0013137574383678095,57,15
+Burnley,english-league-championship,2007,0.008145954870665932,0.027183479739302917,62,13
+Burnley,english-league-championship,2008,0.014859658778205834,0.03187871918390479,76,5
+Burnley,barclays-premier-league,2009,0.044248761695101814,0,30,18
+Burnley,english-league-championship,2010,0.003302146395156852,0.05100595069424766,68,8
+Burnley,english-league-championship,2011,0.006274078150798019,0,62,13
+Burnley,english-league-championship,2012,0,0.06092377444035137,61,11
+Burnley,english-league-championship,2013,0,0.05667327854916407,93,2
+Burnley,barclays-premier-league,2014,0.035222894881673086,0,33,19
+Bury,english-league-two,2005,0.000015410016510731977,0.00577359025219609,52,19
+Bury,english-league-two,2006,0.00007705008255365987,0.0010453386228393311,50,21
+Bury,english-league-two,2007,0,0,59,13
+Bury,english-league-two,2008,0,0.0012893170869934826,78,4
+Bury,english-league-two,2009,0,0,69,9
+Bury,english-league-two,2010,0,0,81,2
+Bury,english-league-one,2011,0,0.000850099178237461,56,14
+Bury,english-league-one,2012,0,0,41,22
+Bury,english-league-two,2013,0,0,59,12
+Bury,english-league-two,2014,0,0,85,3
+"Cardiff City",english-league-championship,2005,0.00780357732526142,0.0020882686313403232,60,11
+"Cardiff City",english-league-championship,2006,0.013656796917996698,0.03187871918390479,64,13
+"Cardiff City",english-league-championship,2007,0,0.08031864550864268,64,12
+"Cardiff City",english-league-championship,2008,0.0048431480462300495,0.07438367809577784,74,7
+"Cardiff City",english-league-championship,2009,0.034705558613098514,0.04429016718617172,76,4
+"Cardiff City",english-league-championship,2010,0,0.003187871918390479,80,4
+"Cardiff City",english-league-championship,2011,0.011282333516785911,0.013637007650892603,75,6
+"Cardiff City",english-league-championship,2012,0.06678591084204732,0.007657976763955795,87,1
+"Cardiff City",barclays-premier-league,2013,0.21023665382498624,0,30,20
+"Cardiff City",english-league-championship,2014,0.0759493670886076,0.14735052422782657,62,11
+"Carlisle United",english-league-two,2005,0,0,86,1
+"Carlisle United",english-league-one,2006,0.0004872317006053935,0.0038634173986965147,68,8
+"Carlisle United",english-league-one,2007,0.0015429829389102918,0,80,4
+"Carlisle United",english-league-one,2008,0,0.018064607537546046,50,20
+"Carlisle United",english-league-one,2009,0.0011282333516785912,0,58,14
+"Carlisle United",english-league-one,2010,0,0,59,12
+"Carlisle United",english-league-one,2011,0,0,69,8
+"Carlisle United",english-league-one,2012,0,0,55,17
+"Carlisle United",english-league-one,2013,0,0,45,22
+"Carlisle United",english-league-two,2014,0,0,50,20
+"Charlton Athletic",barclays-premier-league,2005,0.05393505778756191,0.040247449702465285,47,13
+"Charlton Athletic",barclays-premier-league,2006,0.11414419372592186,0.022617384528194957,34,19
+"Charlton Athletic",english-league-championship,2007,0.053659878921298844,0.27780610654576365,64,11
+"Charlton Athletic",english-league-championship,2008,0,0.04002550297534713,39,24
+"Charlton Athletic",english-league-one,2009,0,0.008855199773306887,84,4
+"Charlton Athletic",english-league-one,2010,0,0.025998866534429017,59,13
+"Charlton Athletic",english-league-one,2011,0.005052283984589984,0,101,1
+"Charlton Athletic",english-league-championship,2012,0.00275178866263071,0,65,9
+"Charlton Athletic",english-league-championship,2013,0,0,51,18
+"Charlton Athletic",english-league-championship,2014,0.004402861860209136,0,60,12
+Chelsea,barclays-premier-league,2005,0.4733076499724821,0.24001133465570984,91,1
+Chelsea,barclays-premier-league,2006,0.3274628508530545,0.30036837631056956,83,2
+Chelsea,barclays-premier-league,2007,0.36378646119977986,0.3074525361292151,85,2
+Chelsea,barclays-premier-league,2008,0.16840946615299945,0.2709691130631907,83,3
+Chelsea,barclays-premier-league,2009,0.1651073197578426,0.014168319637291017,86,1
+Chelsea,barclays-premier-league,2010,0.6026417171161255,0.07367526211391329,71,2
+Chelsea,barclays-premier-league,2011,0.5558613098514034,0.1416831963729102,64,6
+Chelsea,barclays-premier-league,2012,0.6525591634562465,0.17710399546613773,75,3
+Chelsea,barclays-premier-league,2013,0.6560264171711613,0.49234910739586285,82,3
+Chelsea,barclays-premier-league,2014,0.9124931205283434,1,87,1
+"Cheltenham Town",english-league-two,2005,0.00028464501926252065,0,72,5
+"Cheltenham Town",english-league-one,2006,0.00016268574573472758,0.0010468971379994333,54,17
+"Cheltenham Town",english-league-one,2007,0,0.0020906772456786623,51,19
+"Cheltenham Town",english-league-one,2008,0,0.003967129498441485,39,23
+"Cheltenham Town",english-league-two,2009,0,0,48,22
+"Cheltenham Town",english-league-two,2010,0,0,52,17
+"Cheltenham Town",english-league-two,2011,0,0,77,6
+"Cheltenham Town",english-league-two,2012,0,0,75,5
+"Cheltenham Town",english-league-two,2013,0,0.000850099178237461,55,17
+"Cheltenham Town",english-league-two,2014,0,0,41,23
+Chesterfield,english-league-one,2005,0,0.0015939359591952394,56,16
+Chesterfield,english-league-one,2006,0.0007319757842597688,0.0053131198639841315,47,21
+Chesterfield,english-league-two,2007,0,0,69,8
+Chesterfield,english-league-two,2008,0,0.003242349107395863,63,10
+Chesterfield,english-league-two,2009,0,0,70,8
+Chesterfield,english-league-two,2010,0,0,86,1
+Chesterfield,english-league-one,2011,0,0,42,22
+Chesterfield,english-league-two,2012,0,0.00446302068574667,67,8
+Chesterfield,english-league-two,2013,0,0,84,1
+Chesterfield,english-league-one,2014,0,0.0053131198639841315,69,6
+"Colchester United",english-league-one,2005,0,0,79,2
+"Colchester United",english-league-championship,2006,0,0.03145366959478606,69,10
+"Colchester United",english-league-championship,2007,0.009744248761695102,0.0054815811844715215,38,24
+"Colchester United",english-league-one,2008,0.003852504127682994,0.004958911873051856,63,12
+"Colchester United",english-league-one,2009,0.0011282333516785912,0.00389628790025503,72,8
+"Colchester United",english-league-one,2010,0,0.0010626239727968263,62,10
+"Colchester United",english-league-one,2011,0,0,59,10
+"Colchester United",english-league-one,2012,0,0.0017710399546613772,51,20
+"Colchester United",english-league-one,2013,0,0,53,16
+"Colchester United",english-league-one,2014,0,0,52,19
+"Coventry City",english-league-championship,2005,0,0,63,8
+"Coventry City",english-league-championship,2006,0.02012361034672537,0.0477306602436951,56,17
+"Coventry City",english-league-championship,2007,0.024316730875068793,0,53,21
+"Coventry City",english-league-championship,2008,0.009080902586681342,0,54,17
+"Coventry City",english-league-championship,2009,0.0006604292790313704,0.030816095211107963,54,19
+"Coventry City",english-league-championship,2010,0,0,55,18
+"Coventry City",english-league-championship,2011,0,0.018064607537546046,40,23
+"Coventry City",english-league-one,2012,0.0006879471656576775,0.008855199773306887,55,15
+"Coventry City",english-league-one,2013,0,0.007084159818645509,51,18
+"Coventry City",english-league-one,2014,0,0,55,17
+"Crewe Alexandra",english-league-championship,2005,0,0,42,22
+"Crewe Alexandra",english-league-one,2006,0.00024364336818932306,0.00029753471238311134,60,13
+"Crewe Alexandra",english-league-one,2007,0.0014211887727022564,0.030712170586568433,50,20
+"Crewe Alexandra",english-league-one,2008,0.003082003302146395,0.019835647492207426,46,22
+"Crewe Alexandra",english-league-two,2009,0,0.0032657976763955793,55,18
+"Crewe Alexandra",english-league-two,2010,0.01375894331315355,0.00850099178237461,65,10
+"Crewe Alexandra",english-league-two,2011,0,0.0025502975347123833,72,7
+"Crewe Alexandra",english-league-one,2012,0.000550357732526142,0.03542079909322755,64,13
+"Crewe Alexandra",english-league-one,2013,0,0,51,19
+"Crewe Alexandra",english-league-one,2014,0,0.0028336639274582033,52,20
+"Crystal Palace",english-league-championship,2005,0.0288399559713814,0.0028336639274582033,75,6
+"Crystal Palace",english-league-championship,2006,0.04499279031370391,0.12631056956644943,65,12
+"Crystal Palace",english-league-championship,2007,0.004872482113373693,0.03566166052706149,71,5
+"Crystal Palace",english-league-championship,2008,0.010742982938910291,0.028620005667327857,57,15
+"Crystal Palace",english-league-championship,2009,0,0.030957778407480874,49,21
+"Crystal Palace",english-league-championship,2010,0,0,48,20
+"Crystal Palace",english-league-championship,2011,0.002438084755090809,0,56,17
+"Crystal Palace",english-league-championship,2012,0.0034672537149146947,0.002172782657976764,72,5
+"Crystal Palace",barclays-premier-league,2013,0.07154650522839846,0.12751487673561915,45,11
+"Crystal Palace",barclays-premier-league,2014,0.10566868464501926,0.012751487673561915,48,10
+"Derby County",english-league-championship,2005,0.0024362685745734727,0.03272095494474355,50,20
+"Derby County",english-league-championship,2006,0.04365437534397358,0.00839947577217342,84,3
+"Derby County",barclays-premier-league,2007,0.10836664832140891,0.028800297534712384,11,20
+"Derby County",english-league-championship,2008,0.01668882773802972,0.0640408047605554,54,18
+"Derby County",english-league-championship,2009,0.00825536598789213,0.005029753471238311,56,14
+"Derby County",english-league-championship,2010,0.008871766648321408,0.008394729385094928,49,19
+"Derby County",english-league-championship,2011,0.014942212438084756,0.0056673278549164065,64,12
+"Derby County",english-league-championship,2012,0.001100715465052284,0.0053131198639841315,61,10
+"Derby County",english-league-championship,2013,0.006494221243808476,0,85,3
+"Derby County",english-league-championship,2014,0.022564667033571822,0,77,8
+"Doncaster Rovers",english-league-one,2005,0.003364501926252064,0.0009917823746103712,69,8
+"Doncaster Rovers",english-league-one,2006,0.0022738029719317557,0.0013562623972796827,63,11
+"Doncaster Rovers",english-league-one,2007,0.0016241607044578975,0,80,3
+"Doncaster Rovers",english-league-championship,2008,0.003687396807925151,0,58,14
+"Doncaster Rovers",english-league-championship,2009,0,0.0264947577217342,60,12
+"Doncaster Rovers",english-league-championship,2010,0.006879471656576775,0,48,21
+"Doncaster Rovers",english-league-championship,2011,0.0012272977435332966,0.01558515160102012,36,24
+"Doncaster Rovers",english-league-one,2012,0,0,84,1
+"Doncaster Rovers",english-league-championship,2013,0,0,44,22
+"Doncaster Rovers",english-league-one,2014,0,0,61,13
+Everton,barclays-premier-league,2005,0.14336818932306,0.05235194105979031,50,11
+Everton,barclays-premier-league,2006,0.12383048981838195,0.04746387078492491,58,6
+Everton,barclays-premier-league,2007,0.17336268574573474,0.10767922924341174,65,5
+Everton,barclays-premier-league,2008,0.11970280682443589,0.09421932558798526,63,5
+Everton,barclays-premier-league,2009,0.12933406714364337,0.19722300935109097,61,8
+Everton,barclays-premier-league,2010,0.009356081452944413,0.02550297534712383,54,7
+Everton,barclays-premier-league,2011,0.03962575674188222,0.2118163785775007,56,7
+Everton,barclays-premier-league,2012,0.12685745734727574,0.15053839614621706,63,6
+Everton,barclays-premier-league,2013,0.1337369290038525,0.3315386795126098,72,5
+Everton,barclays-premier-league,2014,0.2430379746835443,0,47,11
+Fulham,barclays-premier-league,2005,0.02392713263621354,0,48,12
+Fulham,barclays-premier-league,2006,0.061640066042927905,0.05667327854916407,39,16
+Fulham,barclays-premier-league,2007,0.2500275178866263,0.11625106262397279,36,17
+Fulham,barclays-premier-league,2008,0.1081452944413869,0.08132615471805044,53,7
+Fulham,barclays-premier-league,2009,0.02476609796367639,0,46,12
+Fulham,barclays-premier-league,2010,0.05745734727572922,0.04356758288466988,49,8
+Fulham,barclays-premier-league,2011,0.10170610897083104,0.045643241711533014,52,9
+Fulham,barclays-premier-league,2012,0.03852504127682994,0.1976480589402097,43,12
+Fulham,barclays-premier-league,2013,0.14749587231700606,0.028336639274582034,32,19
+Fulham,english-league-championship,2014,0.08051733626857457,0.03790025502975347,52,17
+Gillingham,english-league-one,2005,0.00019262520638414969,0.006584301501841881,60,14
+Gillingham,english-league-one,2006,0,0,59,16
+Gillingham,english-league-one,2007,0.0030289488167308753,0.0031532303768773023,46,22
+Gillingham,english-league-two,2008,0,0,75,5
+Gillingham,english-league-one,2009,0,0,50,21
+Gillingham,english-league-two,2010,0,0,68,8
+Gillingham,english-league-two,2011,0,0,70,8
+Gillingham,english-league-two,2012,0,0,83,1
+Gillingham,english-league-one,2013,0,0,53,17
+Gillingham,english-league-one,2014,0,0,62,12
+"Hartlepool United",english-league-one,2005,0.0003026967528893781,0,50,21
+"Hartlepool United",english-league-two,2006,0.0007539900935608145,0.006218333805610655,88,2
+"Hartlepool United",english-league-one,2007,0,0,54,15
+"Hartlepool United",english-league-one,2008,0,0,50,19
+"Hartlepool United",english-league-one,2009,0,0,50,20
+"Hartlepool United",english-league-one,2010,0,0,57,16
+"Hartlepool United",english-league-one,2011,0,0,56,13
+"Hartlepool United",english-league-one,2012,0,0,41,23
+"Hartlepool United",english-league-two,2013,0,0,53,19
+"Hartlepool United",english-league-two,2014,0,0,45,22
+"Huddersfield Town",english-league-one,2005,0,0,73,4
+"Huddersfield Town",english-league-one,2006,0,0,59,15
+"Huddersfield Town",english-league-one,2007,0.0007374793615850302,0,66,10
+"Huddersfield Town",english-league-one,2008,0.0006879471656576775,0.0014876735619155567,68,9
+"Huddersfield Town",english-league-one,2009,0.001926252063841497,0,80,6
+"Huddersfield Town",english-league-one,2010,0.0026692350027517887,0,87,3
+"Huddersfield Town",english-league-one,2011,0.0015410016510731975,0.027274015301785207,81,4
+"Huddersfield Town",english-league-championship,2012,0.004408365437534398,0.0708415981864551,58,19
+"Huddersfield Town",english-league-championship,2013,0.009906439185470555,0,53,17
+"Huddersfield Town",english-league-championship,2014,0.00275178866263071,0.02550297534712383,55,16
+"Hull City",english-league-championship,2005,0.009463236103467254,0.0002613346557098328,52,18
+"Hull City",english-league-championship,2006,0.014868354430379746,0.027364834230660242,49,21
+"Hull City",english-league-championship,2007,0.013346175013758944,0.012121776707282516,75,3
+"Hull City",barclays-premier-league,2008,0.0910842047330765,0,35,17
+"Hull City",barclays-premier-league,2009,0.06686846450192625,0.09634457353357892,30,19
+"Hull City",english-league-championship,2010,0.01648321408915795,0.06375743836780957,65,11
+"Hull City",english-league-championship,2011,0.010456796917996699,0,68,8
+"Hull City",english-league-championship,2012,0.03742432581177765,0,79,2
+"Hull City",barclays-premier-league,2013,0.20418271876719868,0,37,16
+"Hull City",barclays-premier-league,2014,0.21249312052834343,0.1328279965996033,35,18
+"Ipswich Town",english-league-championship,2005,0.006941221794166208,0.04533862283933125,56,15
+"Ipswich Town",english-league-championship,2006,0.0033290038525041277,0.0062106120714083305,62,14
+"Ipswich Town",english-league-championship,2007,0.004127682993946065,0.002090606404080476,69,8
+"Ipswich Town",english-league-championship,2008,0.010126582278481013,0.005950694247662227,66,9
+"Ipswich Town",english-league-championship,2009,0.035498073747936155,0.0035420799093227543,56,15
+"Ipswich Town",english-league-championship,2010,0.006962025316455696,0.01948143950127515,62,13
+"Ipswich Town",english-league-championship,2011,0.015740231150247662,0.06375743836780957,61,15
+"Ipswich Town",english-league-championship,2012,0.01375894331315355,0,60,14
+"Ipswich Town",english-league-championship,2013,0,0,68,9
+"Ipswich Town",english-league-championship,2014,0,0.019835647492207426,78,6
+"Leeds United",english-league-championship,2005,0.024076940011007155,0.011157551714366677,78,5
+"Leeds United",english-league-championship,2006,0.010980957622454596,0.049766222725984695,36,24
+"Leeds United",english-league-one,2007,0.010197523390203632,0.02082034570699915,76,5
+"Leeds United",english-league-one,2008,0,0.0015939359591952394,84,4
+"Leeds United",english-league-one,2009,0,0.06375743836780957,86,2
+"Leeds United",english-league-championship,2010,0.001981287837094111,0.001948143950127515,72,7
+"Leeds United",english-league-championship,2011,0.0012107870115575124,0.0417965429300085,61,14
+"Leeds United",english-league-championship,2012,0.0170610897083104,0.021252479455936526,61,13
+"Leeds United",english-league-championship,2013,0,0,57,15
+"Leeds United",english-league-championship,2014,0.004678040726472207,0.09797393029186738,56,15
+"Leicester City",english-league-championship,2005,0.013308915795266923,0.022483564749220742,54,16
+"Leicester City",english-league-championship,2006,0,0.001724780391045622,53,19
+"Leicester City",english-league-championship,2007,0.037687286736378646,0.007606829130065175,52,22
+"Leicester City",english-league-one,2008,0,0.012043071691697365,96,1
+"Leicester City",english-league-championship,2009,0.007705008255365988,0,76,5
+"Leicester City",english-league-championship,2010,0.01480462300495322,0.009917823746103713,67,10
+"Leicester City",english-league-championship,2011,0.053659878921298844,0.00920940776423916,66,9
+"Leicester City",english-league-championship,2012,0.024215740231150248,0.022881836214224995,68,6
+"Leicester City",english-league-championship,2013,0.00275178866263071,0.008146783791442335,102,1
+"Leicester City",barclays-premier-league,2014,0.12658227848101267,0,41,14
+"Leyton Orient",english-league-two,2005,0.00032531645569620253,0,81,3
+"Leyton Orient",english-league-one,2006,0.0002875619152449092,0.010835647492207424,51,20
+"Leyton Orient",english-league-one,2007,0.00020913593835993397,0.0029753471238311135,60,14
+"Leyton Orient",english-league-one,2008,0,0,56,14
+"Leyton Orient",english-league-one,2009,0,0,51,17
+"Leyton Orient",english-league-one,2010,0,0,70,7
+"Leyton Orient",english-league-one,2011,0,0,50,20
+"Leyton Orient",english-league-one,2012,0,0,71,7
+"Leyton Orient",english-league-one,2013,0,0,86,3
+"Leyton Orient",english-league-one,2014,0,0.008855199773306887,49,23
+Liverpool,barclays-premier-league,2005,0.2353329664281783,0.09209407764239161,82,3
+Liverpool,barclays-premier-league,2006,0.360484314804623,0.18870629073391895,68,3
+Liverpool,barclays-premier-league,2007,0.48238855255916346,0.24263247378860867,76,4
+Liverpool,barclays-premier-league,2008,0.2438084755090809,0.281595352791159,86,2
+Liverpool,barclays-premier-league,2009,0.23115024766097964,0.31984981581184474,63,7
+Liverpool,barclays-premier-league,2010,0.5430930104567969,0.7176253896287901,58,6
+Liverpool,barclays-premier-league,2011,0.3258117776554761,0.1558515160102012,52,8
+Liverpool,barclays-premier-league,2012,0.35277930654925704,0.05809011051289317,61,7
+Liverpool,barclays-premier-league,2013,0.3247110621904238,0.21677529045055258,84,2
+Liverpool,barclays-premier-league,2014,0.7622454595487067,0.6942476622272599,62,6
+"Manchester City",barclays-premier-league,2005,0.06329113924050633,0.22733224709549446,43,15
+"Manchester City",barclays-premier-league,2006,0.01926252063841497,0.03275085009917824,42,14
+"Manchester City",barclays-premier-league,2007,0.4449642267473858,0.06304902238594502,55,9
+"Manchester City",barclays-premier-league,2008,0.790588882773803,0.17214508359308586,50,10
+"Manchester City",barclays-premier-league,2009,0.8359933957072097,0.21252479455936527,67,5
+"Manchester City",barclays-premier-league,2010,0.9741331865712713,0.1948143950127515,71,3
+"Manchester City",barclays-premier-league,2011,0.523115024766098,0.19268914706715784,89,1
+"Manchester City",barclays-premier-league,2012,0.3698403962575674,0.2922215925191272,78,2
+"Manchester City",barclays-premier-league,2013,0.6263070996147496,0.06375743836780957,86,1
+"Manchester City",barclays-premier-league,2014,0.6466703357182169,0.2203173703598753,79,2
+"Manchester United",barclays-premier-league,2005,0.15024766097963677,0.06729951827713233,83,2
+"Manchester United",barclays-premier-league,2006,0.14859658778205834,0.13601586851799377,89,1
+"Manchester United",barclays-premier-league,2007,0.46857457347275727,0.27628223292717485,87,1
+"Manchester United",barclays-premier-league,2008,0.2476609796367639,0.042150750920940776,90,1
+"Manchester United",barclays-premier-league,2009,0.15134837644468904,0.8884953244545197,85,2
+"Manchester United",barclays-premier-league,2010,0.1309851403412218,0.1239727968262964,80,1
+"Manchester United",barclays-premier-league,2011,0.3258117776554761,0.09351090960612071,89,2
+"Manchester United",barclays-premier-league,2012,0.28893780957622456,0.05738169453102862,89,1
+"Manchester United",barclays-premier-league,2013,0.5228398458998349,0,64,7
+"Manchester United",barclays-premier-league,2014,1,0.21606687446868802,70,4
+Middlesbrough,barclays-premier-league,2005,0.06857457347275729,0,45,14
+Middlesbrough,barclays-premier-league,2006,0.12323979086406164,0.03187871918390479,46,12
+Middlesbrough,barclays-premier-league,2007,0.22619702806824435,0.21769623122697648,42,13
+Middlesbrough,barclays-premier-league,2008,0.07154650522839846,0.07013318220459054,32,19
+Middlesbrough,english-league-championship,2009,0.029834892680242156,0.3301218475488807,62,11
+Middlesbrough,english-league-championship,2010,0.024243258117776556,0.047818078775857184,62,12
+Middlesbrough,english-league-championship,2011,0.009906439185470555,0.014168319637291017,70,7
+Middlesbrough,english-league-championship,2012,0,0.022315103428733354,59,16
+Middlesbrough,english-league-championship,2013,0.012217941662080352,0,64,12
+Middlesbrough,english-league-championship,2014,0.043478260869565216,0.013459903655426467,85,4
+Millwall,english-league-championship,2005,0.0011557512383048982,0.024219963162368942,40,23
+Millwall,english-league-one,2006,0.00015685195376995048,0.0052431992065741,66,10
+Millwall,english-league-one,2007,0.002862465602641717,0.006517427033153868,52,17
+Millwall,english-league-one,2008,0,0.00019835647492207425,82,5
+Millwall,english-league-one,2009,0.0008050632911392405,0,85,3
+Millwall,english-league-championship,2010,0.0001100715465052284,0,67,9
+Millwall,english-league-championship,2011,0.002201430930104568,0.024475772173420233,57,16
+Millwall,english-league-championship,2012,0.004127682993946065,0.017710399546613773,56,20
+Millwall,english-league-championship,2013,0,0,48,19
+Millwall,english-league-championship,2014,0.001717116125481563,0,41,22
+"Milton Keynes Dons",english-league-one,2005,0.0013263621353880022,0,50,22
+"Milton Keynes Dons",english-league-two,2006,0,0.0026132757155001417,84,4
+"Milton Keynes Dons",english-league-two,2007,0.00007705008255365987,0.015603074525361292,97,1
+"Milton Keynes Dons",english-league-one,2008,0,0.00920940776423916,87,3
+"Milton Keynes Dons",english-league-one,2009,0,0,60,12
+"Milton Keynes Dons",english-league-one,2010,0,0,77,5
+"Milton Keynes Dons",english-league-one,2011,0.0006053935057787562,0.014168319637291017,80,5
+"Milton Keynes Dons",english-league-one,2012,0,0,70,8
+"Milton Keynes Dons",english-league-one,2013,0,0,60,10
+"Milton Keynes Dons",english-league-one,2014,0,0.046047038821195804,91,2
+"Newcastle United",barclays-premier-league,2005,0.317831590533847,0.1941768206290734,58,7
+"Newcastle United",barclays-premier-league,2006,0.12107870115575124,0.06005794842731652,43,13
+"Newcastle United",barclays-premier-league,2007,0.18145294441386903,0.17024652876168886,43,12
+"Newcastle United",barclays-premier-league,2008,0.21849201981287836,0.09917823746103713,34,18
+"Newcastle United",english-league-championship,2009,0,0.19304335505809012,102,1
+"Newcastle United",barclays-premier-league,2010,0.06879471656576774,0.29045055256446584,46,12
+"Newcastle United",barclays-premier-league,2011,0.14474408365437536,0.08890620572400114,65,5
+"Newcastle United",barclays-premier-league,2012,0.12080352228948817,0.08926041371493341,41,16
+"Newcastle United",barclays-premier-league,2013,0,0.17710399546613773,49,10
+"Newcastle United",barclays-premier-league,2014,0.18172812328013208,0.18666761122130915,39,15
+"Northampton Town",english-league-two,2005,0,0,83,2
+"Northampton Town",english-league-one,2006,0,0.000793425899688297,59,14
+"Northampton Town",english-league-one,2007,0,0.0026132757155001417,66,9
+"Northampton Town",english-league-one,2008,0,0.0019835647492207425,49,21
+"Northampton Town",english-league-two,2009,0,0,67,11
+"Northampton Town",english-league-two,2010,0,0,52,16
+"Northampton Town",english-league-two,2011,0,0,48,20
+"Northampton Town",english-league-two,2012,0,0,73,6
+"Northampton Town",english-league-two,2013,0,0,53,21
+"Northampton Town",english-league-two,2014,0,0,61,12
+"Norwich City",english-league-championship,2005,0.03502476609796368,0.07686313403230377,62,9
+"Norwich City",english-league-championship,2006,0.0092484314804623,0.027628223292717483,57,16
+"Norwich City",english-league-championship,2007,0.01494210236653825,0.06666506092377444,55,17
+"Norwich City",english-league-championship,2008,0.001926252063841497,0,46,22
+"Norwich City",english-league-one,2009,0,0,95,1
+"Norwich City",english-league-championship,2010,0.009246009906439185,0,84,2
+"Norwich City",barclays-premier-league,2011,0.06329113924050633,0,47,12
+"Norwich City",barclays-premier-league,2012,0.05035773252614199,0,44,11
+"Norwich City",barclays-premier-league,2013,0.11997798569069895,0.0029753471238311135,33,18
+"Norwich City",english-league-championship,2014,0.07539900935608146,0.14203740436384246,86,3
+"Nottingham Forest",english-league-one,2005,0.012414859658778206,0.0053131198639841315,69,7
+"Nottingham Forest",english-league-one,2006,0.005051073197578426,0,82,4
+"Nottingham Forest",english-league-one,2007,0.011711612548156301,0,82,2
+"Nottingham Forest",english-league-championship,2008,0.028673637864612,0.01018702181921224,53,19
+"Nottingham Forest",english-league-championship,2009,0.03112272977435333,0,79,3
+"Nottingham Forest",english-league-championship,2010,0,0,75,6
+"Nottingham Forest",english-league-championship,2011,0.007705008255365988,0.02089827146500425,50,19
+"Nottingham Forest",english-league-championship,2012,0.020638414969730325,0.020544063474071974,67,8
+"Nottingham Forest",english-league-championship,2013,0.03054485415520088,0,65,11
+"Nottingham Forest",english-league-championship,2014,0.05778756191524491,0.0053131198639841315,59,14
+"Notts County",english-league-two,2005,0,0,52,21
+"Notts County",english-league-two,2006,0,0.0031359450269198073,62,13
+"Notts County",english-league-two,2007,0,0.0005313119863984132,48,21
+"Notts County",english-league-two,2008,0,0,47,19
+"Notts County",english-league-two,2009,0.009631260319207484,0.00021252479455936526,93,1
+"Notts County",english-league-one,2010,0,0.0029186738452819496,50,19
+"Notts County",english-league-one,2011,0,0,73,7
+"Notts County",english-league-one,2012,0,0,65,12
+"Notts County",english-league-one,2013,0,0,50,20
+"Notts County",english-league-one,2014,0,0,50,21
+"Oldham Athletic",english-league-one,2005,0.0011557512383048982,0,65,10
+"Oldham Athletic",english-league-one,2006,0,0.0014168319637291016,75,6
+"Oldham Athletic",english-league-one,2007,0,0.007706007367526212,67,8
+"Oldham Athletic",english-league-one,2008,0.00023115024766097965,0,65,10
+"Oldham Athletic",english-league-one,2009,0,0,52,16
+"Oldham Athletic",english-league-one,2010,0,0,56,17
+"Oldham Athletic",english-league-one,2011,0,0.0029611788041938227,54,16
+"Oldham Athletic",english-league-one,2012,0,0,51,19
+"Oldham Athletic",english-league-one,2013,0,0,56,15
+"Oldham Athletic",english-league-one,2014,0,0,57,15
+"Peterborough United",english-league-two,2005,0,0.001859591952394446,62,9
+"Peterborough United",english-league-two,2006,0.006582333516785911,0.0023519410597903087,65,10
+"Peterborough United",english-league-two,2007,0.004673747936158503,0,92,2
+"Peterborough United",english-league-one,2008,0.0013483764446890478,0,89,2
+"Peterborough United",english-league-championship,2009,0.0045844799119427624,0,34,24
+"Peterborough United",english-league-one,2010,0,0.012326438084443185,79,4
+"Peterborough United",english-league-championship,2011,0.0006329113924050633,0.01962312269764806,50,18
+"Peterborough United",english-league-championship,2012,0.00919097413318657,0.015939359591952394,54,22
+"Peterborough United",english-league-one,2013,0,0.051147633890620575,74,6
+"Peterborough United",english-league-one,2014,0,0.049773306885803344,63,9
+"Plymouth Argyle",english-league-championship,2005,0,0.00445983281382828,56,14
+"Plymouth Argyle",english-league-championship,2006,0.008215024766097964,0,67,11
+"Plymouth Argyle",english-league-championship,2007,0.009552779306549257,0.031834655709832814,64,10
+"Plymouth Argyle",english-league-championship,2008,0.0007705008255365987,0.019835647492207426,51,21
+"Plymouth Argyle",english-league-championship,2009,0.001100715465052284,0,41,23
+"Plymouth Argyle",english-league-one,2010,0,0.002266931141966563,42,23
+"Plymouth Argyle",english-league-two,2011,0,0.0021252479455936527,46,21
+"Plymouth Argyle",english-league-two,2012,0,0,52,21
+"Plymouth Argyle",english-league-two,2013,0,0,60,10
+"Plymouth Argyle",english-league-two,2014,0,0,71,7
+"Port Vale",english-league-one,2005,0.0001624105668684645,0.0025945026919807312,60,13
+"Port Vale",english-league-one,2006,0.00023115024766097965,0.002194672711816379,60,12
+"Port Vale",english-league-one,2007,0,0.0031359450269198073,38,23
+"Port Vale",english-league-two,2008,0,0,48,18
+"Port Vale",english-league-two,2009,0,0,68,10
+"Port Vale",english-league-two,2010,0,0,65,11
+"Port Vale",english-league-two,2011,0,0,59,12
+"Port Vale",english-league-two,2012,0,0,78,3
+"Port Vale",english-league-one,2013,0,0,61,9
+"Port Vale",english-league-one,2014,0,0,54,18
+Portsmouth,barclays-premier-league,2005,0.11998530544854155,0.08697789742136583,38,17
+Portsmouth,barclays-premier-league,2006,0.044854155200880576,0.04682629640124681,54,9
+Portsmouth,barclays-premier-league,2007,0.3131535498073748,0.15850807594219327,57,8
+Portsmouth,barclays-premier-league,2008,0.14006604292790314,0.3641258146783791,41,14
+Portsmouth,barclays-premier-league,2009,0.04402861860209136,0.35137432700481724,19,20
+Portsmouth,english-league-championship,2010,0,0.10803343723434401,58,16
+Portsmouth,english-league-championship,2011,0.019977985690698953,0.006127798243128365,40,22
+Portsmouth,english-league-one,2012,0,0.004250495891187305,32,24
+Portsmouth,english-league-two,2013,0,0,59,13
+Portsmouth,english-league-two,2014,0,0,57,16
+"Preston North End",english-league-championship,2005,0.004449312052834342,0.016824879569283083,80,4
+"Preston North End",english-league-championship,2006,0.013258282883874518,0.04152259846982148,74,7
+"Preston North End",english-league-championship,2007,0.0281220693450743,0.0779037262680646,56,15
+"Preston North End",english-league-championship,2008,0,0,74,6
+"Preston North End",english-league-championship,2009,0.0046890478811227295,0.00807594219325588,54,17
+"Preston North End",english-league-championship,2010,0.0024766097963676388,0,42,22
+"Preston North End",english-league-one,2011,0,0.0015585151601020118,54,15
+"Preston North End",english-league-one,2012,0,0.00230235194105979,59,14
+"Preston North End",english-league-one,2013,0,0,85,5
+"Preston North End",english-league-one,2014,0,0,89,3
+"Queens Park Rangers",english-league-championship,2005,0.0012383048981838194,0,50,21
+"Queens Park Rangers",english-league-championship,2006,0.004669510181618051,0.01700198356474922,53,18
+"Queens Park Rangers",english-league-championship,2007,0.027390643918547057,0.026211391328988382,58,14
+"Queens Park Rangers",english-league-championship,2008,0.008695652173913044,0,61,11
+"Queens Park Rangers",english-league-championship,2009,0.02201430930104568,0,57,13
+"Queens Park Rangers",english-league-championship,2010,0.02538249862410567,0,88,1
+"Queens Park Rangers",barclays-premier-league,2011,0.16125481563015961,0.014168319637291017,37,17
+"Queens Park Rangers",barclays-premier-league,2012,0.21959273527793066,0.004498441484839898,25,20
+"Queens Park Rangers",english-league-championship,2013,0.0759493670886076,0.09032303768773023,80,4
+"Queens Park Rangers",barclays-premier-league,2014,0.15850302696752888,0.17533295551147635,30,20
+Reading,english-league-championship,2005,0.010830434782608696,0.0047038821195806175,106,1
+Reading,barclays-premier-league,2006,0.04478569069895432,0,55,8
+Reading,barclays-premier-league,2007,0.03632361034672537,0.033260909606120714,36,18
+Reading,english-league-championship,2008,0.008200330214639515,0.10555398129781808,77,4
+Reading,english-league-championship,2009,0.01601541001651073,0.09988665344290167,63,9
+Reading,english-league-championship,2010,0.0031645569620253164,0.05667327854916407,77,5
+Reading,english-league-championship,2011,0.001926252063841497,0.049589118730518564,89,1
+Reading,barclays-premier-league,2012,0.04793615850302697,0.0062765655993199205,28,19
+Reading,english-league-championship,2013,0.01100715465052284,0.024794559365259282,71,7
+Reading,english-league-championship,2014,0.012933406714364337,0.03542079909322755,50,19
+Rochdale,english-league-two,2005,0.00019262520638414969,0.0031359450269198073,56,14
+Rochdale,english-league-two,2006,0.00027385800770500827,0.002090606404080476,66,9
+Rochdale,english-league-two,2007,0,0.0029753471238311135,80,5
+Rochdale,english-league-two,2008,0,0.0009917823746103712,70,6
+Rochdale,english-league-two,2009,0,0,82,3
+Rochdale,english-league-one,2010,0,0.0021252479455936527,68,9
+Rochdale,english-league-one,2011,0,0,38,24
+Rochdale,english-league-two,2012,0,0,61,12
+Rochdale,english-league-two,2013,0,0,81,3
+Rochdale,english-league-one,2014,0,0,63,8
+"Rotherham United",english-league-one,2005,0.00023115024766097965,0.003258713516576934,52,20
+"Rotherham United",english-league-one,2006,0.0005278481012658228,0,38,23
+"Rotherham United",english-league-two,2007,0,0,64,9
+"Rotherham United",english-league-two,2008,0,0.0014876735619155567,58,14
+"Rotherham United",english-league-two,2009,0.0009411117226197028,0,73,5
+"Rotherham United",english-league-two,2010,0.0003302146395156852,0,66,9
+"Rotherham United",english-league-two,2011,0,0.002479455936525928,67,10
+"Rotherham United",english-league-two,2012,0,0,79,2
+"Rotherham United",english-league-one,2013,0.0003302146395156852,0,86,4
+"Rotherham United",english-league-championship,2014,0,0,46,21
+"Scunthorpe United",english-league-one,2005,0.0008121078701155751,0.0015679370926608104,60,12
+"Scunthorpe United",english-league-one,2006,0.000649642267473858,0.006375743836780958,91,1
+"Scunthorpe United",english-league-championship,2007,0.004100990643918547,0.021420940776423918,46,23
+"Scunthorpe United",english-league-one,2008,0.002504127682993946,0.009917823746103713,76,6
+"Scunthorpe United",english-league-championship,2009,0.004347826086956522,0.000850099178237461,52,20
+"Scunthorpe United",english-league-championship,2010,0.000825536598789213,0.01700198356474922,42,24
+"Scunthorpe United",english-league-one,2011,0,0,52,18
+"Scunthorpe United",english-league-one,2012,0,0,48,21
+"Scunthorpe United",english-league-two,2013,0,0,81,2
+"Scunthorpe United",english-league-one,2014,0,0,56,16
+"Sheffield United",english-league-championship,2005,0.02607473858007705,0.01427536129215075,90,2
+"Sheffield United",barclays-premier-league,2006,0.09510181618051734,0.021110796259563615,38,18
+"Sheffield United",english-league-championship,2007,0.05792828838745184,0.10792951260980448,66,9
+"Sheffield United",english-league-championship,2008,0.022223500275178866,0.06807877585718333,80,3
+"Sheffield United",english-league-championship,2009,0.01926252063841497,0.05468971379994333,65,8
+"Sheffield United",english-league-championship,2010,0.0023390203632361033,0.015280532728818363,42,23
+"Sheffield United",english-league-one,2011,0,0.0019127231510342874,90,3
+"Sheffield United",english-league-one,2012,0,0.03542079909322755,75,5
+"Sheffield United",english-league-one,2013,0,0.006375743836780958,67,7
+"Sheffield United",english-league-one,2014,0,0.023023519410597902,71,5
+"Sheffield Wednesday",english-league-championship,2005,0.006363401210787011,0.0007438367809577784,52,19
+"Sheffield Wednesday",english-league-championship,2006,0.014188222344523941,0.032825517143666764,71,9
+"Sheffield Wednesday",english-league-championship,2007,0.030064226747385802,0.036609379427599884,55,16
+"Sheffield Wednesday",english-league-championship,2008,0,0,61,12
+"Sheffield Wednesday",english-league-championship,2009,0,0,47,22
+"Sheffield Wednesday",english-league-one,2010,0.000825536598789213,0,58,15
+"Sheffield Wednesday",english-league-one,2011,0.0009631260319207485,0.0015797676395579484,93,2
+"Sheffield Wednesday",english-league-championship,2012,0.004876169510181618,0,58,18
+"Sheffield Wednesday",english-league-championship,2013,0,0,53,16
+"Sheffield Wednesday",english-league-championship,2014,0.00825536598789213,0.014168319637291017,60,13
+"Shrewsbury Town",english-league-two,2005,0,0,61,10
+"Shrewsbury Town",english-league-two,2006,0,0.006673278549164069,71,7
+"Shrewsbury Town",english-league-two,2007,0.0007815079801871217,0.0027620430716916973,50,18
+"Shrewsbury Town",english-league-two,2008,0.001309851403412218,0,69,7
+"Shrewsbury Town",english-league-two,2009,0,0,63,12
+"Shrewsbury Town",english-league-two,2010,0,0,79,4
+"Shrewsbury Town",english-league-two,2011,0,0,88,2
+"Shrewsbury Town",english-league-one,2012,0,0,55,16
+"Shrewsbury Town",english-league-one,2013,0,0,42,23
+"Shrewsbury Town",english-league-two,2014,0,0,89,2
+Southampton,english-league-championship,2005,0,0.16268397563049022,58,12
+Southampton,english-league-championship,2006,0.03801750137589433,0.023141612354774722,75,6
+Southampton,english-league-championship,2007,0.028013208585580627,0.21613141116463588,54,20
+Southampton,english-league-championship,2008,0.00825536598789213,0.012326438084443185,45,23
+Southampton,english-league-one,2009,0.01414419372592185,0.02147917257013318,73,7
+Southampton,english-league-one,2010,0,0,92,2
+Southampton,english-league-championship,2011,0.012107870115575124,0.0981156134882403,88,2
+Southampton,barclays-premier-league,2012,0.18508530544854154,0,41,14
+Southampton,barclays-premier-league,2013,0.21739130434782608,0.01629356758288467,56,8
+Southampton,barclays-premier-league,2014,0.472757292239956,0.8127656559931992,60,7
+"Southend United ",english-league-one,2005,0,0,82,1
+"Southend United ",english-league-championship,2006,0.0052785360484314805,0.00010449135732502126,42,22
+"Southend United ",english-league-one,2007,0.0030110621904237754,0.01890209691130632,76,6
+"Southend United ",english-league-one,2008,0,0.002826579767639558,71,8
+"Southend United ",english-league-one,2009,0,0.00023654009634457352,43,23
+"Southend United ",english-league-two,2010,0,0,61,13
+"Southend United ",english-league-two,2011,0,0,83,4
+"Southend United ",english-league-two,2012,0,0.004958911873051856,61,11
+"Southend United ",english-league-two,2013,0,0,72,5
+"Southend United ",english-league-two,2014,0.0001651073197578426,0,84,5
+"Stoke City",english-league-championship,2005,0.013312548156301595,0.005588622839331255,58,13
+"Stoke City",english-league-championship,2006,0.010015299944964227,0.011636936809294418,73,8
+"Stoke City",english-league-championship,2007,0.032052889378095764,0.044891399829980166,79,2
+"Stoke City",barclays-premier-league,2008,0.14672537149146944,0.0029045055256446584,45,12
+"Stoke City",barclays-premier-league,2009,0.11887727022564668,0.04250495891187305,47,11
+"Stoke City",barclays-premier-league,2010,0.03935057787561915,0.03187871918390479,46,13
+"Stoke City",barclays-premier-league,2011,0.09906439185470556,0,45,14
+"Stoke City",barclays-premier-league,2012,0.10236653824986242,0.0035420799093227543,42,13
+"Stoke City",barclays-premier-league,2013,0.03274628508530545,0,50,9
+"Stoke City",barclays-premier-league,2014,0,0.03542079909322755,54,9
+Sunderland,barclays-premier-league,2005,0.0341221794166208,0.00230235194105979,15,20
+Sunderland,english-league-championship,2006,0.06907969179966979,0.08001693114196656,88,1
+Sunderland,barclays-premier-league,2007,0.32960924600990643,0.025573816945310288,39,15
+Sunderland,barclays-premier-league,2008,0.082168409466153,0.07686313403230377,36,16
+Sunderland,barclays-premier-league,2009,0.2322509631260319,0.164848398979881,44,13
+Sunderland,barclays-premier-league,2010,0.15624656026417172,0.1948143950127515,47,10
+Sunderland,barclays-premier-league,2011,0.15960374243258119,0.1168886370076509,45,13
+Sunderland,barclays-premier-league,2012,0.22454595487066592,0.13389062057240012,39,17
+Sunderland,barclays-premier-league,2013,0.17611447440836545,0.167186171720034,38,14
+Sunderland,barclays-premier-league,2014,0.12438084755090809,0.014168319637291017,38,16
+"Swansea City",english-league-one,2005,0.005394441386901486,0.0005179229243411731,71,6
+"Swansea City",english-league-one,2006,0.0046505228398459,0.006323816945310286,72,7
+"Swansea City",english-league-one,2007,0.0020363236103467255,0.011256729951827714,92,1
+"Swansea City",english-league-championship,2008,0.0045239405613648875,0.0009917823746103712,68,8
+"Swansea City",english-league-championship,2009,0.006119977985690699,0.017710399546613773,69,7
+"Swansea City",english-league-championship,2010,0.004237754540451293,0,80,3
+"Swansea City",barclays-premier-league,2011,0.05294441386901486,0.0009917823746103712,47,11
+"Swansea City",barclays-premier-league,2012,0.10473307649972483,0.2925758005100595,46,9
+"Swansea City",barclays-premier-league,2013,0.13346175013758943,0.0035420799093227543,42,12
+"Swansea City",barclays-premier-league,2014,0.09135938359933957,0.30816095211107963,56,8
+"Swindon Town",english-league-one,2005,0,0.007839827146500425,48,23
+"Swindon Town",english-league-two,2006,0,0.00019127231510342874,85,3
+"Swindon Town",english-league-one,2007,0.0029433131535498073,0.020402380277699066,61,13
+"Swindon Town",english-league-one,2008,0,0,53,15
+"Swindon Town",english-league-one,2009,0.0006604292790313704,0.014168319637291017,82,5
+"Swindon Town",english-league-one,2010,0,0.00389628790025503,41,24
+"Swindon Town",english-league-two,2011,0.0004953219592735278,0,93,1
+"Swindon Town",english-league-one,2012,0.003577325261419923,0.0038750354207990933,74,6
+"Swindon Town",english-league-one,2013,0,0.005419382261263814,66,8
+"Swindon Town",english-league-one,2014,0,0.007084159818645509,79,4
+"Tottenham Hotspur",barclays-premier-league,2005,0.13434232250963127,0.15514310002833664,65,5
+"Tottenham Hotspur",barclays-premier-league,2006,0.2721518987341772,0.26884386511759706,60,5
+"Tottenham Hotspur",barclays-premier-league,2007,0.4889928453494772,0.16111270898271465,46,11
+"Tottenham Hotspur",barclays-premier-league,2008,0.7583929554210237,0.5415840181354491,51,8
+"Tottenham Hotspur",barclays-premier-league,2009,0.19290038525041278,0.19835647492207426,70,4
+"Tottenham Hotspur",barclays-premier-league,2010,0.13538800220143093,0,62,5
+"Tottenham Hotspur",barclays-premier-league,2011,0.0341221794166208,0.2553839614621706,69,4
+"Tottenham Hotspur",barclays-premier-league,2012,0.4034122179416621,0.49412014735052423,72,5
+"Tottenham Hotspur",barclays-premier-league,2013,0.6604292790313704,0.9436100878435818,69,6
+"Tottenham Hotspur",barclays-premier-league,2014,0.16455696202531644,0.2465287616888637,64,5
+"Tranmere Rovers",english-league-one,2005,0,0.013231652026069709,54,18
+"Tranmere Rovers",english-league-one,2006,0,0,67,9
+"Tranmere Rovers",english-league-one,2007,0,0,65,11
+"Tranmere Rovers",english-league-one,2008,0,0.0032232927174837066,74,7
+"Tranmere Rovers",english-league-one,2009,0,0,51,19
+"Tranmere Rovers",english-league-one,2010,0,0.0004250495891187305,56,18
+"Tranmere Rovers",english-league-one,2011,0,0,56,12
+"Tranmere Rovers",english-league-one,2012,0,0,67,11
+"Tranmere Rovers",english-league-one,2013,0,0,47,21
+"Tranmere Rovers",english-league-two,2014,0,0,39,24
+Walsall,english-league-one,2005,0.00003852504127682994,0.0052265514310002835,47,24
+Walsall,english-league-two,2006,0,0.00019835647492207425,89,1
+Walsall,english-league-one,2007,0,0.01990648909039388,64,12
+Walsall,english-league-one,2008,0,0,61,13
+Walsall,english-league-one,2009,0,0,62,10
+Walsall,english-league-one,2010,0,0.004250495891187305,48,20
+Walsall,english-league-one,2011,0,0,50,19
+Walsall,english-league-one,2012,0,0,68,9
+Walsall,english-league-one,2013,0,0,58,13
+Walsall,english-league-one,2014,0,0,59,14
+Watford,english-league-championship,2005,0.01100715465052284,0.0179780391045622,81,3
+Watford,barclays-premier-league,2006,0.03517517886626307,0.10626239727968263,28,20
+Watford,english-league-championship,2007,0.05516296092460099,0.04770480306035704,70,6
+Watford,english-league-championship,2008,0,0.021110796259563615,58,13
+Watford,english-league-championship,2009,0.0018712162905888828,0.03981297818078776,54,16
+Watford,english-league-championship,2010,0.003302146395156852,0,61,14
+Watford,english-league-championship,2011,0.0014859658778205835,0.0697081326154718,64,11
+Watford,english-league-championship,2012,0,0.022669311419665626,77,3
+Watford,english-league-championship,2013,0,0.0012751487673561916,60,13
+Watford,english-league-championship,2014,0,0,89,2
+"West Bromwich Albion",barclays-premier-league,2005,0.08310401761144744,0.047766151884386515,30,19
+"West Bromwich Albion",english-league-championship,2006,0.015276884975233902,0.028478322470954946,76,4
+"West Bromwich Albion",english-league-championship,2007,0.0941662080352229,0.2080617738736186,81,1
+"West Bromwich Albion",barclays-premier-league,2008,0.17589433131535498,0.0850099178237461,32,20
+"West Bromwich Albion",english-league-championship,2009,0.02449091909741332,0.008288466987815246,91,2
+"West Bromwich Albion",barclays-premier-league,2010,0.04309301045679692,0,47,11
+"West Bromwich Albion",barclays-premier-league,2011,0.03852504127682994,0.03258713516576934,47,10
+"West Bromwich Albion",barclays-premier-league,2012,0,0.017710399546613773,49,8
+"West Bromwich Albion",barclays-premier-league,2013,0.07705008255365987,0.08075942193255879,36,17
+"West Bromwich Albion",barclays-premier-league,2014,0.10071546505228399,0.024794559365259282,44,13
+"West Ham United",barclays-premier-league,2005,0.09312052834342323,0.012751487673561915,55,9
+"West Ham United",barclays-premier-league,2006,0.3384700055035773,0.19504108812694815,41,15
+"West Ham United",barclays-premier-league,2007,0.24545954870665934,0.20954944743553414,49,10
+"West Ham United",barclays-premier-league,2008,0.11447440836543754,0.21960895437801076,51,9
+"West Ham United",barclays-premier-league,2009,0.07429829389102917,0.09351090960612071,35,17
+"West Ham United",barclays-premier-league,2010,0.04402861860209136,0.03506659110229527,33,20
+"West Ham United",english-league-championship,2011,0.06849201981287838,0.05454803060357041,86,3
+"West Ham United",barclays-premier-league,2012,0.11832691249312052,0.019127231510342874,46,10
+"West Ham United",barclays-premier-league,2013,0.12107870115575124,0,40,13
+"West Ham United",barclays-premier-league,2014,0.13924050632911392,0.03117030320204024,47,12
+"Wigan Athletic",barclays-premier-league,2005,0.04939460649422124,0.03725644658543497,51,10
+"Wigan Athletic",barclays-premier-league,2006,0.13747936158503027,0.14611122130915274,38,17
+"Wigan Athletic",barclays-premier-league,2007,0.07838563566318106,0.10909606120714083,40,14
+"Wigan Athletic",barclays-premier-league,2008,0.12328013208585581,0.13955794842731653,45,11
+"Wigan Athletic",barclays-premier-league,2009,0.0682443588332416,0.18418815528478322,36,16
+"Wigan Athletic",barclays-premier-league,2010,0.08695652173913043,0.007084159818645509,42,16
+"Wigan Athletic",barclays-premier-league,2011,0.04298293891029169,0.0765089260413715,43,15
+"Wigan Athletic",barclays-premier-league,2012,0.05228398458998349,0.08054689713799944,36,18
+"Wigan Athletic",english-league-championship,2013,0.01712713263621354,0.15797676395579485,73,5
+"Wigan Athletic",english-league-championship,2014,0.020913593835993397,0.12432700481722868,39,23
+"Wolverhampton Wanderers",english-league-championship,2005,0.003302146395156852,0.032077075658826865,67,7
+"Wolverhampton Wanderers",english-league-championship,2006,0.009033847000550358,0.06910045338622839,76,5
+"Wolverhampton Wanderers",english-league-championship,2007,0.0369620253164557,0,70,7
+"Wolverhampton Wanderers",english-league-championship,2008,0.030764997248211336,0.03131198639841315,90,1
+"Wolverhampton Wanderers",barclays-premier-league,2009,0.07925151348376444,0,38,15
+"Wolverhampton Wanderers",barclays-premier-league,2010,0.09658778205833791,0.034924907905922356,40,17
+"Wolverhampton Wanderers",barclays-premier-league,2011,0.07402311502476609,0.03329555114763389,25,20
+"Wolverhampton Wanderers",english-league-championship,2012,0.05778756191524491,0.22279682629640124,51,23
+"Wolverhampton Wanderers",english-league-one,2013,0.011750137589433132,0,103,1
+"Wolverhampton Wanderers",english-league-championship,2014,0,0,78,7
+"Wycombe Wanderers",english-league-two,2005,0.000649642267473858,0.007084159818645509,71,6
+"Wycombe Wanderers",english-league-two,2006,0.000616400660429279,0.00452359025219609,62,12
+"Wycombe Wanderers",english-league-two,2007,0.0007705008255365987,0,78,7
+"Wycombe Wanderers",english-league-two,2008,0.0005393505778756192,0.0014876735619155567,78,3
+"Wycombe Wanderers",english-league-one,2009,0,0,45,22
+"Wycombe Wanderers",english-league-two,2010,0,0.0035420799093227543,80,3
+"Wycombe Wanderers",english-league-one,2011,0,0,43,21
+"Wycombe Wanderers",english-league-two,2012,0,0.00389628790025503,60,15
+"Wycombe Wanderers",english-league-two,2013,0,0,50,22
+"Wycombe Wanderers",english-league-two,2014,0,0,84,4
+"Yeovil Town",english-league-one,2005,0.00007705008255365987,0.0022288892037404364,56,15
+"Yeovil Town",english-league-one,2006,0,0.0025786341739869652,79,5
+"Yeovil Town",english-league-one,2007,0,0.012170586568432984,52,18
+"Yeovil Town",english-league-one,2008,0,0,51,17
+"Yeovil Town",english-league-one,2009,0,0,53,15
+"Yeovil Town",english-league-one,2010,0,0,59,14
+"Yeovil Town",english-league-one,2011,0,0,54,17
+"Yeovil Town",english-league-one,2012,0,0,77,4
+"Yeovil Town",english-league-championship,2013,0,0,37,24
+"Yeovil Town",english-league-one,2014,0,0,40,24
